@@ -1,6 +1,12 @@
 # Feedback-in-GUs
 This git contains all the scripts and data used to build GENSOR Units from a regulatory network and calculate their feedback.
 
+## Dependencies
+- [pathway tools](https://biocyc.org/download.shtml)
+- python3
+- perl
+- perlcyc - perl module to remotely access pathway tools
+
 ## Usage 
 Clone this repository locally
 ```
@@ -8,7 +14,7 @@ git clone https://github.com/georgette-femerling/Feedback-in-GUs.git
 cd Feedback-in-GUs
 ```
 
-## General use:
+### General use:
 ```
 ./Gensor-Units command [options]
 ```
