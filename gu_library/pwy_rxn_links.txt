@@ -1,4 +1,4 @@
-# From ../bin/create_pwy_rxn_links.pl on Wed Oct  6 10:43:52 2021
+# From bin/create_pwy_rxn_links.pl on Thu Jun 25 18:20:00 2020
 SALVADEHYPOX-PWY	AMP-DEPHOSPHORYLATION-RXN
 SALVADEHYPOX-PWY	RXN-7682
 SALVADEHYPOX-PWY	RXN0-901
