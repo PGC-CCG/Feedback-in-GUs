@@ -1,0 +1,155 @@
+Cra	D-fructofuranose 1-phosphate
+PrpR	(2)-2-methylcitrate
+LsrR	(2R,4S)-2-methyl-2,3,3,4-tetrahydroxytetrahydrofuran
+LsrR	(4S)-4-hydroxy-5-phosphooxypentane-2,3-dione
+MetJ	methyl-5'-thioadenosine
+MarR	2,4-dinitrophenol
+MprA	2,4-dinitrophenol
+IlvY	2-acetolactate
+YebK	2-dehydro-3-deoxy-D-gluconate 6-phosphate
+MhpR	3-(2,3-dihydroxyphenyl)propionate [DHPP]
+MhpR	3-(3-hydroxyphenyl)propanoate
+HcaR	3-phenylpropanoate
+IdnR	5-ketogluconate
+CsqR	6-sulfo-D-quinovose
+MalT	ADP
+DnaA	ATP
+MalT	ATP
+NrdR	ATP
+GlcC	Acetate
+CueR	Ag
+IlvY	Alfa-acetohydroxybutirate
+CueR	Au
+MarR	Benzoate
+MprA	Carbonyl cyanide p-(trifluoro-methoxy)phenylhydrazone
+MntR	Cd
+NikR	Cd
+ZntR	Cd
+NikR	Co
+RcnR	Co
+ComR	Cu
+CueR	Cu
+NikR	Cu
+AlsR	D-allose
+Cra	D-fructose 1,6-bisphosphate
+UxuR	D-fructuronate
+AraC	D-fucose
+DgoR	D-galactonate
+GalR	D-galactose
+GalS	D-galactose
+ExuR	D-galacturonate
+UxuR	D-galacturonate
+GntR	D-gluconate
+ExuR	D-glucuronate
+UxuR	D-glucuronate
+RbsR	D-ribose
+DsdC	D-serine
+SrlR	D-sorbitol
+TreR	D-trehalose 6-phosphate
+XynR	D-xylonate
+XylR	D-xylose
+DeoR	Deoxyribose-5-phosphate
+Fur	Fe
+NfeR	Fe
+PurR	Guanine
+ZntR	Hg
+IdnR	Idonate
+AlaS	L-alanine
+ArgP	L-arginine
+ArgR	L-arginine
+UlaR	L-ascorbate 6-phosphate
+AsnC	L-asparagine
+CaiF	L-carnitine
+FucR	L-fuculose 1-phosphate
+MetR	L-homocysteine
+LldR	L-lactate
+Lrp	L-leucine
+ArgP	L-lysine
+TyrR	L-phenylalanine
+RhaR	L-rhamnopyranose
+RhaS	L-rhamnopyranose
+RhaR	L-rhamnose
+RhaS	L-rhamnose
+Dan	L-tartrate
+TrpR	L-tryptophan
+TyrR	L-tryptophan
+TyrR	L-tyrosine
+MarR	Menadione
+HypT	Met-oxidized
+Ada	Methyl
+Fur	Mn
+MntR	Mn
+MurR	N-acetyl-D-muramate 6-phosphate
+CysB	N-acetyl-L-serine
+NhaR	Na
+NfeR	Ni
+NikR	Ni
+RcnR	Ni
+MarR	Paraquat
+MarR	Phenazine methosulfate
+MarR	Plumbagin
+AcrR	Proflavin
+GcvA	Purine
+MetJ	S-adenosyl-L-methionine
+MarR	Sodium salicylate
+CysB	Sulphide
+Cbl	Thiosulphate
+CysB	Thiosulphate
+TreR	Trehalose
+NikR	Zn
+NrdR	Zn
+ZntR	Zn
+Zur	Zn
+FNR	[2Fe-2S] oxidized
+NsrR	[2Fe-2S] oxidized
+SoxR	[2Fe-2S] oxydized
+NsrR	[2Fe-2S] reduced
+SoxR	[2Fe-2S] reduced
+FNR	[4Fe-4S] reduced
+IscR	a [2Fe-2S] iron-sulfur cluster
+NagC	acetyl-D-glucosamine 6-phosphate
+CysB	acetyl-L-serine
+NanR	acetylneuraminate
+MetJ	adenine
+Cbl	adenosine 5'-phosphosulfate
+AllR	allantoin
+AllS	allantoin
+LacI	allolactose
+FadR	an acyl-CoA
+ArsR	antimonite
+AraC	arabinose
+ArsR	arsenite
+LsrR	autoinducer 2
+BirA	biotinyl-5'-adenylate
+MprA	carbonylcyanide -chlorophenylhydrazone
+BetI	choline
+CynR	cyanate
+CRP	cyclic-AMP
+CytR	cytidine
+NrdR	dATP
+AcrR	ethidium
+FhlA	formate
+GlaR	glutarate
+GlpR	glycerol
+GlpR	glycerol 3-phosphate
+GcvA	glycine
+GlcC	glycolate
+AllR	glyoxylate
+IclR	glyoxylate
+PurR	hypoxanthine
+AidB	isovaleryl-CoA
+MalT	maltotriose
+MelR	melibiose
+NemR	methylglyoxal
+ModE	molybdate
+ChbR	monoacetylchitobiose 6'-phosphate
+NsrR	nitric oxide
+PaaX	phenylacetyl-CoA
+PuuR	putrescine
+IclR	pyruvate
+PdhR	pyruvate
+PyrR	pyruvate
+MarR	salicylate
+RutR	thymine
+RutR	uracil
+XapR	xanthosine
