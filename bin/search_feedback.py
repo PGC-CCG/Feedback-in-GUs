@@ -6,9 +6,12 @@ import re
 from collections import defaultdict
 from datetime import date
 import os
+import sys
 
-conformationf = "/home/gfemer/GUs/gu_library/Conformaciones_TF_efector.tab.txt"
-GU_dir = "/home/gfemer/GUs/GUs_Regulon10.7_40821"
+# conformationf = "/home/gfemer/GUs/gu_library/Conformaciones_TF_efector.tab.txt"
+# GU_dir = "/home/gfemer/GUs/GUs_Regulon10.7_40821"
+conformationf = sys.argv[1]
+GU_dir = sys.argv[2]
 
 # Read TF conformation table
 conformation_dic = defaultdict(set)
