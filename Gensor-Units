@@ -56,7 +56,6 @@ function Gensor-units
 {  
    Ntw=$1 
    outdir=$2
-   echo "$Ntw $outdir"
    ./bin/pipeline_permissive_connectivity.sh $Ntw $outdir
 }
 

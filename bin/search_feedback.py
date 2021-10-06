@@ -101,4 +101,5 @@ with open(os.path.join(outputdir+"TFs_feedback_possible_matches.txt"),"w") as pm
         for syn in matches[TF]:
             pm.write(str(TF)+"\t"+str(syn)+"\t"+",".join(matches[TF][syn])+"\n")
 
+print("Percentage of feedback in the network is: ")
 print("Done")
