@@ -1,0 +1,157 @@
+#!/bin/bash
+
+###### Functions ######
+function usage()
+{
+   # Display Help
+   echo
+   echo "Syntax: Gensor-Units command [options]"
+   echo "Commands:"
+   echo "   Update   Updates gu-library files"
+   echo "   Gensor   Builds Gensor Units of the TFs in the regulatory network"
+   echo "   Feedback  Searches for feedback within each GENSOR unit"
+   echo
+   echo "Options:"
+   echo "-h | --help     Print usage."
+   echo
+}
+
+function GU-help()
+{
+   # Display Help
+   echo
+   echo "Syntax: Gensor-Units Gensor -n [path to Network] -o [name of output directory]"
+   echo "Commands:"
+   echo "   Gensor   Builds Gensor Units of the TFs in the regulatory network"
+   echo
+   echo "Options:"
+   echo "-h     Print this help message."
+   echo "-n     Path to Network."
+   echo "-o     Name of output directory."
+   echo
+}
+
+function Feedback-help()
+{
+   # Display Help
+   echo
+   echo "Syntax: Gensor-Units Feedback -gu [path to GU directory]"
+   echo "Commands:"
+   echo "   Feedback   Searches for feedback in the Gensor Units provided"
+   echo
+   echo "Options:"
+   echo "-h     Print this help message."
+   echo "-g     Path to GU directory."
+   echo
+}
+
+function update 
+{
+   echo "Updating GU library files"
+   ./bin/update_library.sh
+}
+
+function Gensor-units
+{  
+   Ntw=$1 
+   outdir=$2
+   echo "$Ntw $outdir"
+   ./bin/pipeline_permissive_connectivity $Ntw $outdir
+}
+
+function feedback
+{
+   echo "Calculating feedback"
+   GUdir=$1
+   ./bin/search_feedback.py $GUdir
+}
+
+############################################################
+# Main program                                             #
+############################################################
+
+# Process options
+#
+if (( $# < 1 ))
+   then
+   echo "No commands or arguments provided"
+   usage
+   exit 0
+fi;
+
+while (( $# ))
+do
+    case "$1" in
+
+         --help | -h)
+               usage
+               exit 0
+         ;;
+
+         Gensor)
+            shift
+            while getopts ":n:o:h" option; do
+               case $option in
+                  h) # display Help
+                     GU-help
+                     exit;;
+                  n) # Enter a name
+                     Ntw=$OPTARG;;
+                  o) #output name
+                     out=$OPTARG;;
+                  \?) # Invalid option
+                     echo "Error: Invalid option"
+                     GU-help
+                     exit;;
+               esac
+            done
+            
+            if [ "$*" == "" ]; then
+               echo "No arguments provided"
+               GU-help
+               exit 1
+            fi
+
+            Gensor-units $Ntw $out
+            exit 0
+         ;;
+
+         Update)
+            shift
+            update
+            exit 0
+         ;;
+
+         Feedback)
+            shift
+            while getopts ":g:o:h" option; do
+               case $option in
+                  h) # display Help
+                     Feedback-help
+                     exit;;
+                  g) # Enter a name
+                     gu=$OPTARG;;
+                  \?) # Invalid option
+                     echo "Error: Invalid option"
+                     Feedback-help
+                     exit;;
+               esac
+            done
+            
+            if [ "$*" == "" ]; then
+               echo "No arguments provided"
+               Feedback-help
+               exit 1
+            fi
+
+            feedback $gu
+            exit 0
+         ;;
+
+         *)
+            echo "Command not recognized."
+            usage
+            exit 1
+         ;;
+    esac
+done
