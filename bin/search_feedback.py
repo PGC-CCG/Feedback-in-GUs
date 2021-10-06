@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 
 # Import Modules
@@ -8,10 +7,11 @@ from datetime import date
 import os
 import sys
 
-# conformationf = "/home/gfemer/GUs/gu_library/Conformaciones_TF_efector.tab.txt"
+conformationf = "./gu_library/Conformaciones_TF_efector.tab.txt"
 # GU_dir = "/home/gfemer/GUs/GUs_Regulon10.7_40821"
-conformationf = sys.argv[1]
-GU_dir = sys.argv[2]
+# conformationf = sys.argv[1]
+GU_dir = sys.argv[1]
+outputdir = sys.argv[2]
 
 # Read TF conformation table
 conformation_dic = defaultdict(set)
@@ -43,7 +43,7 @@ def feedback(dir,conf_dic):
     for TF in os.listdir(os.path.join(dir+"/GUs_secondary_reactions")):
         if TF not in conf_dic.keys():
             continue
-        with open(os.path.join(dir+"/GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
+        with open(os.path.join(dir+"GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
             found = [] #Flag and to not repeat same object
             matches = []
             for line in rp:
@@ -55,8 +55,8 @@ def feedback(dir,conf_dic):
                     feedback_dic[TF].append(obj)
         # If no feedback found, search for closest compound           
         if len(found) == 0:
-            with open(os.path.join(dir+"/GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
-                print(TF)
+            with open(os.path.join(dir+"GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
+                # print(TF)
                 for line in rp:
                     obj = line.strip().split("\t")[1]
                     obj = re.sub(r"[\"&;|]|(</?.>)|_Ext",'',obj)
@@ -68,7 +68,7 @@ def feedback(dir,conf_dic):
                         for effector in matches:
                             matches_dic[TF][effector].add(obj)
                             if obj not in feedback_dic[TF]:
-                                print(effector,obj)
+                                # print(effector,obj)
                                 feedback_dic[TF].append(obj)
                     # If an object contains the effector as a string
                     # matches2 = [cmp for cmp in conf_dic[TF] if cmp in obj]
@@ -80,18 +80,21 @@ def feedback(dir,conf_dic):
 
 feed_dic,matches = feedback(GU_dir,conformation_dic)
 
-with open("TFs_with_feedback.txt","w") as fd:
+with open(os.path.join(outputdir+"TFs_with_feedback.txt"),"w") as fd:
     fd.write("# TF\tEfector(s)\tNo. of Efectors\tMatches\tNo. of matches\n")
     for TF in feed_dic:
         fd.write(str(TF)+"\t"+",".join(conformation_dic2[TF])+"\t"+str(len(conformation_dic2[TF]))+"\t"+",".join(feed_dic[TF])+"\t"+str(len(feed_dic[TF]))+"\n")
 
-with open("TFs_no_feedback.txt","w") as nf:
+with open(os.path.join(outputdir+"TFs_no_feedback.txt"),"w") as nf:
+    nf.write("# TF\tEfector\n")
     nf_set=set(conformation_dic.keys()).difference(set(feed_dic.keys()))
     for TF in nf_set:
         nf.write(str(TF)+"\t"+list(conformation_dic[TF])[0]+"\n")
 
-with open("TFs_no_feedback_possible_matches.txt","w") as pm:
+with open(os.path.join(outputdir+"TFs_feedback_possible_matches.txt"),"w") as pm:
     pm.write("# TF\tEf.synonym\tmatch\n")
     for TF in matches:
         for syn in matches[TF]:
             pm.write(str(TF)+"\t"+str(syn)+"\t"+",".join(matches[TF][syn])+"\n")
+
+print("Done")

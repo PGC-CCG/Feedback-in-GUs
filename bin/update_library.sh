@@ -18,6 +18,8 @@ perl ../bin/gene_rxns_flatfiles.pl gene_links.txt gu_compound_dictionary.txt rxn
 echo -e "............. Updating pathway-reaction links file ...........\n"
 perl ../bin/create_pwy_rxn_links.pl ./
 
+echo -e "............. Downloading TF Conformation from Regulon DB ........... \n"
+
 cd ..
 echo -e "\n\n............ GU ibrary files Updated .................. \n\n"
 echo -e "........ Done ........ \n"
