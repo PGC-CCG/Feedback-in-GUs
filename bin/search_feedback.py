@@ -38,9 +38,11 @@ with open(conformationf) as conf:
 
 # Actually Calculating the feedback
 def feedback(dir,conf_dic):
+    TFs_in_net = set()
     feedback_dic = defaultdict(list) #Dictionary to keep track of how many loops are found
     matches_dic = defaultdict(lambda: defaultdict(set)) #To keep track of possible matches if not exact
     for TF in os.listdir(os.path.join(dir+"/GUs_secondary_reactions")):
+        TFs_in_net.add(TF) #Added TF to the set
         if TF not in conf_dic.keys():
             continue
         with open(os.path.join(dir+"GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
@@ -76,9 +78,9 @@ def feedback(dir,conf_dic):
                     #     for effector in matches2:
                     #         matches_dic[TF][effector].add(obj)
     # Return dictionary with TFs with exact feedback and dictionary of possible feedback
-    return feedback_dic,matches_dic
+    return feedback_dic,TFs_in_net,matches_dic
 
-feed_dic,matches = feedback(GU_dir,conformation_dic)
+feed_dic,TF_list,matches = feedback(GU_dir,conformation_dic)
 
 with open(os.path.join(outputdir+"TFs_with_feedback.txt"),"w") as fd:
     fd.write("# TF\tEfector(s)\tNo. of Efectors\tMatches\tNo. of matches\n")
@@ -87,7 +89,9 @@ with open(os.path.join(outputdir+"TFs_with_feedback.txt"),"w") as fd:
 
 with open(os.path.join(outputdir+"TFs_no_feedback.txt"),"w") as nf:
     nf.write("# TF\tEfector\n")
-    nf_set=set(conformation_dic.keys()).difference(set(feed_dic.keys()))
+    TFs=set(conformation_dic.keys()).intersection(TF_list)
+    # nf_set=set(conformation_dic.keys()).difference(set(feed_dic.keys()))
+    nf_set=TFs.difference(set(feed_dic.keys()))
     for TF in nf_set:
         nf.write(str(TF)+"\t"+list(conformation_dic[TF])[0]+"\n")
 

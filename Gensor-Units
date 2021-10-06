@@ -57,14 +57,15 @@ function Gensor-units
    Ntw=$1 
    outdir=$2
    echo "$Ntw $outdir"
-   ./bin/pipeline_permissive_connectivity $Ntw $outdir
+   ./bin/pipeline_permissive_connectivity.sh $Ntw $outdir
 }
 
 function feedback
 {
    echo "Calculating feedback"
    GUdir=$1
-   ./bin/search_feedback.py $GUdir
+   outdir=$2
+   ./bin/search_feedback.py $GUdir $outdir
 }
 
 ############################################################
@@ -146,7 +147,6 @@ do
                Feedback-help
                exit 1
             fi
-
             feedback $gu $out
             exit 0
          ;;
