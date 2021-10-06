@@ -28,7 +28,7 @@ $out_dir=$ARGV[0];
 chomp($out_dir);
 
 if($out_dir){
-    $cmpdir=$out_dir . "gu_compound_dictionary.KEGG.txt";
+    $cmpdir=$out_dir . "gu_compound_dictionary.txt";
     open(OUT,">$cmpdir") || die "Cannot open OUT file at $cmpdir.\n";
 }
 

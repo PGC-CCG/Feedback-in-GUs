@@ -15,7 +15,7 @@ perl ../bin/create_compound_dictionary.pl ./
 echo -e "............ Updating gene-reactions flat file ............\n"
 perl ../bin/gene_rxns_flatfiles.pl gene_links.txt gu_compound_dictionary.txt rxn_rpd_links.txt
 
-echo -e "............. Updating pathway-reaction links file ...........\n"
+echo -e "............. Updating pathway-reaction links file ..........."
 perl ../bin/create_pwy_rxn_links.pl ./
 
 echo -e "............. Downloading TF Conformation from Regulon DB ........... \n"
