@@ -1,0 +1,2872 @@
+# Created on Fri Nov  1 11:11:04 2019 from gene_reactions_flatfiles.pl
+# Fields:
+# [1] > Gene name
+# [2] > Reaction ID
+# [3] > Reaction direction
+# [4] > Substrates
+# [5] > Products
+rsmA	RXN-11633	L2R	//SAM//a ribonucleotide//	//a base(2)//SAH//
+rluA	RXN-11842	L2R	//a ribonucleotide//	//a ribonucleotide//
+rluA	RXN-11843	L2R	//a ribonucleotide//	//a ribonucleotide//
+rlmM	RXN-11589	L2R	//SAM//a ribonucleotide//	//a ribonucleotide//SAH//
+rluC	RXN-11838	L2R	//a ribonucleotide//	//a ribonucleotide//
+mnmG	RXN-18710	L2R	//a tRNA 2-thiouridine34//GTP//a vitamin//gly//an acceptor//	//a ribonucleotide//GDP//|Pi|//a vitamin//an acceptor//
+mnmG	RXN0-7068	L2R	//a ribonucleotide//GTP//a vitamin//gly//an acceptor//	//a ribonucleotide//GDP//|Pi|//a vitamin//an acceptor//
+mnmG	RXN0-7083	L2R	//a tRNA 2-thiouridine34//a vitamin//ammonium//GTP//	//a ribonucleotide//a vitamin//GDP//|Pi|//
+rsmE	RXN-11598	L2R	//SAM//a base(2)//	//SAH//a base(2)//
+tsaE	RXN-14570	L2R	//(L-threonylcarbamoyl)adenylate//a ribonucleotide//	//a base(2)//
+trmA	TRNA-URACIL-5--METHYLTRANSFERASE-RXN	L2R	//SAM//a base(2)//	//a modified nucleotide//SAH//
+tusA	RXN-18707	L2R	//an amino acid or its derivative//an amino acid or its derivative//	//an amino acid or its derivative//an amino acid or its derivative//
+trmO	RXN0-7114	L2R	//SAM//a base(2)//	//nucleoside//SAH//
+trmH	2.1.1.34-RXN	L2R	//SAM//nucleoside//	//nucleoside//SAH//
+rsmB	RXN-11591	L2R	//SAM//a ribonucleotide//	//a base(2)//SAH//
+mnmA	RXN0-2023	L2R	//a ribonucleotide//an amino acid or its derivative//an acceptor//	//a tRNA 2-thiouridine34//an amino acid or its derivative//PP//an acceptor//
+dusC	RXN0-1281	L2R	//a ribonucleotide//	//a ribonucleotide//
+rlmH	RXN-11592	L2R	//SAM//a ribonucleotide//	//SAH//a ribonucleotide//
+tusE	RXN-18708	L2R	//an amino acid or its derivative//an amino acid or its derivative//	//an amino acid or its derivative//an amino acid or its derivative//
+trmL	RXN-11860	L2R	//SAM//a ribonucleotide//	//a ribonucleotide//SAH//
+trmL	RXN-11865	L2R	//SAM//a ribonucleotide//	//a base(2)//SAH//
+trmL	RXN0-7168	L2R	//SAM//a ribonucleotide//	//a ribonucleotide//SAH//
+tsaD	RXN-14570	L2R	//(L-threonylcarbamoyl)adenylate//a ribonucleotide//	//a base(2)//
+rsmG	RXN-11578	L2R	//SAM//a base(2)//	//SAH//a base(2)//
+rlmN	RXN-11586	L2R	//SAM//a ribonucleotide//Protein//	//SAH//met//5'-deoxyadenosine//a base(2)//Protein//
+rlmN	RXN0-7007	L2R	//SAM//a ribonucleotide//Protein//	//SAH//met//5'-deoxyadenosine//a base(2)//Protein//
+selU	RXN0-2281	L2R	//a ribonucleotide//selenophosphate//	//a ribonucleotide//thiophosphate//
+trmD	RXN-12458	L2R	//SAM//a base(2)//	//a base(2)//SAH//
+cca	TRNA-CYTIDYLYLTRANSFERASE-RXN	L2R	//a single-stranded RNA//CTP//	//a single-stranded RNA//PP//
+rsmJ	RXN0-6731	L2R	//SAM//a base(2)//	//a base(2)//SAH//
+rlmE	RXN-11845	L2R	//SAM//a ribonucleotide//	//a ribonucleotide//SAH//
+tgt	RXN0-1321	L2R	//a base(2)//preQ1//	//a base(2)//guanine//
+gluQ	RXN0-5422	L2R	//a ribonucleotide//glt//	//a base(2)//PP//
+rsuA	RXN-11833	L2R	//a ribonucleotide//	//a ribonucleotide//
+pcnB	POLYNUCLEOTIDE-ADENYLYLTRANSFERASE-RXN	L2R	//a polynucleotide//	//PP//a polynucleotide//
+rluF	RXN-11835	L2R	//a ribonucleotide//	//a ribonucleotide//
+rluF	RXN0-7253	L2R	//a ribonucleotide//	//a ribonucleotide//
+truB	RXN-11839	L2R	//a ribonucleotide//	//a ribonucleotide//
+truA	TRNA-PSEUDOURIDINE-SYNTHASE-I-RXN	L2R	//a ribonucleotide//	//a ribonucleotide//
+rluB	RXN-11836	L2R	//a ribonucleotide//	//a ribonucleotide//
+trmI	TRNA-GUANINE-N7--METHYLTRANSFERASE-RXN	L2R	//SAM//a base(2)//	//an N7-methylguanine46 in tRNA//SAH//
+rsmH	RXN-11638	L2R	//SAM//a ribonucleotide//	//SAH//a ribonucleotide//
+rsmD	RXN0-6515	L2R	//SAM//a base(2)//	//SAH//a base(2)//
+yfiC	RXN-12480	L2R	//SAM//adenine37 in tRNA1val//	//SAH//a base(2)//
+fmt	METHIONYL-TRNA-FORMYLTRANSFERASE-RXN	L2R	//10-formyl-THF mono-L-glutamate//an L-methionyl-[initiator tRNAMet]//	//a vitamin//an N-modified aminoacyl-[tRNA]//
+cmoM	RXN0-7167	L2R	//SAM//a ribonucleotide//	//a ribonucleotide//SAH//
+mnmE	RXN-18710	L2R	//a tRNA 2-thiouridine34//GTP//a vitamin//gly//an acceptor//	//a ribonucleotide//GDP//|Pi|//a vitamin//an acceptor//
+mnmE	RXN0-7068	L2R	//a ribonucleotide//GTP//a vitamin//gly//an acceptor//	//a ribonucleotide//GDP//|Pi|//a vitamin//an acceptor//
+mnmE	RXN0-7083	L2R	//a tRNA 2-thiouridine34//a vitamin//ammonium//GTP//	//a ribonucleotide//a vitamin//GDP//|Pi|//
+thpR	RXN-15952	L2R	//RNA terminal-2',3'-cyclic-phosphate//	//a 3'-phosphate-terminated RNA//
+thpR	RXN0-5062	RVB	//a single-stranded RNA//a single-stranded RNA//	//a single-stranded RNA//
+lysS	LYSINE--TRNA-LIGASE-RXN	L2R	//lys//a single-stranded RNA//	//L-LYSYL-TRNA(LYS)//PP//
+hisS	HISTIDINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//his//	//L-histidyl-tRNAhisR//PP//
+tyrS	TYROSINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//tyr//	//L-TYROSYL-TRNA(TYR)//PP//
+gltX	GLURS-RXN	L2R	//TRNA(GLT)//glt//	//an L-glutamyl-[tRNAGlx]//PP//
+serS	SERINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//ser//	//L-SERYL-TRNA(SER)//PP//
+serS	RXN0-2161	L2R	//tRNA-Sec(UCA)//ser//	//L-seryl-tRNAsec//PP//
+aspS	ASPARTATE--TRNA-LIGASE-RXN	L2R	//TRNA(ASP)//asp//	//L-ASPARTYL-TRNA(ASP)//PP//
+pheT	PHENYLALANINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//phe//	//an L-phenylalanyl-[tRNAPhe]//PP//
+lysU	LYSINE--TRNA-LIGASE-RXN	L2R	//lys//a single-stranded RNA//	//L-LYSYL-TRNA(LYS)//PP//
+lysU	RXN0-5208	L2R	//	//Ap4A//PP//
+lysU	RXN0-5209	L2R	//	//5'Ap3A//PP//
+ileS	ISOLEUCINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//ile//	//L-ISOLEUCYL-TRNA(ILE)//PP//
+valS	VALINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//val//	//L-VALYL-TRNA(VAL)//PP//
+glyQ	GLYCINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//gly//	//GLYCYL-TRNA(GLY)//PP//
+cysS	CYSTEINE--TRNA-LIGASE-RXN	L2R	//tRNA-Cys(GCA)//Cys//	//L-cysteinyl-tRNAcysT//PP//
+proS	PROLINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//pro//	//L-PROLYL-TRNA(PRO)//PP//
+argS	ARGININE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//arg//	//L-ARGINYL-TRNA(ARG)//PP//
+metG	RXN-16165	L2R	//initiator tRNAMet//met//	//an L-methionyl-[initiator tRNAMet]//PP//
+metG	METHIONINE--TRNA-LIGASE-RXN	L2R	//TRNA(MET)//met//	//L-METHIONYL-TRNA//PP//
+leuS	LEUCINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//leu//	//L-leucyl-tRNA//PP//
+glyS	GLYCINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//gly//	//GLYCYL-TRNA(GLY)//PP//
+trpS	TRYPTOPHAN--TRNA-LIGASE-RXN	L2R	//trp//tRNA-Trp(CCA)//	//L-tryptophanyl-tRNAtrpT//PP//
+glnS	GLUTAMINE--TRNA-LIGASE-RXN	L2R	//TRNA(GLN)//gln//	//L-GLUTAMINYL-TRNA(GLN)//PP//
+selD	2.7.9.3-RXN	L2R	//selenide//	//|Pi|//selenophosphate//
+asnS	ASPARAGINE--TRNA-LIGASE-RXN	L2R	//TRNA(ASN)//asn//	//L-ASPARAGINYL-TRNA(ASN)//PP//
+pheS	PHENYLALANINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//phe//	//an L-phenylalanyl-[tRNAPhe]//PP//
+selA	2.9.1.1-RXN	L2R	//selenophosphate//L-seryl-tRNAsec//	//|Pi|//L-selenocysteinyl-tRNA(ser)//
+pth	AMINOCYL-TRNA-HYDROLASE-RXN	L2R	//an N-modified aminoacyl-[tRNA]//	//a single-stranded RNA//an amino acid or its derivative//
+arfB	AMINOCYL-TRNA-HYDROLASE-RXN	L2R	//an N-modified aminoacyl-[tRNA]//	//a single-stranded RNA//an amino acid or its derivative//
+selB	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+map	3.4.11.18-RXN	L2R	//a peptide with an N-terminal L-amino acid//	//met//Protein//
+prmC	RXN-14992	L2R	//SAM//a [release factor]-L-glutamine//	//an amino acid or its derivative//SAH//
+rimK	RXN0-6726	L2R	//an amino acid or its derivative//glt//	//an amino acid or its derivative//|Pi|//
+roxA	RXN0-7090	L2R	//an amino acid or its derivative//ketoglutarate//O2//	//an amino acid or its derivative//suc//CO2//
+iap	RXN0-3261	L2R	//a [protein] with an N-terminal L-arginine//	//arg//Protein//
+prmB	RXN0-1241	L2R	//SAM//a [ribosomal protein L3]-L-glutamine//	//an amino acid or its derivative//SAH//
+rimL	RXN0-5231	L2R	//RplL//ac-CoA//	//RplL//CoA//
+def	3.5.1.88-RXN	L2R	//an amino acid or its derivative//	//an N-terminal L-methionyl-[protein]//formate//
+glnE	GSADENYLATION-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//PP//
+glnE	GSDEADENYLATION-RXN	L2R	//an amino acid or its derivative//|Pi|//	//an amino acid or its derivative//
+rimJ	RXN-18434	L2R	//an N-terminal L-alanyl-[S5 protein of 30S ribosome]//ac-CoA//	//an N-terminal N-acetyl-L-alanyl-[S5 protein of 30S ribosome]//CoA//
+slyD	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+ccmE	TRANS-RXN0-162	L2R	//protoheme_Ext//	//protoheme//
+ppiA	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+hscA	RXN-14391	L2R	//a [chaperone-ADP]-[disordered-form scaffold protein] complex//	//Protein//a [disordered-form [Fe-S] cluster scaffold protein]//
+dnaQ	RXN0-4961	L2R	//[DNA]//	//NMP//
+ppiC	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+dsbC	5.3.4.1-RXN	L2R	//Protein//	//Protein//
+ppiB	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+pcm	2.1.1.77-RXN	L2R	//SAM//an amino acid or its derivative//	//SAH//an amino acid or its derivative//
+dnaJ	DISULFOXRED-RXN	L2R	//Dsf//protein with reduced SH groups//	//DsbAreduced//a protein with a disulfide bond//
+fkpB	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+surA	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+tatD	RXN0-4223	L2R	//a polynucleotide//	//NMP//
+tatD	3.1.11.1-RXN	L2R	//[DNA]//	//[DNA]//a deoxynucleotide//
+prmA	RXN0-5419	L2R	//SAM//RelC//	//a ribosomal protein L11//SAH//
+ogt	RXN-17824	L2R	//a base(2)//an amino acid or its derivative//	//a base(2)//an amino acid or its derivative//
+ogt	2.1.1.63-RXN	L2R	//an amino acid or its derivative//a base(2)//	//an amino acid or its derivative//a base(2)//
+hsdM	3.1.21.3-RXN	L2R	//[DNA]//	//a polynucleotide//|Pi|//
+hsdS	3.1.21.3-RXN	L2R	//[DNA]//	//a polynucleotide//|Pi|//
+dam	2.1.1.72-RXN	L2R	//SAM//a ribonucleotide//	//SAH//a base(2)//
+dcm	DNA-CYTOSINE-5--METHYLTRANSFERASE-RXN	L2R	//SAM//a base(2)//	//a base(2)//SAH//
+aidB	RXN0-2301	L2R	//isovaleryl-CoA//a flavoprotein//	//3-methylcrotonyl-CoA//a reduced ETF//
+alaS	ALANINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//ala//	//L-ALANYL-TRNA(ALA)//PP//
+luxS	RIBOSYLHOMOCYSTEINASE-RXN	L2R	//S-ribosylhomocysteine//	//homo-cys//AI-2//
+thrS	THREONINE--TRNA-LIGASE-RXN	L2R	//a single-stranded RNA//thr//	//L-THREONYL-TRNA(THR)//PP//
+yjaB	RXN0-7160	L2R	//an amino acid or its derivative//ac-CoA//	//an amino acid or its derivative//CoA//
+rimI	2.3.1.128-RXN	L2R	//ac-CoA//an N-terminal L-alanyl-[S18 protein of 30S ribosome]//	//an N-terminal N-acetyl-L-alanyl-[S18 protein of 30S ribosome]//CoA//
+rimI	RXN0-7160	L2R	//an amino acid or its derivative//ac-CoA//	//an amino acid or its derivative//CoA//
+phnO	RXN0-7014	L2R	//AMPA//ac-CoA//	//(acetamidomethyl)phosphonate//CoA//
+phnO	RXN-17960	L2R	//[(S)-1-aminoethyl]phosphonate//ac-CoA//	//[(1S)-1-acetamidoethyl]phosphonate//CoA//
+phnO	RXN-17962	L2R	//2-AEPn//ac-CoA//	//(2-acetamidoethyl)phosphonate//CoA//
+phnO	RXN-17961	L2R	//[(R)-1-aminoethyl]phosphonate//ac-CoA//	//[(1R)-1-acetamidoethyl]phosphonate//CoA//
+phnO	RXN0-7160	L2R	//an amino acid or its derivative//ac-CoA//	//an amino acid or its derivative//CoA//
+hipA	RXN0-5211	L2R	//HipA//	//HipA//
+epmA	RXN0-6531	RVB	//Efp//D-beta-lysine//	//protein chain elongation factor EF-P, beta-lysyl-Lys34//PP//
+epmA	RXN0-6999	L2R	//an amino acid or its derivative//D-beta-lysine//	//an amino acid or its derivative//PP//
+yiaC	RXN0-7160	L2R	//an amino acid or its derivative//ac-CoA//	//an amino acid or its derivative//CoA//
+aceK	PHOSICITDEHASE-RXN	RVB	//isocitrate-dehydrogenase//	//isocitrate dehydrogenase-P//
+aceK	DEPHOSICITDEHASE-RXN	L2R	//isocitrate dehydrogenase-P//	//isocitrate-dehydrogenase//|Pi|//
+pyrI	ASPCARBTRANS-RXN	L2R	//asp//carbamoyl-P//	//carbamyl-aspartate//|Pi|//
+cyaA	ADENYLATECYC-RXN	L2R	//	//cAMP//PP//
+chpB	RXN-19924	L2R	//a polynucleotide//	//RNA terminal-2',3'-cyclic-phosphate//a 5'-hydroxy-ribonucleotide-3'-[RNA]//
+suhB	RXN0-5408	L2R	//Ins1P//	//|Pi|//dambose//
+suhB	RXN-7253	L2R	//Ins2P//	//dambose//|Pi|//
+suhB	GLYCEROL-2-PHOSPHATASE-RXN	L2R	//2-glycerophosphate//	//|Pi|//glycerol//
+ravA	ATPASE-RXN	L2R	//	//|Pi|//
+fumE	FUMHYDR-RXN	RVB	//L-malate//	//fum//
+nadR	2.7.7.1-RXN	L2R	//NMN//	//PP//
+nadR	RIBOSYLNICOTINAMIDE-KINASE-RXN	L2R	//nicotinamide ribose//	//NMN//
+ada	2.1.1.63-RXN	L2R	//an amino acid or its derivative//a base(2)//	//an amino acid or its derivative//a base(2)//
+ada	RXN-17824	L2R	//a base(2)//an amino acid or its derivative//	//a base(2)//an amino acid or its derivative//
+ada	RXN-17823	L2R	//a DNA containing Sp methyl phosphotriester//an amino acid or its derivative//	//a DNA without Sp methyl phosphotriester//an amino acid or its derivative//
+birA	RXN0-7192	L2R	//biotin//	//biotinyl-5'-AMP//PP//
+birA	BIOTINLIG-RXN	L2R	//an amino acid or its derivative//biotin//	//PP//an amino acid or its derivative//
+pdeL	RXN0-4181	L2R	//c-di-GMP//	//5'pGpG//
+clcA	RXN0-2501	RVB	//chloride_Ext//	//chloride//
+ompF	RXN0-2481	RVB	//hydrophilic solute or ion < 600 Da_Ext//	//hydrophilic solute or ion < 600 Da//
+ompF	RXN0-7211	RVB	//an organophosphorus compound_Ext//	//an organophosphorus compound//
+ompF	RXN0-7210	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	RXN-15315	L2R	//beta-Neu5Ac_Ext//	//beta-Neu5Ac//
+ompF	RXN0-0	L2R	//an N-acyl-neuraminate_Ext//	//an N-acyl-neuraminate//
+ompF	RXN0-7209	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	RXN0-7208	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	RXN0-7206	RVB	//an aromatic compound_Ext//	//an aromatic compound//
+ompF	RXN0-7204	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	TRANS-RXN0-445	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	RXN0-1741	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	RXN0-7203	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompF	RXN0-7202	RVB	//Peptide_Ext//	//Peptide//
+ompF	RXN0-7199	RVB	//nucleoside_Ext//	//nucleoside//
+ompF	RXN0-7201	RVB	//a modified nucleotide_Ext//	//a modified nucleotide//
+ompF	RXN0-7200	RVB	//nucleotide_Ext//	//nucleotide//
+ompF	RXN0-7247	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+ompF	RXN0-7246	RVB	//an ester_Ext//	//an ester//
+ompF	RXN0-7245	RVB	//an amide_Ext//	//an amide//
+ompF	RXN0-7244	RVB	//an amine_Ext//	//an amine//
+ompF	RXN0-7243	RVB	//acid_Ext//	//acid//
+ompF	RXN0-7242	RVB	//acid_Ext//	//acid//
+ompF	RXN0-7241	RVB	//acid_Ext//	//acid//
+ompF	TRANS-RXN0-490	RVB	//lycine_Ext//	//lycine//
+ompF	RXN0-7207	RVB	//acid_Ext//	//acid//
+ompF	TRANS-RXN0-609	RVB	//acid_Ext//	//acid//
+ompF	TRANS-RXN0-615	RVB	//MTR_Ext//	//MTR//
+ompF	TRANS-RXN0-614	RVB	//ROH_Ext//	//ROH//
+ompF	TRANS-RXN0-612	RVB	//an amino acid or its derivative_Ext//	//an amino acid or its derivative//
+ompF	TRANS-RXN0-611	RVB	//a base(2)_Ext//	//a base(2)//
+ompF	TRANS-RXN0-608	RVB	//ROH_Ext//	//ROH//
+ompF	TRANS-RXN0-607	RVB	//ROH_Ext//	//ROH//
+ompF	TRANS-RXN0-606	RVB	//acid_Ext//	//acid//
+ompF	TRANS-RXN0-604	RVB	//an organosulfur compound_Ext//	//an organosulfur compound//
+ompF	TRANS-RXN0-603	RVB	//	//
+ompF	TRANS-RXN0-601	RVB	//an ion_Ext//	//an ion//
+ompF	TRANS-RXN0-598	RVB	//glycerol 1-phosphate_Ext//	//glycerol 1-phosphate//
+ompF	TRANS-RXN-380	RVB	//an antibiotic_Ext//	//an antibiotic//
+phoE	RXN0-2481	RVB	//hydrophilic solute or ion < 600 Da_Ext//	//hydrophilic solute or ion < 600 Da//
+phoE	RXN0-7241	RVB	//acid_Ext//	//acid//
+phoE	RXN0-7211	RVB	//an organophosphorus compound_Ext//	//an organophosphorus compound//
+phoE	RXN0-7210	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	RXN-15315	L2R	//beta-Neu5Ac_Ext//	//beta-Neu5Ac//
+phoE	RXN0-0	L2R	//an N-acyl-neuraminate_Ext//	//an N-acyl-neuraminate//
+phoE	RXN0-7209	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	RXN0-7208	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	RXN0-7207	RVB	//acid_Ext//	//acid//
+phoE	RXN0-7206	RVB	//an aromatic compound_Ext//	//an aromatic compound//
+phoE	RXN0-7204	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	TRANS-RXN0-445	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	RXN0-1741	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	RXN0-7203	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+phoE	RXN0-7202	RVB	//Peptide_Ext//	//Peptide//
+phoE	RXN0-7201	RVB	//a modified nucleotide_Ext//	//a modified nucleotide//
+phoE	RXN0-7200	RVB	//nucleotide_Ext//	//nucleotide//
+phoE	RXN0-7199	RVB	//nucleoside_Ext//	//nucleoside//
+phoE	RXN0-7247	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+phoE	RXN0-7246	RVB	//an ester_Ext//	//an ester//
+phoE	TRANS-RXN-380	RVB	//an antibiotic_Ext//	//an antibiotic//
+phoE	RXN0-7245	RVB	//an amide_Ext//	//an amide//
+phoE	TRANS-RXN0-490	RVB	//lycine_Ext//	//lycine//
+phoE	RXN0-7244	RVB	//an amine_Ext//	//an amine//
+phoE	RXN0-7243	RVB	//acid_Ext//	//acid//
+phoE	RXN0-7242	RVB	//acid_Ext//	//acid//
+phoE	TRANS-RXN0-615	RVB	//MTR_Ext//	//MTR//
+phoE	TRANS-RXN0-614	RVB	//ROH_Ext//	//ROH//
+phoE	TRANS-RXN0-612	RVB	//an amino acid or its derivative_Ext//	//an amino acid or its derivative//
+phoE	TRANS-RXN0-611	RVB	//a base(2)_Ext//	//a base(2)//
+phoE	TRANS-RXN0-609	RVB	//acid_Ext//	//acid//
+phoE	TRANS-RXN0-608	RVB	//ROH_Ext//	//ROH//
+phoE	TRANS-RXN0-607	RVB	//ROH_Ext//	//ROH//
+phoE	TRANS-RXN0-606	RVB	//acid_Ext//	//acid//
+phoE	TRANS-RXN0-604	RVB	//an organosulfur compound_Ext//	//an organosulfur compound//
+phoE	TRANS-RXN0-603	RVB	//	//
+phoE	TRANS-RXN0-601	RVB	//an ion_Ext//	//an ion//
+phoE	TRANS-RXN0-598	RVB	//glycerol 1-phosphate_Ext//	//glycerol 1-phosphate//
+ompC	RXN0-2481	RVB	//hydrophilic solute or ion < 600 Da_Ext//	//hydrophilic solute or ion < 600 Da//
+ompC	RXN0-7211	RVB	//an organophosphorus compound_Ext//	//an organophosphorus compound//
+ompC	RXN0-7241	RVB	//acid_Ext//	//acid//
+ompC	RXN0-7210	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	RXN-15315	L2R	//beta-Neu5Ac_Ext//	//beta-Neu5Ac//
+ompC	RXN0-0	L2R	//an N-acyl-neuraminate_Ext//	//an N-acyl-neuraminate//
+ompC	RXN0-7209	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	RXN0-7208	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	RXN0-7207	RVB	//acid_Ext//	//acid//
+ompC	RXN0-7206	RVB	//an aromatic compound_Ext//	//an aromatic compound//
+ompC	RXN0-7204	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	TRANS-RXN0-445	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	RXN0-1741	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	RXN0-7203	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ompC	RXN0-7202	RVB	//Peptide_Ext//	//Peptide//
+ompC	RXN0-7201	RVB	//a modified nucleotide_Ext//	//a modified nucleotide//
+ompC	RXN0-7200	RVB	//nucleotide_Ext//	//nucleotide//
+ompC	RXN0-7199	RVB	//nucleoside_Ext//	//nucleoside//
+ompC	RXN0-7247	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+ompC	RXN0-7246	RVB	//an ester_Ext//	//an ester//
+ompC	TRANS-RXN-380	RVB	//an antibiotic_Ext//	//an antibiotic//
+ompC	RXN0-7245	RVB	//an amide_Ext//	//an amide//
+ompC	RXN0-7244	RVB	//an amine_Ext//	//an amine//
+ompC	RXN0-7243	RVB	//acid_Ext//	//acid//
+ompC	RXN0-7242	RVB	//acid_Ext//	//acid//
+ompC	TRANS-RXN0-490	RVB	//lycine_Ext//	//lycine//
+ompC	TRANS-RXN0-615	RVB	//MTR_Ext//	//MTR//
+ompC	TRANS-RXN0-614	RVB	//ROH_Ext//	//ROH//
+ompC	TRANS-RXN0-612	RVB	//an amino acid or its derivative_Ext//	//an amino acid or its derivative//
+ompC	TRANS-RXN0-611	RVB	//a base(2)_Ext//	//a base(2)//
+ompC	TRANS-RXN0-609	RVB	//acid_Ext//	//acid//
+ompC	TRANS-RXN0-608	RVB	//ROH_Ext//	//ROH//
+ompC	TRANS-RXN0-607	RVB	//ROH_Ext//	//ROH//
+ompC	TRANS-RXN0-606	RVB	//acid_Ext//	//acid//
+ompC	TRANS-RXN0-604	RVB	//an organosulfur compound_Ext//	//an organosulfur compound//
+ompC	TRANS-RXN0-603	RVB	//	//
+ompC	TRANS-RXN0-601	RVB	//an ion_Ext//	//an ion//
+ompC	TRANS-RXN0-598	RVB	//glycerol 1-phosphate_Ext//	//glycerol 1-phosphate//
+tolC	TRANS-RXN-360	L2R	//an antibiotic_Ext//	//an antibiotic//
+tolC	TRANS-RXN-367	L2R	//ilotycin_Ext//	//ilotycin//
+tolC	TRANS-RXN-364	L2R	//CCCP_Ext//	//CCCP//
+tolC	TRANS-RXN-363	L2R	//nalidixate_Ext//	//nalidixate//
+tolC	TRANS-RXN-365	L2R	//deoxycholate_Ext//	//deoxycholate//
+tolC	TRANS-RXN-353	L2R	//novobiocin_Ext//	//novobiocin//
+tolC	TRANS-RXN-352	L2R	//deoxycholate_Ext//	//deoxycholate//
+tolC	TRANS-RXN-92	L2R	//dodecyl sulfate_Ext//	//dodecyl sulfate//
+tolC	TRANS-RXN-354	L2R	//euflavine_Ext//	//euflavine//
+tolC	TRANS-RXN-359	L2R	//ethidium_Ext//	//ethidium//
+tolC	TRANS-RXN0-592	L2R	//chenodiol_Ext//	//chenodiol//
+tolC	TRANS-RXN-356	L2R	//caprate_Ext//	//caprate//
+tolC	TRANS-RXN-355	L2R	//hexane_Ext//	//hexane//
+tolC	TRANS-RXN-357	L2R	//enterobactin_Ext//	//enterobactin//
+tolC	TRANS-RXN0-224	L2R	//an antibiotic_Ext//	//an antibiotic//
+tolC	TRANS-RXN-377	L2R	//bacitracin A_Ext//	//bacitracin A//
+tolC	TRANS-RXN-378	L2R	//an antibiotic_Ext//	//an antibiotic//
+adeP	TRANS-RXN0-447	RVB	//adenine_Ext//	//adenine//
+satP	TRANS-RXN0-571	RVB	//acetate_Ext//	//acetate//
+satP	TRANS-RXN-121	RVB	//suc_Ext//	//suc//
+yjbB	TRANS-RXN0-470	L2R	//	//
+argO	RXN66-448	L2R	//arg_Ext//	//arg//
+argO	TRANS-RXN-325	L2R	//canavanine_Ext//	//canavanine//
+yiaO	TRANS-RXN0-235	L2R	//Sodium_Ext//DKG_Ext//	//Sodium//DKG//
+eamA	RXN0-1924	L2R	//Cys_Ext//	//Cys//
+eamA	RXN0-1923	L2R	//acetylserine_Ext//	//acetylserine//
+yejF	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+yejF	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+yejF	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+lptB	TRANS-RXN-237	L2R	//a lipid_Ext//	//a lipid//
+ytfR	TRANS-RXN0-492	L2R	//Galf_Ext//	//Galf//
+ytfR	TRANS-RXN0-491	L2R	//alpha-D-galactofuranose_Ext//	//alpha-D-galactofuranose//
+ugpC	ABC-34-RXN	L2R	//L-G3P_Ext//	//L-G3P//
+ugpC	TRANS-RXN0-573	L2R	//glycerol-3-P-OR_Ext//	//glycerol-3-P-OR//
+btuD	ABC-5-RXN	L2R	//B12s_Ext//	//B12s//
+btuD	TRANS-RXN-296	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+ccmA	TRANS-RXN0-162	L2R	//protoheme_Ext//	//protoheme//
+tcyN	TRANS-RXN0-593	L2R	//L-cystine_Ext//	//L-cystine//
+tcyN	TRANS-RXN-291	L2R	//M-DAP_Ext//	//M-DAP//
+tcyN	TRANS-RXN0-508	L2R	//L-djenkolate_Ext//	//L-djenkolate//
+tcyN	TRANS-RXN0-513	L2R	//lanthionine_Ext//	//lanthionine//
+tcyN	TRANS-RXN-290	L2R	//D-cystine_Ext//	//D-cystine//
+tcyN	TRANS-RXN0-617	L2R	//L,L-homocystine_Ext//	//L,L-homocystine//
+thiQ	ABC-32-RXN	L2R	//thiamin_Ext//	//thiamin//
+pstB	ABC-27-RXN	L2R	//	//
+modC	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+yehX	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+ssuB	ABC-56-RXN	L2R	//an organosulfur compound_Ext//	//an organosulfur compound//
+metN	RXN0-4522	L2R	//met_Ext//	//met//
+metN	TRANS-RXN0-202	L2R	//D-methionine_Ext//	//D-methionine//
+metN	RXN0-7185	L2R	//L-methionine-R-sulfoxide_Ext//	//L-methionine-R-sulfoxide//
+metN	RXN0-7186	L2R	//L-methionine-(S)-S-oxide_Ext//	//L-methionine-(S)-S-oxide//
+metN	TRANS-RXN0-511	L2R	//Methionine S-oxide_Ext//	//Methionine S-oxide//
+metN	TRANS-RXN0-510	L2R	//acetyl-DL-methionine_Ext//	//acetyl-DL-methionine//
+metN	TRANS-RXN-383	L2R	//D-selenomethionine_Ext//	//D-selenomethionine//
+modA	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+pstS	ABC-27-RXN	L2R	//	//
+nikA	ABC-20-RXN	L2R	//nickel_Ext//	//nickel//
+thiB	ABC-32-RXN	L2R	//thiamin_Ext//	//thiamin//
+sbp	ABC-70-RXN	L2R	//H2SO4_Ext//	//H2SO4//
+sbp	ABC-7-RXN	L2R	//thiosulfate_Ext//	//thiosulfate//
+sbp	TRANS-RXN0-478	L2R	//selenate_Ext//	//selenate//
+sbp	TRANS-RXN0-479	L2R	//selenite_Ext//	//selenite//
+sbp	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+cysP	ABC-7-RXN	L2R	//thiosulfate_Ext//	//thiosulfate//
+cysP	ABC-70-RXN	L2R	//H2SO4_Ext//	//H2SO4//
+cysP	TRANS-RXN0-478	L2R	//selenate_Ext//	//selenate//
+cysP	TRANS-RXN0-479	L2R	//selenite_Ext//	//selenite//
+cysP	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+oppA	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+oppA	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppA	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+osmF	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+ugpB	ABC-34-RXN	L2R	//L-G3P_Ext//	//L-G3P//
+ugpB	TRANS-RXN0-573	L2R	//glycerol-3-P-OR_Ext//	//glycerol-3-P-OR//
+ytfQ	TRANS-RXN0-492	L2R	//Galf_Ext//	//Galf//
+ytfQ	TRANS-RXN0-491	L2R	//alpha-D-galactofuranose_Ext//	//alpha-D-galactofuranose//
+btuF	ABC-5-RXN	L2R	//B12s_Ext//	//B12s//
+btuF	TRANS-RXN-296	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+phnD	ABC-23-RXN	L2R	//alkylphosphonate_Ext//	//alkylphosphonate//
+phnD	TRANS-RXN-238	L2R	//an (aminoalkyl)phosphonate_Ext//	//an (aminoalkyl)phosphonate//
+yejA	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+yejA	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+yejA	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+metQ	RXN0-4522	L2R	//met_Ext//	//met//
+metQ	TRANS-RXN0-202	L2R	//D-methionine_Ext//	//D-methionine//
+metQ	RXN0-7185	L2R	//L-methionine-R-sulfoxide_Ext//	//L-methionine-R-sulfoxide//
+metQ	RXN0-7186	L2R	//L-methionine-(S)-S-oxide_Ext//	//L-methionine-(S)-S-oxide//
+metQ	TRANS-RXN0-511	L2R	//Methionine S-oxide_Ext//	//Methionine S-oxide//
+metQ	TRANS-RXN0-510	L2R	//acetyl-DL-methionine_Ext//	//acetyl-DL-methionine//
+metQ	TRANS-RXN-383	L2R	//D-selenomethionine_Ext//	//D-selenomethionine//
+cmtB	TRANS-RXN-156	L2R	//HPr - phosphorylated_Ext//D-mannitol_Ext//	//mannitol-1-P//Hpr//
+ulaB	RXN0-2461	L2R	//HPr - phosphorylated_Ext//ascorbate_Ext//	//L-ascorbate 6-phosphate//Hpr//
+cmtA	TRANS-RXN-156	L2R	//HPr - phosphorylated_Ext//D-mannitol_Ext//	//mannitol-1-P//Hpr//
+ulaC	RXN0-2461	L2R	//HPr - phosphorylated_Ext//ascorbate_Ext//	//L-ascorbate 6-phosphate//Hpr//
+zupT	RXN0-16	L2R	//Mn(II)_Ext//	//Mn(II)//
+zupT	RXN0-14	L2R	//Cu(II)_Ext//	//Cu(II)//
+zupT	RXN0-12	L2R	//Zn_Ext//	//Zn//
+zupT	RXN0-10	L2R	//Cadmium_Ext//	//Cadmium//
+zupT	TRANS-RXN-8	L2R	//Fe+2_Ext//	//Fe+2//
+zupT	TRANS-RXN-141A	L2R	//cobalt ion_Ext//	//cobalt ion//
+atoE	TRANS-RXN0-281	L2R	//oxobutyrate_Ext//	//oxobutyrate//
+eamB	RXN0-1924	L2R	//Cys_Ext//	//Cys//
+eamB	RXN0-1923	L2R	//acetylserine_Ext//	//acetylserine//
+mepM	RXN0-3461	L2R	//peptidoglycan D-alanyl-DAP crosslink//	//peptidoglycan tetrapeptide, glycan chain 2//peptidoglycan tetrapeptide, glycan chain 1//
+tig	PEPTIDYLPROLYL-ISOMERASE-RXN	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+mltG	RXN-17393	L2R	//a nascent peptidoglycan (meso-DAP containing)//	//a nascent peptidoglycan (meso-DAP containing) with GlcNAc terminus//GlcNAc-1,6-anhydro-MurNAc-tetrapeptide//
+rng	RXN0-6523	L2R	//a single-stranded RNA//	//a single-stranded RNA//
+oppF	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppF	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppF	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+oppD	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppD	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppD	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+era	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+chaC	RXN-19024	L2R	//GSH//	//Cys-Gly//pidolic acid//
+cheB	MCPMETEST-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//MeOH//
+cheB	CHEBDEAMID-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//ammonium//
+cheB	MCPTAP-RXN	L2R	//Tapglu-Me//	//MeOH//Tapglu//
+cheB	MCPTAR-RXN	L2R	//Targlu-Me//	//MeOH//Targlu//
+cheB	MCPTRG-RXN	L2R	//Trgglu-Me//	//MeOH//Trgglu//
+cheB	MCPTSR-RXN	L2R	//Tsrglu-Me//	//MeOH//Tsrglu//
+cheB	CHEBTSRD-RXN	L2R	//Tsrgln//	//ammonia//Tsrglu//
+cheB	CHEBTRGD-RXN	L2R	//Trggln//	//ammonia//Trgglu//
+cheB	CHEBTARD-RXN	L2R	//Targln//	//ammonia//Targlu//
+cheB	CHEBTAPD-RXN	L2R	//Tapgln//	//ammonia//Tapglu//
+dgcN	RXN0-5359	L2R	//GTP//	//c-di-GMP//PP//
+cheZ	CHEYDEPHOS-RXN	L2R	//CheY//	//|Pi|//CheY//
+pdeH	RXN0-4181	L2R	//c-di-GMP//	//5'pGpG//
+cheR	CHER-RXN	L2R	//SAM//an amino acid or its derivative//	//an amino acid or its derivative//SAH//
+cheR	CHERTSRM-RXN	L2R	//SAM//Tsrglu//	//SAH//Tsrglu-Me//
+cheR	CHERTRGM-RXN	L2R	//SAM//Trgglu//	//SAH//Trgglu-Me//
+cheR	CHERTARM-RXN	L2R	//SAM//Targlu//	//SAH//Targlu-Me//
+cheR	CHERTAPM-RXN	L2R	//SAM//Tapglu//	//SAH//Tapglu-Me//
+cheR	RXN-19922	L2R	//SAM//GSH//	//S-methylglutathione//SAH//
+dgcZ	RXN0-5359	L2R	//GTP//	//c-di-GMP//PP//
+malE	ABC-16-RXN	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+malE	TRANS-RXN0-504	L2R	//maltotetraose_Ext//	//maltotetraose//
+malE	TRANS-RXN0-503	L2R	//maltotriose_Ext//	//maltotriose//
+otsB	TREHALOSEPHOSPHA-RXN	L2R	//alpha,alpha-trehalose 6-phosphate//	//D-(+)-trehalose//|Pi|//
+betB	BADH-RXN	L2R	//betaine aldehyde//	//lycine//
+proX	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+proX	TRANS-RXN-324	L2R	//stachydrine_Ext//	//stachydrine//
+proX	RXN-8638	L2R	//an amine_Ext//	//an amine//
+proX	ABC-26-RXN	L2R	//pro_Ext//	//pro//
+osmC	1.11.1.15-RXN	L2R	//a thioredoxin//ROOH//	//a thioredoxin//ROH//
+osmC	RXN-19953	L2R	//protein with reduced SH groups//ROOH//	//protein with reduced SH groups//ROH//
+osmC	RXN-19954	L2R	//protein with reduced SH groups//	//protein with reduced SH groups//
+osmC	RXN0-5468	L2R	//a thioredoxin//protein with reduced SH groups//	//a thioredoxin//protein with reduced SH groups//
+treA	TREHALA-RXN	L2R	//D-(+)-trehalose//	//beta-glucose//alpha-glucose//
+proV	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+proV	TRANS-RXN-324	L2R	//stachydrine_Ext//	//stachydrine//
+proV	RXN-8638	L2R	//an amine_Ext//	//an amine//
+proV	ABC-26-RXN	L2R	//pro_Ext//	//pro//
+otsA	TREHALOSE6PSYN-RXN	L2R	//UDPG//all carbohydrates//	//UDP//alpha,alpha-trehalose 6-phosphate//
+miaA	RXN0-6274	L2R	//DPP//a ribonucleotide//	//a ribonucleotide//PP//
+spoT	RXN0-6427	L2R	//pppGpp//	//GTP//PP//
+spoT	GDPPYPHOSKIN-RXN	L2R	//GDP//	//ppGpp//
+spoT	PPGPPSYN-RXN	L2R	//ppGpp//	//PP//GDP//
+mazG	RXN0-1603	L2R	//XTP//	//XMP//PP//
+mazG	RXN0-385	L2R	//dGTP//	//dGMP//PP//
+mazG	RXN0-1602	L2R	//dITP//	//dIMP//PP//
+mazG	DUTP-PYROP-RXN	L2R	//dUTP//	//dUMP//PP//
+mazG	DCTP-PYROPHOSPHATASE-RXN	L2R	//dCTP//	//dCMP//PP//
+mazG	RXN0-5107	L2R	//TTP//	//TMP//PP//
+mazG	RXN0-383	L2R	//CTP//	//CMP//PP//
+mazG	RXN-14139	L2R	//UTP//	//UMP//PP//
+mazG	ATP-PYROPHOSPHATASE-RXN	L2R	//	//PP//
+mazG	RXN0-384	L2R	//dATP//	//dAMP//PP//
+mazG	RXN0-6382	L2R	//ITP//	//IMP//PP//
+mazG	NUCLEOTIDE-PYROPHOSPHATASE-RXN	L2R	//NTP//	//NMP//PP//
+phnC	ABC-23-RXN	L2R	//alkylphosphonate_Ext//	//alkylphosphonate//
+phnC	TRANS-RXN-238	L2R	//an (aminoalkyl)phosphonate_Ext//	//an (aminoalkyl)phosphonate//
+gpp	PPPGPPHYDRO-RXN	L2R	//pppGpp//	//|Pi|//ppGpp//
+gadB	GLUTDECARBOX-RXN	L2R	//glt//	//CO2//GABA//
+cadA	LYSDECARBOX-RXN	L2R	//lys//	//CO2//1-BioDex//
+lepA	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+adiA	ARGDECARBOX-RXN	L2R	//arg//	//CO2//agmatine//
+gadA	GLUTDECARBOX-RXN	L2R	//glt//	//CO2//GABA//
+yigL	3.1.3.74-RXN	L2R	//PLP//	//pyridoxal//|Pi|//
+yigL	MANNITOL-1-PHOSPHATASE-RXN	L2R	//mannitol-1-P//	//|Pi|//D-mannitol//
+yigL	SORBITOL-6-PHOSPHATASE-RXN	L2R	//D-sorbitol 6-phosphate//	//L-gulitol//|Pi|//
+yigL	RXN0-7251	L2R	//L-GAP//	//L-Glycerose//|Pi|//
+yigL	RXN0-7250	L2R	//GAP//	//D-glycerose//|Pi|//
+yigL	RXN0-7249	L2R	//DHAP//	//glycerone//|Pi|//
+yigL	RXN-14483	L2R	//all carbohydrates//	//all carbohydrates//|Pi|//
+yigL	GLUCOSE-1-PHOSPHAT-RXN	L2R	//cori ester//	//|Pi|//aldehyde or ketone//
+yigL	RXN-15312	L2R	//alpha-D-glucose-6-P//	//alpha-glucose//|Pi|//
+yigL	GLUCOSE-6-PHOSPHATASE-RXN	L2R	//beta-D-glucose-6-P//	//|Pi|//beta-glucose//
+yigL	RXN0-5186	L2R	//beta-D-fructofuranose-1-P//	//beta-Levulose//|Pi|//
+yigL	SUGAR-PHOSPHATASE-RXN	L2R	//all carbohydrates//	//all carbohydrates//|Pi|//
+btuE	GLUTATHIONE-PEROXIDASE-RXN	L2R	//perhydrol//GSH//	//GSSG//
+btuE	RXN0-267	L2R	//a thioredoxin//perhydrol//	//a thioredoxin//
+srkA	PROTEIN-KINASE-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+ggt	RXN-12618	L2R	//GSH//	//Cys-Gly//glt//
+ggt	GAMMA-GLUTAMYLTRANSFERASE-RXN	L2R	//Peptide//an amino acid or its derivative//	//Peptide//Protein//
+ggt	RXN-18093	L2R	//gamma-glutamyl-p-nitroanilide//Gly-Gly//	//4-nitroaniline//gamma-L-Glu-Gly-Gly//
+ggt	RXN-18092	L2R	//GSH//Gly-Gly//	//gamma-L-Glu-Gly-Gly//Cys-Gly//
+msrB	1.8.4.12-RXN	L2R	//an amino acid or its derivative//a thioredoxin//	//an amino acid or its derivative//a thioredoxin//
+msrB	1.8.4.14-RXN	L2R	//L-methionine-R-sulfoxide//a thioredoxin//	//met//a thioredoxin//
+ychF	ATPASE-RXN	L2R	//	//|Pi|//
+hisP	ABC-14-RXN	L2R	//his_Ext//	//his//
+hisP	ABC-37-RXN	L2R	//Ornithine_Ext//	//Ornithine//
+hisP	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+hisP	ABC-3-RXN	L2R	//lys_Ext//	//lys//
+msrA	RXN-8668	L2R	//an amino acid or its derivative//a thioredoxin//	//an amino acid or its derivative//a thioredoxin//
+msrA	1.8.4.13-RXN	L2R	//L-methionine-(S)-S-oxide//a thioredoxin//	//met//a thioredoxin//
+hisJ	ABC-14-RXN	L2R	//his_Ext//	//his//
+entH	RXN0-7105	L2R	//2,3-dihydroxybenzoyl-EntB//	//holo-EntB//2-pyrocatechuate//
+entH	RXN0-7046	L2R	//3-hydroxybenzoyl-CoA//	//3-hydroxybenzoate//CoA//
+fhuE	RXN0-1702	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+bfr	RXN0-1483	L2R	//Fe+2//O2//	//fe(iii)//
+fepB	ABC-10-RXN	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+fecE	ABC-9-RXN	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+ftnA	RXN-15294	L2R	//Fe+2//O2//	//[FeO(OH)] monomer//
+ftnA	RXN-15292	L2R	//Fe+2//O2//	//[FeO(OH)] monomer//perhydrol//
+ftnA	RXN-15293	L2R	//Fe+2//perhydrol//	//[FeO(OH)] monomer//
+fecA	RXN0-1684	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+fhuC	ABC-11-RXN	L2R	//a secondary metabolite_Ext//	//a secondary metabolite//
+fhuC	TRANS-RXN-297	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+fhuC	TRANS-RXN-298	L2R	//ferrichrome_Ext//	//ferrichrome//
+fepC	ABC-10-RXN	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+fecB	ABC-9-RXN	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+fhuD	ABC-11-RXN	L2R	//a secondary metabolite_Ext//	//a secondary metabolite//
+fhuD	TRANS-RXN-297	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+fhuD	TRANS-RXN-298	L2R	//ferrichrome_Ext//	//ferrichrome//
+fes	RXN-20025	L2R	//ferrienterochelin//	//dihydroxybenzoylserine-iron//2,3-dihydroxybenzoylserine//
+fes	RXN0-6938	L2R	//ferrienterochelin//	//hydrolyzed ferric enterobactin complex//
+fes	RXN-20023	L2R	//hydrolyzed ferric enterobactin complex//	//ferric-[(2,3-dihydroxybenzoylserine)2] complex//2,3-dihydroxybenzoylserine//
+fes	RXN-20024	L2R	//ferric-[(2,3-dihydroxybenzoylserine)2] complex//	//dihydroxybenzoylserine-iron//2,3-dihydroxybenzoylserine//
+fes	RXN0-1661	L2R	//enterobactin//	//2,3-dihydroxybenzoylserine//
+fes	RXN-14477	L2R	//enterobactin//	//(2,3-dihydroxybenzoylserine)3//
+fes	RXN-14478	L2R	//(2,3-dihydroxybenzoylserine)3//	//(2,3-dihydroxybenzoylserine)2//2,3-dihydroxybenzoylserine//
+fes	RXN-14479	L2R	//(2,3-dihydroxybenzoylserine)2//	//2,3-dihydroxybenzoylserine//
+loiP	RXN0-3221	L2R	//Protein//	//Protein//
+nth	RXN0-2601	L2R	//a damaged DNA (purine or pyrimidine)//	//an apyrimidinic site in DNA//
+nth	4.2.99.18-RXN	L2R	//a DNA containing an AP site//	//a 5'-phospho-[DNA]//a 3'-terminal unsaturated sugar//
+nth	RXN0-2584	L2R	//a uracil in DNA//	//an apyrimidinic site in DNA//uracil//
+nth	RXN-20478	L2R	//a base(2)//	//an apyrimidinic site in DNA//thymine glycol//
+nnr	RXN0-6727	L2R	//(S)-NADHX//	//|Pi|//
+nnr	RXN-13141	L2R	//(S)-NADPHX//	//|Pi|//
+nnr	RXN-12752	L2R	//(R)-NADHX//	//(S)-NADHX//
+nnr	RXN-13142	L2R	//(R)-NADPHX//	//(S)-NADPHX//
+katG	CATAL-RXN	L2R	//perhydrol//	//O2//
+katG	RXN-8667	L2R	//an acceptor//perhydrol//	//an acceptor//
+cynS	R524-RXN	L2R	//cyanate//carbonate//	//carbamate//CO2//
+yjjG	AMP-DEPHOSPHORYLATION-RXN	L2R	//	//adenosine//|Pi|//
+yjjG	RXN-14025	L2R	//UMP//	//uridine//|Pi|//
+yjjG	RXN-14026	L2R	//CMP//	//cytidine//|Pi|//
+yjjG	5-NUCLEOTID-RXN	L2R	//NMP//	//nucleoside//|Pi|//
+sodB	SUPEROX-DISMUT-RXN	L2R	//superoxide//	//perhydrol//O2//
+bcp	1.11.1.15-RXN	L2R	//a thioredoxin//ROOH//	//a thioredoxin//ROH//
+bcp	RXN-19953	L2R	//protein with reduced SH groups//ROOH//	//protein with reduced SH groups//ROH//
+bcp	RXN-19954	L2R	//protein with reduced SH groups//	//protein with reduced SH groups//
+bcp	RXN0-5468	L2R	//a thioredoxin//protein with reduced SH groups//	//a thioredoxin//protein with reduced SH groups//
+ahpC	R4-RXN	L2R	//ROOH//	//ROH//
+yeiG	S-FORMYLGLUTATHIONE-HYDROLASE-RXN	L2R	//S-formylglutathione//	//formate//GSH//
+yeiG	GLYOXII-RXN	L2R	//D-lactoylglutathione//	//GSH//D-lactate//
+dtd	RXN-15041	L2R	//GLYCYL-TRNA(GLY)//	//an amino acid or its derivative//a single-stranded RNA//
+dtd	RXN0-1882	L2R	//D-Tyr-tRNATyr//	//a single-stranded RNA//D-tyrosine//
+fpr	FLAVONADPREDUCT-RXN	RVB	//dihydro flavodoxin//	//a flavoprotein//
+fpr	RXN-17897	RVB	//Protein//	//Protein//
+yjjX	RXN0-5074	L2R	//XTP//	//XDP//|Pi|//
+yjjX	RXN0-5073	L2R	//ITP//	//IDP//|Pi|//
+yieF	NQOR-RXN	L2R	//an acceptor//	//an acceptor//
+yieF	RXN0-5330	L2R	//an acceptor//	//an acceptor//
+yieF	RXN0-7123	L2R	//a vitamin//	//an acceptor//
+yieF	RXN0-271	L2R	//an acceptor//	//an acceptor//
+yieF	RXN0-3381	L2R	//Cr(VI)//O2//	//Cr(III)//superoxide//
+katE	CATAL-RXN	L2R	//perhydrol//	//O2//
+katE	RXN-8073	L2R	//protoheme//perhydrol//	//an organometallic compound//
+arsC	RXN-982	RVB	//arsenate//a glutaredoxin//	//arsenite//a glutaredoxin//
+ybiA	RXN-19407	L2R	//5-amino-6-(5'-phosphoribosylamino)uracil//	//5,6-diaminouracil//D-ribofuranose 5-phosphate//
+ahpF	R4-RXN	L2R	//ROOH//	//ROH//
+sodA	SUPEROX-DISMUT-RXN	L2R	//superoxide//	//perhydrol//O2//
+relE	RXN0-5509	L2R	//a single-stranded RNA//	//a single-stranded RNA//
+mdtN	TRANS-RXN-351	L2R	//sulfadiazine_Ext//	//sulfadiazine//
+dacA	RXN-16649	L2R	//all carbohydrates//	//all carbohydrates//D-ala//
+dacA	BETA-LACTAMASE-RXN	L2R	//an antibiotic//	//a substituted beta-amino acid//
+dacA	3.4.17.8-RXN	L2R	//UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine//	//UDP-MurNAc-tetrapeptide//D-ala//
+dacA	RXN-19249	RVB	//Ac2-Lys-Ala-Ala//	//diacetyl-lys-D-ala//D-ala//
+dacA	RXN-19253	RVB	//peptidoglycan pentapeptide//	//peptidoglycan tetrapeptide//D-ala//
+tehB	RXN0-6576	L2R	//SAM//TeO2//	//methanetelluronate//SAH//
+ispH	RXN0-884	L2R	//HMBDP//Protein//	//DPP//Protein//
+ispH	ISPH2-RXN	L2R	//HMBDP//Protein//	//IPP//Protein//
+ampH	RXN0-3461	L2R	//peptidoglycan D-alanyl-DAP crosslink//	//peptidoglycan tetrapeptide, glycan chain 2//peptidoglycan tetrapeptide, glycan chain 1//
+ampH	RXN-16649	L2R	//all carbohydrates//	//all carbohydrates//D-ala//
+nfsB	R303-RXN	L2R	//an aromatic compound//	//an aromatic compound//
+nfsB	RXN-13853	L2R	//an aromatic compound//	//an aromatic compound//
+nfsB	1.5.1.34-RXN	L2R	//quinoid dihydrobiopterin//	//an organic heterocyclic compound//
+mdtP	TRANS-RXN-351	L2R	//sulfadiazine_Ext//	//sulfadiazine//
+fau	5-FORMYL-THF-CYCLO-LIGASE-RXN	L2R	//folinate//	//CH-THF mono-L-glutamate//|Pi|//
+lplT	TRANS-RXN-294	RVB	//a lipid_Ext//	//a lipid//
+lplT	TRANS-RXN-295	RVB	//a lipid_Ext//	//a lipid//
+mdtE	TRANS-RXN-352	L2R	//deoxycholate_Ext//	//deoxycholate//
+mdtE	TRANS-RXN-367	L2R	//ilotycin_Ext//	//ilotycin//
+mdtE	TRANS-RXN-359	L2R	//ethidium_Ext//	//ethidium//
+mdtO	TRANS-RXN-351	L2R	//sulfadiazine_Ext//	//sulfadiazine//
+cysA	ABC-70-RXN	L2R	//H2SO4_Ext//	//H2SO4//
+cysA	ABC-7-RXN	L2R	//thiosulfate_Ext//	//thiosulfate//
+cysA	TRANS-RXN0-478	L2R	//selenate_Ext//	//selenate//
+cysA	TRANS-RXN0-479	L2R	//selenite_Ext//	//selenite//
+cysA	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+crcB	TRANS-RXN0-498	RVB	//fluoride_Ext//	//fluoride//
+sseA	RXN0-6945	L2R	//mercaptopyruvate//	//BTS//sulfide//
+sseA	MERCAPYSTRANS-RXN	L2R	//mercaptopyruvate//a thioredoxin//	//BTS//sulfide//a thioredoxin//
+sseA	RXN-18702	L2R	//mercaptopyruvate//an amino acid or its derivative//	//an amino acid or its derivative//BTS//
+sseA	RXN-18703	L2R	//an amino acid or its derivative//a thioredoxin//	//an amino acid or its derivative//sulfide//a thioredoxin//
+sseA	THIOSULFATE-SULFURTRANSFERASE-RXN	L2R	//thiosulfate//cyanide//	//rhodanide//sulfite//
+umuC	DNA-DIRECTED-DNA-POLYMERASE-RXN	L2R	//a deoxynucleotide//[DNA]//	//PP//[DNA]//
+uvrD	RXN-11135	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+umuD	DNA-DIRECTED-DNA-POLYMERASE-RXN	L2R	//a deoxynucleotide//[DNA]//	//PP//[DNA]//
+polB	RXN0-4961	L2R	//[DNA]//	//NMP//
+polB	DNA-DIRECTED-DNA-POLYMERASE-RXN	L2R	//a deoxynucleotide//[DNA]//	//PP//[DNA]//
+dinG	RXN0-4261	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+uvrA	RXN0-2621	L2R	//DNA with lesion//	//DNA without lesion//
+umpG	AMP-DEPHOSPHORYLATION-RXN	L2R	//	//adenosine//|Pi|//
+umpG	RXN-7609	L2R	//GMP//	//guanosine//|Pi|//
+umpG	RXN-14025	L2R	//UMP//	//uridine//|Pi|//
+umpG	RXN-14026	L2R	//CMP//	//cytidine//|Pi|//
+umpG	5-NUCLEOTID-RXN	L2R	//NMP//	//nucleoside//|Pi|//
+umpG	3-NUCLEOTID-RXN	L2R	//a ribonucleoside 3'-phosphate//	//nucleoside//|Pi|//
+umpG	RXN-14126	L2R	//3'-AMP//	//adenosine//|Pi|//
+umpG	RXN-14090	L2R	//3'-CMP//	//cytidine//|Pi|//
+umpG	RXN-14142	L2R	//dGMP//	//deoxyguanosine//|Pi|//
+yhdJ	2.1.1.72-RXN	L2R	//SAM//a ribonucleotide//	//SAH//a base(2)//
+betT	TRANS-RXN-99	RVB	//choline_Ext//	//choline//
+ytfT	TRANS-RXN0-492	L2R	//Galf_Ext//	//Galf//
+ytfT	TRANS-RXN0-491	L2R	//alpha-D-galactofuranose_Ext//	//alpha-D-galactofuranose//
+feoB	TRANS-RXN-8	L2R	//Fe+2_Ext//	//Fe+2//
+yejE	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+yejE	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+yejE	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+etk	2.7.10.1-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+acrB	TRANS-RXN-354	L2R	//euflavine_Ext//	//euflavine//
+acrB	TRANS-RXN-359	L2R	//ethidium_Ext//	//ethidium//
+acrB	TRANS-RXN0-592	L2R	//chenodiol_Ext//	//chenodiol//
+acrB	TRANS-RXN-356	L2R	//caprate_Ext//	//caprate//
+acrB	TRANS-RXN-355	L2R	//hexane_Ext//	//hexane//
+acrB	TRANS-RXN-357	L2R	//enterobactin_Ext//	//enterobactin//
+ydeA	TRANS-RXN-40	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+emrB	TRANS-RXN-365	L2R	//deoxycholate_Ext//	//deoxycholate//
+emrB	TRANS-RXN-364	L2R	//CCCP_Ext//	//CCCP//
+emrB	TRANS-RXN-363	L2R	//nalidixate_Ext//	//nalidixate//
+ugpE	ABC-34-RXN	L2R	//L-G3P_Ext//	//L-G3P//
+ugpE	TRANS-RXN0-573	L2R	//glycerol-3-P-OR_Ext//	//glycerol-3-P-OR//
+psd	PHOSPHASERDECARB-RXN	L2R	//a lipid//	//a lipid//CO2//
+pgpB	PGPPHOSPHA-RXN	L2R	//a lipid//	//glycerol-3-P-OR//|Pi|//
+pgpB	RXN-11277	L2R	//DGPP//	//a lipid//|Pi|//
+pgpB	UNDECAPRENYL-DIPHOSPHATASE-RXN	L2R	//Und-PP//	//Und-P//|Pi|//
+emrE	TRANS-RXN0-628	RVB	//a drug_Ext//	//a drug//
+emrE	TRANS-RXN0-493	RVB	//sulfadiazine_Ext//	//sulfadiazine//
+emrE	TRANS-RXN-344	RVB	//ethidium_Ext//	//ethidium//
+emrE	TRANS-RXN0-533	RVB	//choline_Ext//	//choline//
+emrE	TRANS-RXN0-532	RVB	//lycine_Ext//	//lycine//
+frlA	TRANS-RXN0-418	L2R	//psicoselysine_Ext//	//psicoselysine//
+frlA	TRANS-RXN0-417	L2R	//fructoselysine_Ext//	//fructoselysine//
+cynX	TRANS-RXN-14	L2R	//cyanate_Ext//	//cyanate//
+dppB	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+dtpC	TRANS-RXN0-267	RVB	//Peptide_Ext//	//Peptide//
+dtpC	TRANS-RXN0-288	RVB	//Peptide_Ext//	//Peptide//
+cydC	RXN0-21	L2R	//GSH_Ext//	//GSH//
+cydC	RXN0-3	L2R	//Cys_Ext//	//Cys//
+yiaM	TRANS-RXN0-235	L2R	//Sodium_Ext//DKG_Ext//	//Sodium//DKG//
+ccmD	TRANS-RXN0-162	L2R	//protoheme_Ext//	//protoheme//
+psuT	TRANS-RXN0-538	RVB	//pseudouridine_Ext//	//pseudouridine//
+yijE	TRANS-RXN0-507	L2R	//L-cystine_Ext//	//L-cystine//
+yijE	TRANS-RXN0-514	L2R	//D-cystine_Ext//	//D-cystine//
+yijE	TRANS-RXN-267	L2R	//an amino acid or its derivative_Ext//	//an amino acid or its derivative//
+emrD	TRANS-RXN-339	RVB	//CCCP_Ext//	//CCCP//
+emrD	TRANS-RXN-44	RVB	//a drug_Ext//	//a drug//
+oppC	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppC	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppC	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+entE	ENTMULTI-RXN	L2R	//ser//2-pyrocatechuate//	//PP//enterobactin//
+entE	ENTF-RXN	L2R	//ser//	//PP//L-seryl-AMP//
+entE	RXN-15890	L2R	//enterochelin synthase F//L-seryl-AMP//	//seryl-[EntF peptidyl-carrier protein]//
+entE	RXN-15891	L2R	//2,3-dihydroxybenzoyl-EntB//seryl-[EntF peptidyl-carrier protein]//	//holo EntB//Protein//
+entE	ENTG-RXN	L2R	//Protein//	//enterobactin//enterochelin synthase F//
+entE	RXN-19445	L2R	//2-pyrocatechuate//holo EntB//	//2,3-dihydroxybenzoyl-EntB//PP//
+entE	DHBAMPLIG-RXN	L2R	//2-pyrocatechuate//	//PP//2,3-dihydroxybenzoyl-AMP//
+entE	RXN0-6442	L2R	//2,3-dihydroxybenzoyl-AMP//holo EntB//	//2,3-dihydroxybenzoyl-EntB//
+entE	RXN0-5208	L2R	//	//Ap4A//PP//
+lgoT	TRANS-RXN0-227	RVB	//aldehydo-L-galactonate_Ext//	//aldehydo-L-galactonate//
+yjfF	TRANS-RXN0-492	L2R	//Galf_Ext//	//Galf//
+yjfF	TRANS-RXN0-491	L2R	//alpha-D-galactofuranose_Ext//	//alpha-D-galactofuranose//
+narU	TRANS-RXN0-239	L2R	//nitrate_Ext//nitrite_Ext//	//nitrate//nitrite//
+yehY	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+nhaB	TRANS-RXN-130	RVB	//Sodium_Ext//	//Sodium//
+mscS	TRANS-RXN-86	L2R	//non-specific ion/solute_Ext//	//non-specific ion/solute//
+dsdX	TRANS-RXN0-495	L2R	//D-serine_Ext//	//D-serine//
+mdtK	RXN0-2561	RVB	//a drug_Ext//Sodium_Ext//	//a drug//Sodium//
+mdtK	TRANS-RXN-347	RVB	//norfloxacin_Ext//Sodium_Ext//	//norfloxacin//Sodium//
+mdtK	TRANS-RXN-348	RVB	//TPP+_Ext//Sodium_Ext//	//TPP+//Sodium//
+mdtK	TRANS-RXN-349	RVB	//deoxycholate_Ext//Sodium_Ext//	//deoxycholate//Sodium//
+arsB	RXN0-7190	RVB	//stiborous acid_Ext//	//stiborous acid//
+arsB	TRANS-RXN0-264	RVB	//arsenite_Ext//	//arsenite//
+nikB	ABC-20-RXN	L2R	//nickel_Ext//	//nickel//
+nupC	TRANS-RXN-108E	RVB	//deoxyinosine_Ext//	//deoxyinosine//
+nupC	TRANS-RXN-108G	RVB	//inosine_Ext//	//inosine//
+nupC	TRANS-RXN-108I	RVB	//uridine_Ext//	//uridine//
+nupC	TRANS-RXN-108H	RVB	//thymidine_Ext//	//thymidine//
+nupC	TRANS-RXN-108F	RVB	//deoxyuridine_Ext//	//deoxyuridine//
+nupC	TRANS-RXN-108D	RVB	//d-cytidine_Ext//	//d-cytidine//
+nupC	TRANS-RXN-108C	RVB	//deoxyadenosine_Ext//	//deoxyadenosine//
+nupC	TRANS-RXN-108B	RVB	//cytidine_Ext//	//cytidine//
+nupC	TRANS-RXN-108A	RVB	//adenosine_Ext//	//adenosine//
+fieF	TRANS-RXN0-244	RVB	//Cadmium_Ext//	//Cadmium//
+fieF	RXN0-6	RVB	//Fe+2_Ext//	//Fe+2//
+fieF	TRANS-RXN0-200	RVB	//Zn_Ext//	//Zn//
+chaA	TRANS-RXN-42	RVB	//potassium_Ext//	//potassium//
+chaA	TRANS-RXN-101	RVB	//Sodium_Ext//	//Sodium//
+aas	ACYLGPEACYLTRANS-RXN	RVB	//Protein//a lipid//	//Protein//a lipid//
+aas	RXN-5741	L2R	//C-8 acid//Protein//	//AcpP//PP//
+aas	RXN0-5513	L2R	//Protein//acid//	//PP//Protein//
+eptA	RXN-14379	L2R	//a lipid//core oligosaccharide lipid A//	//an ester//lipid A-core-pyrophosphoethanolamine//
+bioP	TRANS-RXN0-240	L2R	//biotin_Ext//	//biotin//
+plsC	RXN-17014	L2R	//Protein//1-palmitoyl-sn-glycerol 3-phosphate//	//16:0-18:1-PA//Protein//
+plsC	RXN-17015	L2R	//Protein//(Z)-octadec-11-enoylglycerol 3-phosphate//	//18:1-18:1-PA//Protein//
+plsC	1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	L2R	//a lipid//Protein//	//a lipid//Protein//
+plsC	RXN0-5514	L2R	//a lipid//Protein//	//a lipid//Protein//
+plsC	RXN-17019	L2R	//16:1-delta9-CoA//1-myristoylglycerol 3-phosphate//	//1-myristoyl-2-palmitoleoyl phosphatidate//CoA//
+plsC	RXN-17008	L2R	//16:1-delta9-CoA//1-palmitoyl-sn-glycerol 3-phosphate//	//16:0-16:1-PA//CoA//
+plsC	RXN-17009	L2R	//16:1-delta9-CoA//(Z)-octadec-11-enoylglycerol 3-phosphate//	//18:1-16:1-PA//CoA//
+plsC	RXN-17023	L2R	//1-palmitoyl-sn-glycerol 3-phosphate//n-C14:0CoA//	//1-palmitoyl-2-myristoyl phosphatidate//CoA//
+plsC	RXN-17021	L2R	//n-C14:0CoA//1-myristoylglycerol 3-phosphate//	//dimyristoyl phosphatidate//CoA//
+plsC	RXN-17010	L2R	//cis-vaccenoyl-CoA//1-palmitoyl-sn-glycerol 3-phosphate//	//16:0-18:1-PA//CoA//
+plsC	RXN-17011	L2R	//cis-vaccenoyl-CoA//(Z)-octadec-11-enoylglycerol 3-phosphate//	//18:1-18:1-PA//CoA//
+plsC	RXN-1623	L2R	//an ester//a lipid//	//CoA//a lipid//
+plsC	RXN0-6705	L2R	//1-palmitoyl-sn-glycerol 3-phosphate//Protein//	//PA(16:0/16:0)//Protein//
+plsC	RXN-17022	L2R	//Protein//1-myristoylglycerol 3-phosphate//	//dimyristoyl phosphatidate//Protein//
+plsC	RXN-17020	L2R	//Protein//1-myristoylglycerol 3-phosphate//	//1-myristoyl-2-palmitoleoyl phosphatidate//Protein//
+plsC	RXN-17024	L2R	//1-palmitoyl-sn-glycerol 3-phosphate//Protein//	//1-palmitoyl-2-myristoyl phosphatidate//Protein//
+plsC	RXN-17012	L2R	//Protein//1-palmitoyl-sn-glycerol 3-phosphate//	//16:0-16:1-PA//Protein//
+plsC	RXN-17013	L2R	//Protein//(Z)-octadec-11-enoylglycerol 3-phosphate//	//18:1-16:1-PA//Protein//
+plsB	RXN-10462	L2R	//L-G3P//Protein//	//a lipid//Protein//
+plsB	RXN-17018	L2R	//Protein//L-G3P//	//1-palmitoyl-sn-glycerol 3-phosphate//Protein//
+plsB	RXN-17017	L2R	//Protein//L-G3P//	//1-myristoylglycerol 3-phosphate//Protein//
+plsB	RXN-17016	L2R	//Protein//L-G3P//	//(Z)-octadec-11-enoylglycerol 3-phosphate//Protein//
+plsB	RXN-1381	L2R	//an ester//L-G3P//	//a lipid//CoA//
+nirC	TRANS-RXN-137	L2R	//nitrite_Ext//	//nitrite//
+glpG	3.4.21.105-RXN	L2R	//type-1 transmembrane proteins//	//type-1 transmembrane proteins//
+fepG	ABC-10-RXN	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+kefB	TRANS-RXN-42	RVB	//potassium_Ext//	//potassium//
+cysW	ABC-70-RXN	L2R	//H2SO4_Ext//	//H2SO4//
+cysW	ABC-7-RXN	L2R	//thiosulfate_Ext//	//thiosulfate//
+cysW	TRANS-RXN0-478	L2R	//selenate_Ext//	//selenate//
+cysW	TRANS-RXN0-479	L2R	//selenite_Ext//	//selenite//
+cysW	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+cdsA	CDPDIGLYSYN-RXN	L2R	//CTP//a lipid//	//PP//CDP-diglyceride//
+cdsA	RXN0-5515	L2R	//CTP//a lipid//	//PP//CDP-diglyceride//
+gntT	TRANS-RXN0-209	RVB	//D-gluconate_Ext//	//D-gluconate//
+pitA	TRANS-RXN-114	RVB	//	//
+pitA	TRANS-RXN-279	RVB	//zinc hydrogenphosphate_Ext//	//zinc hydrogenphosphate//
+pitA	TRANS-RXN-278	RVB	//calcium hydrogenphosphate_Ext//	//calcium hydrogenphosphate//
+pitA	TRANS-RXN-277	RVB	//magnesium hydrogenphosphate_Ext//	//magnesium hydrogenphosphate//
+pitA	TRANS-RXN0-550	RVB	//arsenate_Ext//	//arsenate//
+pitA	TRANS-RXN-280	RVB	//TeO2_Ext//	//TeO2//
+uraA	TRANS-RXN-132	RVB	//uracil_Ext//	//uracil//
+ccmC	TRANS-RXN0-162	L2R	//protoheme_Ext//	//protoheme//
+metI	RXN0-4522	L2R	//met_Ext//	//met//
+metI	TRANS-RXN0-202	L2R	//D-methionine_Ext//	//D-methionine//
+metI	RXN0-7185	L2R	//L-methionine-R-sulfoxide_Ext//	//L-methionine-R-sulfoxide//
+metI	RXN0-7186	L2R	//L-methionine-(S)-S-oxide_Ext//	//L-methionine-(S)-S-oxide//
+metI	TRANS-RXN0-511	L2R	//Methionine S-oxide_Ext//	//Methionine S-oxide//
+metI	TRANS-RXN0-510	L2R	//acetyl-DL-methionine_Ext//	//acetyl-DL-methionine//
+metI	TRANS-RXN-383	L2R	//D-selenomethionine_Ext//	//D-selenomethionine//
+bacA	UNDECAPRENYL-DIPHOSPHATASE-RXN	L2R	//Und-PP//	//Und-P//|Pi|//
+bacA	RXN-11776	L2R	//FPP//	//(E,E)-farnesyl phosphate//|Pi|//
+clsA	CARDIOLIPSYN-RXN	L2R	//glycerol-3-P-OR//	//a lipid//glycerol//
+corA	TRANS-RXN-141B	L2R	//nickel_Ext//	//nickel//
+corA	TRANS-RXN-141A	L2R	//cobalt ion_Ext//	//cobalt ion//
+corA	TRANS-RXN-141	L2R	//magnesium_Ext//	//magnesium//
+fecD	ABC-9-RXN	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+emrY	TRANS-RXN-365	L2R	//deoxycholate_Ext//	//deoxycholate//
+mgtA	TRANS-RXN-250	L2R	//magnesium_Ext//	//magnesium//
+cusA	TRANS-RXN0-280	L2R	//Cu(I)_Ext//	//Cu(I)//
+cusA	TRANS-RXN-90	L2R	//silver_Ext//	//silver//
+hisQ	ABC-14-RXN	L2R	//his_Ext//	//his//
+hisQ	ABC-37-RXN	L2R	//Ornithine_Ext//	//Ornithine//
+hisQ	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+hisQ	ABC-3-RXN	L2R	//lys_Ext//	//lys//
+actP	RXN0-1981	RVB	//acetate_Ext//Sodium_Ext//	//acetate//Sodium//
+actP	RXN0-5111	RVB	//glycolate_Ext//Sodium_Ext//	//glycolate//Sodium//
+actP	TRANS-RXN0-576	RVB	//TeO2_Ext//Sodium_Ext//	//TeO2//Sodium//
+mdtG	TRANS-RXN-44	RVB	//a drug_Ext//	//a drug//
+mdtG	TRANS-RXN-342	RVB	//fosfomycin_Ext//	//fosfomycin//
+mdtG	TRANS-RXN0-589	RVB	//deoxycholate_Ext//	//deoxycholate//
+pssA	PHOSPHASERSYN-RXN	L2R	//CDP-diglyceride//ser//	//CMP//a lipid//
+pgsA	PHOSPHAGLYPSYN-RXN	L2R	//CDP-diglyceride//L-G3P//	//CMP//a lipid//
+kdpA	TRANS-RXN-2	L2R	//potassium_Ext//	//potassium//
+exbB	TRANS-RXN0-283	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+exbB	RXN0-1565	L2R	//B12s_Ext//	//B12s//
+exbB	RXN0-1682	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+exbB	RXN0-1701	L2R	//ferrichrome_Ext//	//ferrichrome//
+exbB	RXN0-1684	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+exbB	RXN0-1702	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+dppC	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+acrD	TRANS-RXN-360	L2R	//an antibiotic_Ext//	//an antibiotic//
+yiaN	TRANS-RXN0-235	L2R	//Sodium_Ext//DKG_Ext//	//Sodium//DKG//
+dsbD	RXN-20017	L2R	//DsbC//a thioredoxin//	//a thioredoxin//DsbC//
+dsbD	RXN-20058	L2R	//DsbG//a thioredoxin//	//DsbGreduced//a thioredoxin//
+dsbD	RXN-19949	L2R	//a protein with a disulfide bond//a thioredoxin//	//protein with reduced SH groups//a thioredoxin//
+eptC	RXN-14363	L2R	//a lipid//core oligosaccharide lipid A//	//an ester//phosphoethanolamine modifed Lipid A//
+amtB	TRANS-RXN0-206	L2R	//ammonium_Ext//	//ammonium//
+pnuC	TRANS-RXN0-481	L2R	//nicotinamide ribose_Ext//	//nicotinamide ribose//
+kup	TRANS-RXN-3	RVB	//potassium_Ext//	//potassium//
+bcr	TRANS-RXN-340	RVB	//bicozamycin_Ext//	//bicozamycin//
+bcr	TRANS-RXN-44	RVB	//a drug_Ext//	//a drug//
+codB	TRANS-RXN-116	RVB	//cytosine_Ext//	//cytosine//
+xanP	RXN-5076	RVB	//xanthine_Ext//	//xanthine//
+panF	TRANS-RXN-117	RVB	//Sodium_Ext//D-pantothenic acid_Ext//	//Sodium//D-pantothenic acid//
+entF	ENTMULTI-RXN	L2R	//ser//2-pyrocatechuate//	//PP//enterobactin//
+entF	RXN-19445	L2R	//2-pyrocatechuate//holo EntB//	//2,3-dihydroxybenzoyl-EntB//PP//
+entF	DHBAMPLIG-RXN	L2R	//2-pyrocatechuate//	//PP//2,3-dihydroxybenzoyl-AMP//
+entF	RXN0-6442	L2R	//2,3-dihydroxybenzoyl-AMP//holo EntB//	//2,3-dihydroxybenzoyl-EntB//
+entF	RXN-15891	L2R	//2,3-dihydroxybenzoyl-EntB//seryl-[EntF peptidyl-carrier protein]//	//holo EntB//Protein//
+entF	ENTG-RXN	L2R	//Protein//	//enterobactin//enterochelin synthase F//
+entF	RXN-19474	L2R	//ser//enterochelin synthase F//	//seryl-[EntF peptidyl-carrier protein]//PP//
+entF	ENTF-RXN	L2R	//ser//	//PP//L-seryl-AMP//
+entF	RXN-15890	L2R	//enterochelin synthase F//L-seryl-AMP//	//seryl-[EntF peptidyl-carrier protein]//
+abgT	TRANS-RXN0-452	RVB	//pABA-Glu_Ext//	//pABA-Glu//
+opgB	PGLYCEROLTRANSII-RXN	RVB	//all carbohydrates//all carbohydrates//	//all carbohydrates//all carbohydrates//
+opgB	PGLYCEROLTRANSI-RXN	RVB	//all carbohydrates//glycerol-3-P-OR//	//all carbohydrates//an ester//
+hisM	ABC-14-RXN	L2R	//his_Ext//	//his//
+hisM	ABC-37-RXN	L2R	//Ornithine_Ext//	//Ornithine//
+hisM	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+hisM	ABC-3-RXN	L2R	//lys_Ext//	//lys//
+nepI	RXN0-22	RVB	//guanosine_Ext//	//guanosine//
+nepI	RXN0-18	RVB	//inosine_Ext//	//inosine//
+dsbB	RXN-19988	L2R	//DsbAreduced//ubiquinone(8)//	//Dsf//ubiquinol(8)//
+dsbB	RXN-19998	L2R	//DsbAreduced//MK-8//	//Dsf//MKH2-8//
+dsbB	RXN-19950	L2R	//DsbAreduced//an acceptor//	//Dsf//an acceptor//
+dsbB	RXN-20160	L2R	//DsbAreduced//RosB//	//Dsf//DsbBreduced//
+dsbB	RXN-20056	L2R	//DsbBreduced//an acceptor//	//RosB//an acceptor//
+mscL	TRANS-RXN-86	L2R	//non-specific ion/solute_Ext//	//non-specific ion/solute//
+msbA	TRANS-RXN-236	L2R	//a lipid_Ext//	//a lipid//
+msbA	3.6.3.39-RXN	L2R	//a lipid_Ext//	//a lipid//
+entB	ENTMULTI-RXN	L2R	//ser//2-pyrocatechuate//	//PP//enterobactin//
+entB	RXN-19445	L2R	//2-pyrocatechuate//holo EntB//	//2,3-dihydroxybenzoyl-EntB//PP//
+entB	DHBAMPLIG-RXN	L2R	//2-pyrocatechuate//	//PP//2,3-dihydroxybenzoyl-AMP//
+entB	RXN0-6442	L2R	//2,3-dihydroxybenzoyl-AMP//holo EntB//	//2,3-dihydroxybenzoyl-EntB//
+entB	ENTF-RXN	L2R	//ser//	//PP//L-seryl-AMP//
+entB	RXN-15890	L2R	//enterochelin synthase F//L-seryl-AMP//	//seryl-[EntF peptidyl-carrier protein]//
+entB	RXN-15891	L2R	//2,3-dihydroxybenzoyl-EntB//seryl-[EntF peptidyl-carrier protein]//	//holo EntB//Protein//
+entB	ENTG-RXN	L2R	//Protein//	//enterobactin//enterochelin synthase F//
+entB	ISOCHORMAT-RXN	L2R	//isochorismate//	//BTS//(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate//
+gntP	TRANS-RXN-81	RVB	//acid_Ext//	//acid//
+gntP	TRANS-RXN0-209	RVB	//D-gluconate_Ext//	//D-gluconate//
+modB	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+mdtF	TRANS-RXN-352	L2R	//deoxycholate_Ext//	//deoxycholate//
+mdtF	TRANS-RXN-367	L2R	//ilotycin_Ext//	//ilotycin//
+mdtF	TRANS-RXN-359	L2R	//ethidium_Ext//	//ethidium//
+nikC	ABC-20-RXN	L2R	//nickel_Ext//	//nickel//
+rfbX	TRANS-RXN-146	L2R	//E. coli O16 antigen monomer-diphosphoundecaprenol_Ext//	//E. coli O16 antigen monomer-diphosphoundecaprenol//
+setA	TRANS-RXN-82	RVB	//alpha-lactose_Ext//	//alpha-lactose//
+tatC	TRANS-RXN0-181	L2R	//Protein_Ext//	//Protein//
+pntA	TRANS-RXN0-277	L2R	//	//
+lepB	3.4.21.89-RXN	L2R	//a peptide with a leader sequence//	//Protein//a leader sequence//
+fhuB	ABC-11-RXN	L2R	//a secondary metabolite_Ext//	//a secondary metabolite//
+fhuB	TRANS-RXN-297	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+fhuB	TRANS-RXN-298	L2R	//ferrichrome_Ext//	//ferrichrome//
+dgkA	DIACYLGLYKIN-RXN	L2R	//an ester//	//a lipid//
+dauA	TRANS-RXN-121	RVB	//suc_Ext//	//suc//
+dauA	TRANS-RXN-122A	RVB	//asp_Ext//	//asp//
+dauA	TRANS-RXN0-553	RVB	//fum_Ext//	//fum//
+rhtA	TRANS-RXN-242	RVB	//homo-ser_Ext//	//homo-ser//
+rhtA	TRANS-RXN0-0244	RVB	//thr_Ext//	//thr//
+ccmB	TRANS-RXN0-162	L2R	//protoheme_Ext//	//protoheme//
+putP	TRANS-RXN-118	RVB	//Sodium_Ext//pro_Ext//	//Sodium//pro//
+putP	TRANS-RXN0-505	L2R	//propanoate_Ext//	//propanoate//
+kefC	TRANS-RXN-42	RVB	//potassium_Ext//	//potassium//
+fepD	ABC-10-RXN	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+btuC	ABC-5-RXN	L2R	//B12s_Ext//	//B12s//
+btuC	TRANS-RXN-296	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+idnT	TRANS-RXN0-228	RVB	//5-ketogluconate_Ext//	//5-ketogluconate//
+idnT	TRANS-RXN0-209	RVB	//D-gluconate_Ext//	//D-gluconate//
+idnT	TRANS-RXN-181A	RVB	//L-idonate_Ext//	//L-idonate//
+znuB	ABC-63-RXN	L2R	//Zn_Ext//	//Zn//
+treB	TRANS-RXN-168	L2R	//HPr - phosphorylated_Ext//D-(+)-trehalose_Ext//	//alpha,alpha-trehalose 6-phosphate//Hpr//
+yihO	TRANS-RXN0-580	L2R	//alpha-sulfoquinovose_Ext//	//alpha-sulfoquinovose//
+mdtL	TRANS-RXN-341	RVB	//levomycetin_Ext//	//levomycetin//
+mdtL	TRANS-RXN-44	RVB	//a drug_Ext//	//a drug//
+thiP	ABC-32-RXN	L2R	//thiamin_Ext//	//thiamin//
+emrA	TRANS-RXN-365	L2R	//deoxycholate_Ext//	//deoxycholate//
+emrA	TRANS-RXN-364	L2R	//CCCP_Ext//	//CCCP//
+emrA	TRANS-RXN-363	L2R	//nalidixate_Ext//	//nalidixate//
+pstA	ABC-27-RXN	L2R	//	//
+kdpB	TRANS-RXN-2	L2R	//potassium_Ext//	//potassium//
+exbD	TRANS-RXN0-283	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+exbD	RXN0-1565	L2R	//B12s_Ext//	//B12s//
+exbD	RXN0-1682	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+exbD	RXN0-1701	L2R	//ferrichrome_Ext//	//ferrichrome//
+exbD	RXN0-1684	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+exbD	RXN0-1702	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+gntU	TRANS-RXN0-209	RVB	//D-gluconate_Ext//	//D-gluconate//
+betA	CHD-RXN	RVB	//choline//an acceptor//	//betaine aldehyde//an acceptor//
+betA	RXN0-7230	L2R	//an acceptor//choline//	//an acceptor//betaine aldehyde//
+betA	RXN0-7231	L2R	//an acceptor//betaine aldehyde hydrate//	//an acceptor//lycine//
+cycA	RXN0-5203	RVB	//Seromycin_Ext//	//Seromycin//
+cycA	RXN0-5202	RVB	//ala_Ext//	//ala//
+cycA	RXN0-5201	RVB	//beta-alanine_Ext//	//beta-alanine//
+cycA	RXN0-5130	RVB	//D-serine_Ext//	//D-serine//
+cycA	TRANS-RXN-62B	RVB	//gly_Ext//	//gly//
+cycA	TRANS-RXN-62A	RVB	//D-ala_Ext//	//D-ala//
+yejB	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+yejB	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+yejB	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+ghxP	TRANS-RXN0-562	L2R	//hypoxanthine_Ext//	//hypoxanthine//
+ghxP	TRANS-RXN0-578	L2R	//guanine_Ext//	//guanine//
+acrA	TRANS-RXN-354	L2R	//euflavine_Ext//	//euflavine//
+acrA	TRANS-RXN-359	L2R	//ethidium_Ext//	//ethidium//
+acrA	TRANS-RXN0-592	L2R	//chenodiol_Ext//	//chenodiol//
+acrA	TRANS-RXN-356	L2R	//caprate_Ext//	//caprate//
+acrA	TRANS-RXN-355	L2R	//hexane_Ext//	//hexane//
+acrA	TRANS-RXN-357	L2R	//enterobactin_Ext//	//enterobactin//
+acrA	TRANS-RXN-360	L2R	//an antibiotic_Ext//	//an antibiotic//
+ugpA	ABC-34-RXN	L2R	//L-G3P_Ext//	//L-G3P//
+ugpA	TRANS-RXN0-573	L2R	//glycerol-3-P-OR_Ext//	//glycerol-3-P-OR//
+proW	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+proW	TRANS-RXN-324	L2R	//stachydrine_Ext//	//stachydrine//
+proW	RXN-8638	L2R	//an amine_Ext//	//an amine//
+proW	ABC-26-RXN	L2R	//pro_Ext//	//pro//
+pgpA	PGPPHOSPHA-RXN	L2R	//a lipid//	//glycerol-3-P-OR//|Pi|//
+acrF	TRANS-RXN-352	L2R	//deoxycholate_Ext//	//deoxycholate//
+acrF	TRANS-RXN-367	L2R	//ilotycin_Ext//	//ilotycin//
+acrF	TRANS-RXN-354	L2R	//euflavine_Ext//	//euflavine//
+acrF	TRANS-RXN-355	L2R	//hexane_Ext//	//hexane//
+pitB	TRANS-RXN-114	RVB	//	//
+pitB	TRANS-RXN0-550	RVB	//arsenate_Ext//	//arsenate//
+pitB	TRANS-RXN-278	RVB	//calcium hydrogenphosphate_Ext//	//calcium hydrogenphosphate//
+pitB	TRANS-RXN-277	RVB	//magnesium hydrogenphosphate_Ext//	//magnesium hydrogenphosphate//
+adiC	RXN0-2162	RVB	//agmatine_Ext//arg_Ext//	//agmatine//arg//
+plaP	TRANS-RXN-69	RVB	//putrescine_Ext//	//putrescine//
+adeQ	TRANS-RXN0-577	L2R	//adenine_Ext//	//adenine//
+cydD	RXN0-21	L2R	//GSH_Ext//	//GSH//
+cydD	RXN0-3	L2R	//Cys_Ext//	//Cys//
+tatE	TRANS-RXN0-181	L2R	//Protein_Ext//	//Protein//
+trkH	TRANS-RXN-3	RVB	//potassium_Ext//	//potassium//
+oppB	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppB	3.6.3.23-RXN	L2R	//Peptide_Ext//	//Peptide//
+oppB	TRANS-RXN0-268	L2R	//L-Ala-gamma-D-Glu-Dap_Ext//	//L-Ala-gamma-D-Glu-Dap//
+lspA	RXN-17362	L2R	//a [prolipoprotein]-S-1,2-diacyl-sn-glyceryl-L-cysteine//	//an amino acid or its derivative//Peptide//
+entD	ENTMULTI-RXN	L2R	//ser//2-pyrocatechuate//	//PP//enterobactin//
+entD	RXN-19445	L2R	//2-pyrocatechuate//holo EntB//	//2,3-dihydroxybenzoyl-EntB//PP//
+entD	DHBAMPLIG-RXN	L2R	//2-pyrocatechuate//	//PP//2,3-dihydroxybenzoyl-AMP//
+entD	RXN0-6442	L2R	//2,3-dihydroxybenzoyl-AMP//holo EntB//	//2,3-dihydroxybenzoyl-EntB//
+entD	ENTF-RXN	L2R	//ser//	//PP//L-seryl-AMP//
+entD	RXN-15890	L2R	//enterochelin synthase F//L-seryl-AMP//	//seryl-[EntF peptidyl-carrier protein]//
+entD	RXN-15891	L2R	//2,3-dihydroxybenzoyl-EntB//seryl-[EntF peptidyl-carrier protein]//	//holo EntB//Protein//
+entD	ENTG-RXN	L2R	//Protein//	//enterobactin//enterochelin synthase F//
+entD	RXN-15889	L2R	//EntF//CoA//	//enterochelin synthase F//PAP//
+entD	ENTDB-RXN	L2R	//EntB//CoA//	//holo EntB//PAP//
+lnt	RXN-17363	L2R	//an amino acid or its derivative//a lipid//	//an amino acid or its derivative//a lipid//
+lnt	RXN-19774	L2R	//an amino acid or its derivative//a lipid//	//an amino acid or its derivative//a lipid//
+mdtM	TRANS-RXN-44	RVB	//a drug_Ext//	//a drug//
+mdtM	TRANS-RXN-129	RVB	//Sodium_Ext//	//Sodium//
+mdtM	TRANS-RXN-336	RVB	//potassium_Ext//	//potassium//
+mdtM	TRANS-RXN0-589	RVB	//deoxycholate_Ext//	//deoxycholate//
+mdtM	TRANS-RXN0-588	RVB	//cholate_Ext//	//cholate//
+cysZ	TRANS-RXN0-586	RVB	//H2SO4_Ext//	//H2SO4//
+yehW	TRANS-RXN-283	L2R	//lycine_Ext//	//lycine//
+tehA	TRANS-RXN0-539	L2R	//ethidium_Ext//	//ethidium//
+gdx	TRANS-RXN-369	RVB	//guanidine_Ext//	//guanidine//
+gdx	TRANS-RXN-368	RVB	//cetylpyridinium_Ext//	//cetylpyridinium//
+wzxE	TRANS-RXN0-279	L2R	//lipid III_Ext//	//lipid III//
+waaH	RXN-14361	L2R	//udp-glcua//glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate//	//glucosyl-(heptosyl)3-glucosyluronate-Kdo2-lipid A-phosphate//UDP//
+sbmA	TRANS-RXN-205A	L2R	//an antibiotic_Ext//	//an antibiotic//
+pntB	TRANS-RXN0-277	L2R	//	//
+nupG	TRANS-RXN-31	RVB	//xanthosine_Ext//	//xanthosine//
+nupG	TRANS-RXN-108I	RVB	//uridine_Ext//	//uridine//
+nupG	TRANS-RXN-108H	RVB	//thymidine_Ext//	//thymidine//
+nupG	TRANS-RXN-108B	RVB	//cytidine_Ext//	//cytidine//
+nupG	TRANS-RXN-108A	RVB	//adenosine_Ext//	//adenosine//
+nupG	TRANS-RXN-108F	RVB	//deoxyuridine_Ext//	//deoxyuridine//
+nupG	TRANS-RXN-108E	RVB	//deoxyinosine_Ext//	//deoxyinosine//
+nupG	TRANS-RXN-108D	RVB	//d-cytidine_Ext//	//d-cytidine//
+nupG	TRANS-RXN-108C	RVB	//deoxyadenosine_Ext//	//deoxyadenosine//
+nupG	TRANS-RXN-108G	RVB	//inosine_Ext//	//inosine//
+nupG	TRANS-RXN-108	RVB	//nucleoside_Ext//	//nucleoside//
+ttdT	TRANS-RXN-127	RVB	//tartrate_Ext//suc_Ext//	//tartrate//suc//
+dtpB	TRANS-RXN0-267	RVB	//Peptide_Ext//	//Peptide//
+dtpB	TRANS-RXN0-288	RVB	//Peptide_Ext//	//Peptide//
+proP	TRANS-RXN-29	RVB	//pro_Ext//	//pro//
+proP	TRANS-RXN-29A	RVB	//lycine_Ext//	//lycine//
+rhtB	TRANS-RXN-242	RVB	//homo-ser_Ext//	//homo-ser//
+rhtB	TRANS-RXN-242A	RVB	//L-homoserine lactone_Ext//	//L-homoserine lactone//
+rhtB	TRANS-RXN0-0244	RVB	//thr_Ext//	//thr//
+pgpC	PGPPHOSPHA-RXN	L2R	//a lipid//	//glycerol-3-P-OR//|Pi|//
+dgcC	RXN0-5359	L2R	//GTP//	//c-di-GMP//PP//
+entS	TRANS-RXN0-496	RVB	//enterobactin_Ext//	//enterobactin//
+pyrD	DIHYDROOROTATE-DEHYDROGENASE-RXN	L2R	//an acceptor//L-dihydroorotate//	//an acceptor//orotate//
+pyrD	RXN0-6491	L2R	//L-dihydroorotate//an acceptor//	//orotate//an acceptor//
+pyrD	RXN0-6554	L2R	//L-dihydroorotate//a vitamin//	//orotate//an acceptor//
+nhaA	TRANS-RXN-129	RVB	//Sodium_Ext//	//Sodium//
+nhaA	TRANS-RXN-292	RVB	//lithium ion_Ext//	//lithium ion//
+glpF	TRANS-RXN-131	RVB	//glycerol_Ext//	//glycerol//
+glpF	RXN0-7189	RVB	//ROH_Ext//	//ROH//
+glpF	TRANS-RXN0-536	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+glpF	TRANS-RXN0-537	RVB	//gly_Ext//	//gly//
+glpF	TRANS-RXN0-460	RVB	//urea_Ext//	//urea//
+glpF	TRANS-RXN0-551	RVB	//arsenite_Ext//	//arsenite//
+glpF	RXN0-7191	RVB	//stiborous acid_Ext//	//stiborous acid//
+dgoT	TRANS-RXN-16	RVB	//galactonate_Ext//	//galactonate//
+cysU	ABC-70-RXN	L2R	//H2SO4_Ext//	//H2SO4//
+cysU	ABC-7-RXN	L2R	//thiosulfate_Ext//	//thiosulfate//
+cysU	TRANS-RXN0-478	L2R	//selenate_Ext//	//selenate//
+cysU	TRANS-RXN0-479	L2R	//selenite_Ext//	//selenite//
+cysU	ABC-19-RXN	L2R	//molybdate_Ext//	//molybdate//
+yddG	TRANS-RXN0-265	L2R	//an amino acid or its derivative_Ext//	//an amino acid or its derivative//
+cadB	TRANS-RXN-68	RVB	//1-BioDex_Ext//lys_Ext//	//1-BioDex//lys//
+cadB	TRANS-RXN0-212	RVB	//1-BioDex_Ext//	//1-BioDex//
+lgt	RXN0-20	L2R	//an amino acid or its derivative//glycerol-3-P-OR//	//a [prolipoprotein]-S-1,2-diacyl-sn-glyceryl-L-cysteine//D-glycerol 3-phosphate//
+pstC	ABC-27-RXN	L2R	//	//
+phnM	RXN-17955	L2R	//alpha-D-ribose 1-(acetamidomethylphosphonate) 5-triphosphate//	//1-(2-N-acetamidomethylphosphonato) 5-phospho-alpha-D-ribose//PP//
+phnM	RXN0-6733	L2R	//alpha-D-ribose-1-(methyl)phosphonate-5-triphosphate//	//alpha-D-ribose-1-methylphosphonate 5-phosphate//PP//
+narK	TRANS-RXN-137	L2R	//nitrite_Ext//	//nitrite//
+narK	TRANS-RXN0-239	L2R	//nitrate_Ext//nitrite_Ext//	//nitrate//nitrite//
+kdpC	TRANS-RXN-2	L2R	//potassium_Ext//	//potassium//
+fecC	ABC-9-RXN	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+aqpZ	TRANS-RXN-145	RVB	//	//
+murG	NACGLCTRANS-RXN	RVB	//lipid I//UDP-GlcNAc//	//lipid II//UDP//
+ampG	TRANS-RXN0-258	RVB	//glcNAc-1,6-anhMurNAc_Ext//	//glcNAc-1,6-anhMurNAc//
+ampG	TRANS-RXN0-226	RVB	//GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala_Ext//	//GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala//
+murD	UDP-NACMURALA-GLU-LIG-RXN	L2R	//D-glu//UDP-N-acetyl-alpha-D-muramyl-L-Ala//	//UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate//|Pi|//
+amiA	RXN-16938	L2R	//two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)//	//a peptidoglycan dimer with pentapeptide stem (meso-diaminopimelate containing)//pentapeptide//
+mrcB	RXN-16650	L2R	//all carbohydrates//lipid II//	//all carbohydrates//Und-PP//
+mrcB	RXN-16659	L2R	//all carbohydrates//all carbohydrates//	//a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing)//D-ala//
+mrcB	RXN-16649	L2R	//all carbohydrates//	//all carbohydrates//D-ala//
+amiB	RXN-16938	L2R	//two linked disacharide pentapeptide murein units (uncrosslinked, middle of chain)//	//a peptidoglycan dimer with pentapeptide stem (meso-diaminopimelate containing)//pentapeptide//
+murI	GLUTRACE-RXN	RVB	//glt//	//D-glu//
+ddlB	DALADALALIG-RXN	L2R	//D-ala//	//D-alanyl-D-alanine//|Pi|//
+mrcA	RXN-16650	L2R	//all carbohydrates//lipid II//	//all carbohydrates//Und-PP//
+mrcA	RXN-16659	L2R	//all carbohydrates//all carbohydrates//	//a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing)//D-ala//
+mrcA	RXN-16649	L2R	//all carbohydrates//	//all carbohydrates//D-ala//
+dacB	RXN0-3461	L2R	//peptidoglycan D-alanyl-DAP crosslink//	//peptidoglycan tetrapeptide, glycan chain 2//peptidoglycan tetrapeptide, glycan chain 1//
+mpl	RXN0-7022	L2R	//UDP-MurNAc//L-Ala-D-Glu-meso-A2pm-D-Ala//	//UDP-MurNAc-tetrapeptide//|Pi|//
+mpl	RXN0-2361	L2R	//UDP-MurNAc//L-Ala-gamma-D-Glu-Dap//	//UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm//|Pi|//
+murE	UDP-NACMURALGLDAPLIG-RXN	L2R	//M-DAP//UDP-N-acetyl-alpha-D-muramoyl-L-alanyl-D-glutamate//	//UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm//|Pi|//
+ampC	BETA-LACTAMASE-RXN	L2R	//an antibiotic//	//a substituted beta-amino acid//
+mrdA	RXN-16659	L2R	//all carbohydrates//all carbohydrates//	//a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing)//D-ala//
+mepA	RXN0-5407	L2R	//peptidoglycan DAP-DAP crosslink//	//peptidoglycan tripeptide, glycan chain 1//peptidoglycan tetrapeptide, glycan chain 2//
+mepA	RXN0-3461	L2R	//peptidoglycan D-alanyl-DAP crosslink//	//peptidoglycan tetrapeptide, glycan chain 2//peptidoglycan tetrapeptide, glycan chain 1//
+murB	UDPNACETYLMURAMATEDEHYDROG-RXN	L2R	//UDP-GlcNAc-enolpyruvate//	//UDP-MurNAc//
+ftsI	RXN-16659	L2R	//all carbohydrates//all carbohydrates//	//a nascent peptidoglycan with D,D cross-links (meso-diaminopimelate containing)//D-ala//
+murF	UDP-NACMURALGLDAPAALIG-RXN	L2R	//D-alanyl-D-alanine//UDP-MurNAc-L-Ala-gamma-D-Glu-meso-A2pm//	//UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine//|Pi|//
+ampD	RXN0-5225	L2R	//GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala//	//glcNAc-1,6-anhMurNAc//L-Ala-D-Glu-meso-A2pm-D-Ala//
+pbpG	RXN0-3461	L2R	//peptidoglycan D-alanyl-DAP crosslink//	//peptidoglycan tetrapeptide, glycan chain 2//peptidoglycan tetrapeptide, glycan chain 1//
+murC	UDP-NACMUR-ALA-LIG-RXN	L2R	//ala//UDP-MurNAc//	//UDP-N-acetyl-alpha-D-muramyl-L-Ala//|Pi|//
+mraY	PHOSNACMURPENTATRANS-RXN	L2R	//UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine//Und-P//	//lipid I//UMP//
+murA	UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	L2R	//UDP-GlcNAc//PEP//	//UDP-GlcNAc-enolpyruvate//|Pi|//
+ddlA	DALADALALIG-RXN	L2R	//D-ala//	//D-alanyl-D-alanine//|Pi|//
+lpxM	MYRPALMTRAN-RXN	L2R	//Protein//Kdo2-(palmitoleoyl)-lipid IVA//	//cold adapted Kdo(2)-lipid (A)//Protein//
+lpxM	MYRISTOYLACYLTRAN-RXN	L2R	//Protein//lauroyl-(Kdo)2-lipid IV (A)//	//Re endotoxin//Protein//
+glmM	5.4.2.10-RXN	RVB	//alpha-D-glucosamine phosphate//	//glucosamine-1P//
+glmM	RXN-16424	L2R	//Protein//alpha-D-glucosamine phosphate//	//glucosamine 1,6-diphosphate//a phosphoglucosamine mutase//
+glmM	RXN0-7139	L2R	//glucosamine 1,6-diphosphate//a phosphoglucosamine mutase//	//glucosamine-1P//Protein//
+waaO	RXN0-5125	L2R	//UDPG//galactosyl-glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate//	//Rb2 LPS//UDP//
+wecE	RFFTRANS-RXN	RVB	//dTDP-thomosamine//ketoglutarate//	//TDP-4-oxo-6-deoxy--alpha-D-glucose//glt//
+waaQ	RXN0-5122	L2R	//glucosyl-(heptosyl)2-Kdo2-lipid A-phosphate//ADP-L-glycero-D-manno-heptose//	//glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate//
+rfbD	DTDPDEHYRHAMREDUCT-RXN	L2R	//dTDP-4-keto-L-rhamnose//	//dTDP-beta-L-rhamnose//
+rffG	DTDPGLUCDEHYDRAT-RXN	L2R	//TDP-glucose//	//TDP-4-oxo-6-deoxy--alpha-D-glucose//
+waaZ	RXN-11326	L2R	//Re-LPS//CMP-Kdo//	//KDOIII-lipopolysaccharide//CMP//
+rfe	GLCNACPTRANS-RXN	L2R	//Und-P//UDP-GlcNAc//	//ECA-lipid I//UMP//
+rfbA	DTDPGLUCOSEPP-RXN	L2R	//cori ester//TTP//	//TDP-glucose//PP//
+waaU	RXN0-5127	L2R	//Rb1 LPS//ADP-L-glycero-D-manno-heptose//	//core oligosaccharide-lipid A (E. coli K-12 core type) (no GlcNAc)//
+waaJ	RXN0-5126	L2R	//UDPG//Rb2 LPS//	//Rb1 LPS//UDP//
+lpxA	UDPNACETYLGLUCOSAMACYLTRANS-RXN	L2R	//Protein//UDP-GlcNAc//	//UDP-3-O-(3-hydroxymyristoyl)-N-acetylglucosamine//Protein//
+waaS	RXN0-5129	L2R	//a lipid//dTDP-beta-L-rhamnose//	//a rhamnosyl lipopolysaccharide//TDP//
+glmS	L-GLN-FRUCT-6-P-AMINOTRANS-RXN	RVB	//F6P//gln//	//alpha-D-glucosamine phosphate//glt//
+rfbB	DTDPGLUCDEHYDRAT-RXN	L2R	//TDP-glucose//	//TDP-4-oxo-6-deoxy--alpha-D-glucose//
+rffH	DTDPGLUCOSEPP-RXN	L2R	//cori ester//TTP//	//TDP-glucose//PP//
+waaG	RXN0-5120	L2R	//UDPG//Rd1 LPS//	//Rc LPS//UDP//
+lpxC	UDPACYLGLCNACDEACETYL-RXN	L2R	//UDP-3-O-(3-hydroxymyristoyl)-N-acetylglucosamine//	//UDP-3-O-(3-hydroxytetradecanoyl)glucosamine//acetate//
+waaF	RXN0-5061	L2R	//Rd2 LPS//ADP-L-glycero-D-manno-heptose//	//Rd1 LPS//
+wecB	UDPGLCNACEPIM-RXN	RVB	//UDP-GlcNAc//	//UDP-ManNAc//
+waaC	RXN0-5118	L2R	//Re endotoxin//ADP-L-glycero-D-manno-heptose//	//Rd2 LPS//
+waaC	RXN0-5057	L2R	//Re-LPS//ADP-L-glycero-D-manno-heptose//	//Rd2-LPS//
+rfbC	DTDPDEHYDRHAMEPIM-RXN	L2R	//TDP-4-oxo-6-deoxy--alpha-D-glucose//	//dTDP-4-keto-L-rhamnose//
+waaL	RXN0-5294	L2R	//M-antigen (variant) monomer undecaprenyl diphosphate//core oligosaccharide-lipid A (E. coli K-12 core type) (no GlcNAc)//	//a lipid//Und-PP//
+lpxB	LIPIDADISACCHARIDESYNTH-RXN	L2R	//lipid X//UDP-2,3-diacyl-glucosamine//	//tetraacyldisaccharide-1-phosphate//UDP//
+rffM	UDPMANACATRANS-RXN	L2R	//ECA-lipid I//UDP-ManNAcA//	//ECA-lipid II//UDP//
+waaB	RXN0-5124	L2R	//UDP-galactose//glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate//	//galactosyl-glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate//UDP//
+lpxL	LAUROYLACYLTRAN-RXN	L2R	//Protein//Re-LPS//	//lauroyl-(Kdo)2-lipid IV (A)//Protein//
+lpxH	LIPIDXSYNTHESIS-RXN	L2R	//UDP-2,3-diacyl-glucosamine//	//lipid X//UMP//
+rffC	TDPFUCACTRANS-RXN	L2R	//dTDP-thomosamine//ac-CoA//	//TDP-Fuc4NAc//CoA//
+waaP	RXN0-5121	L2R	//Rc LPS//	//glucosyl-(heptosyl)2-Kdo2-lipid A-phosphate//
+lpxD	UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	L2R	//Protein//UDP-3-O-(3-hydroxytetradecanoyl)glucosamine//	//UDP-2,3-diacyl-glucosamine//Protein//
+wecC	UDPMANNACADEHYDROG-RXN	L2R	//UDP-ManNAc//	//UDP-ManNAcA//
+glmU	NAG1P-URIDYLTRANS-RXN	L2R	//N-acetyl-alpha-D-glucosamine 1-phosphate//UTP//	//UDP-GlcNAc//PP//
+glmU	2.3.1.157-RXN	L2R	//glucosamine-1P//ac-CoA//	//N-acetyl-alpha-D-glucosamine 1-phosphate//CoA//
+glf	GALPMUT-RXN	RVB	//UDP-galactose//	//UDP-Galf//
+waaY	RXN0-5123	L2R	//glucosyl-(heptosyl)3-Kdo2-lipid A-phosphate//	//glucosyl-(heptosyl)3-Kdo2-lipid A-bisphosphate//
+relA	GDPPYPHOSKIN-RXN	L2R	//GDP//	//ppGpp//
+relA	GTPPYPHOSKIN-RXN	L2R	//GTP//	//pppGpp//
+dbpA	RXN-11109	L2R	//wound RNA//	//an unwound RNA//|Pi|//
+hflX	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+gmd	GDPMANDEHYDRA-RXN	L2R	//GDP-mannose//	//GDP-4-keto-6-deoxymannose//
+waaA	KDOTRANS2-RXN	L2R	//(KDO)-lipid IVA//CMP-Kdo//	//Re-LPS//CMP//
+waaA	KDOTRANS-RXN	L2R	//CMP-Kdo//lipid IVA//	//(KDO)-lipid IVA//CMP//
+fcl	1.1.1.271-RXN	L2R	//GDP-4-keto-6-deoxymannose//	//GDP-beta-L-fucose//
+fcl	FCLEPIM-RXN	L2R	//GDP-4-keto-6-deoxymannose//	//GDP-4-oxo-L-fucose//
+fcl	FCLREDUCT-RXN	L2R	//GDP-4-oxo-L-fucose//	//GDP-beta-L-fucose//
+lpxK	TETRAACYLDISACC4KIN-RXN	L2R	//tetraacyldisaccharide-1-phosphate//	//lipid IVA//
+cpsG	PHOSMANMUT-RXN	RVB	//mannose-1-P//	//D-mannopyranose-6-P//
+pinE	RXN0-5100	RVB	//a DNA segment//	//a DNA segment in reverse orientation//
+mcrA	RXN0-2942	L2R	//DNA containing a recognition site//	//DNA cleaved at recognition site//
+lamB	RXN0-1741	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+lamB	RXN0-1804	L2R	//non-specific ion/solute_Ext//	//non-specific ion/solute//
+btuB	TRANS-RXN0-283	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+btuB	RXN0-1565	L2R	//B12s_Ext//	//B12s//
+ralR	RXN0-7100	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+trkG	TRANS-RXN-3	RVB	//potassium_Ext//	//potassium//
+rpnA	RXN0-7100	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+fepA	RXN0-1682	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+fhuA	RXN0-1701	L2R	//ferrichrome_Ext//	//ferrichrome//
+cirA	RXN0-1721	L2R	//hydrolyzed ferric enterobactin complex_Ext//	//hydrolyzed ferric enterobactin complex//
+tsx	TRANS-RXN0-468	L2R	//nucleoside_Ext//	//nucleoside//
+hcxB	RXN-7632	L2R	//3,4-dihydroxyphenylpyruvate//	//(R)-3-(3,4-dihydroxyphenyl)lactate//
+gor	GLUTATHIONE-REDUCT-NADPH-RXN	L2R	//GSSG//	//GSH//
+pgeF	RXN-16312	L2R	//syringaldazine//O2//	//TMAMQ//
+efeB	PROTOHEMEFERROCHELAT-RXN	RVB	//protoheme//	//protoporphyrin IX//Fe+2//
+tesA	RXN-9555	L2R	//Protein//	//cis-vaccenate//Protein//
+tesA	RXN-9550	L2R	//Protein//	//palmitoleate//Protein//
+tesA	LYSOPHOSPHOLIPASE-RXN	L2R	//a lipid//	//acid//sn-3-GPC//
+tesA	THIOESTER-RXN	L2R	//an ester//	//acid//CoA//
+pdxI	PYRIDOXINE-4-DEHYDROGENASE-RXN	RVB	//pyridoxol//	//pyridoxal//
+pdxI	RXN0-7143	L2R	//5-nitro benzisoxazole//	//2-cyano-4-nitrophenol//
+acrE	TRANS-RXN-352	L2R	//deoxycholate_Ext//	//deoxycholate//
+acrE	TRANS-RXN-367	L2R	//ilotycin_Ext//	//ilotycin//
+acrE	TRANS-RXN-354	L2R	//euflavine_Ext//	//euflavine//
+acrE	TRANS-RXN-355	L2R	//hexane_Ext//	//hexane//
+ygiD	RXN-8460	L2R	//DOPA//O2//	//4,5-seco-dopa//
+yjiA	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+ygeA	RXN0-7285	RVB	//homo-ser//	//D-homoserine//
+ahr	RXN-15743	L2R	//D-lactaldehyde//	//D-1,2-propanediol//
+ahr	RXN-15744	L2R	//lactald//	//L-1,2-propanediol//
+ahr	RXN0-5141	L2R	//4NBZ//	//4NBA//
+ahr	ALCOHOL-DEHYDROGENASE-NADPORNOP+-RXN	L2R	//aldehyde or ketone//	//ROH//
+elbB	RXN0-7173	L2R	//glyoxal//	//glycolate//
+rhtC	TRANS-RXN0-0244	RVB	//thr_Ext//	//thr//
+thrB	HOMOSERKIN-RXN	L2R	//homo-ser//	//o-phosphohomoserine//
+thrB	RXN0-6564	L2R	//hydroxythreonine//	//4-phosphooxy-L-threonine//
+thrC	THRESYN-RXN	L2R	//o-phosphohomoserine//	//|Pi|//thr//
+tdcC	TRANS-RXN-71	RVB	//ser_Ext//	//ser//
+tdcC	TRANS-RXN-72	RVB	//thr_Ext//	//thr//
+lysA	DIAMINOPIMDECARB-RXN	L2R	//M-DAP//	//lys//CO2//
+dapD	TETHYDPICSUCC-RXN	L2R	//tetrahydrodipicolinate//suc-CoA//	//N-Succinyl-2-L-amino-6-oxoheptanedioate//CoA//
+dapE	SUCCDIAMINOPIMDESUCC-RXN	L2R	//L,L-SDAP//	//L,L-DAP//suc//
+dapA	DIHYDRODIPICSYN-RXN	L2R	//BTS//L-aspartate-semialdehyde//	//(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate//
+lysP	TRANS-RXN-58	RVB	//lys_Ext//	//lys//
+dapF	DIAMINOPIMEPIM-RXN	RVB	//L,L-DAP//	//M-DAP//
+dapB	RXN-14014	L2R	//(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate//	//tetrahydrodipicolinate//
+aspA	ASPARTASE-RXN	RVB	//asp//	//ammonium//fum//
+asnA	ASNSYNA-RXN	L2R	//asp//ammonium//	//asn//PP//
+proB	GLUTKIN-RXN	L2R	//glt//	//gamma-L-glutamyl-5-P//
+proC	PYRROLINECARBREDUCT-RXN	L2R	//pyrroline 5-carboxylate//	//pro//
+proA	GLUTSEMIALDEHYDROG-RXN	L2R	//gamma-L-glutamyl-5-P//	//glutamate-semialdehyde//|Pi|//
+argE	ACETYLORNDEACET-RXN	L2R	//acetylornithine//	//Ornithine//acetate//
+carA	CARBPSYN-RXN	L2R	//gln//carbonate//	//carbamoyl-P//glt//|Pi|//
+carA	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+carA	RXN-13202	L2R	//carbonate//ammonium//	//|Pi|//carbamoyl-P//
+carA	RXN-16909	L2R	//carbonate//	//carboxyphosphate//
+carA	RXN-16910	L2R	//carboxyphosphate//ammonium//	//carbamate//|Pi|//
+carA	RXN-14196	RVB	//carbamate//	//carbamoyl-P//
+argI	ORNCARBAMTRANSFER-RXN	RVB	//Ornithine//carbamoyl-P//	//L-citrulline//|Pi|//
+argD	ACETYLORNTRANSAM-RXN	L2R	//2-acetamido-5-oxopentanoate//glt//	//acetylornithine//ketoglutarate//
+argD	SUCCINYLDIAMINOPIMTRANS-RXN	L2R	//glt//N-Succinyl-2-L-amino-6-oxoheptanedioate//	//ketoglutarate//L,L-SDAP//
+artJ	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+argA	N-ACETYLTRANSFER-RXN	RVB	//glt//ac-CoA//	//NAG//CoA//
+artP	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+carB	CARBPSYN-RXN	L2R	//gln//carbonate//	//carbamoyl-P//glt//|Pi|//
+carB	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+carB	RXN-13202	L2R	//carbonate//ammonium//	//|Pi|//carbamoyl-P//
+carB	RXN-16909	L2R	//carbonate//	//carboxyphosphate//
+carB	RXN-16910	L2R	//carboxyphosphate//ammonium//	//carbamate//|Pi|//
+carB	RXN-14196	RVB	//carbamate//	//carbamoyl-P//
+argF	ORNCARBAMTRANSFER-RXN	RVB	//Ornithine//carbamoyl-P//	//L-citrulline//|Pi|//
+argB	ACETYLGLUTKIN-RXN	L2R	//NAG//	//N-acetylglutamyl-P//
+artQ	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+argH	ARGSUCCINLYA-RXN	RVB	//arginino-succinate//	//arg//fum//
+argT	ABC-37-RXN	L2R	//Ornithine_Ext//	//Ornithine//
+argT	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+argT	ABC-3-RXN	L2R	//lys_Ext//	//lys//
+argG	ARGSUCCINSYN-RXN	L2R	//asp//L-citrulline//	//arginino-succinate//PP//
+argC	N-ACETYLGLUTPREDUCT-RXN	RVB	//2-acetamido-5-oxopentanoate//|Pi|//	//N-acetylglutamyl-P//
+asd	ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	RVB	//|Pi|//L-aspartate-semialdehyde//	//L-aspartyl-4-P//
+lysC	ASPARTATEKIN-RXN	L2R	//asp//	//L-aspartyl-4-P//
+metL	ASPARTATEKIN-RXN	L2R	//asp//	//L-aspartyl-4-P//
+metL	HOMOSERDEHYDROG-RXN	L2R	//L-aspartate-semialdehyde//	//homo-ser//
+thrA	ASPARTATEKIN-RXN	L2R	//asp//	//L-aspartyl-4-P//
+thrA	HOMOSERDEHYDROG-RXN	L2R	//L-aspartate-semialdehyde//	//homo-ser//
+yeiR	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+aroL	SHIKIMATE-KINASE-RXN	L2R	//shikimate//	//shikimate-5-P//
+aroE	SHIKIMATE-5-DEHYDROGENASE-RXN	L2R	//3-dehydroshikimate//	//shikimate//
+aroB	3-DEHYDROQUINATE-SYNTHASE-RXN	L2R	//DAHP//	//|Pi|//5-de-H-quinate//
+yhdH	RXN-9087	L2R	//acrylyl-CoA//	//propanoyl-CoA//
+ydiB	SHIKIMATE-5-DEHYDROGENASE-RXN	L2R	//3-dehydroshikimate//	//shikimate//
+ydiB	RXN-11174	L2R	//shikimate//	//3-dehydroshikimate//
+ydiB	QUINATE-5-DEHYDROGENASE-RXN	L2R	//L-quinate//	//5-de-H-quinate//
+aroF	DAHPSYN-RXN	L2R	//PEP//erythrose-4P//	//DAHP//|Pi|//
+aroC	CHORISMATE-SYNTHASE-RXN	L2R	//3-enolpyruvyl-shikimate-5-P//	//|Pi|//chorismate//
+aroK	SHIKIMATE-KINASE-RXN	L2R	//shikimate//	//shikimate-5-P//
+aroD	3-DEHYDROQUINATE-DEHYDRATASE-RXN	RVB	//5-de-H-quinate//	//3-dehydroshikimate//
+aroA	2.5.1.19-RXN	RVB	//shikimate-5-P//PEP//	//3-enolpyruvyl-shikimate-5-P//|Pi|//
+yciA	RXN-14251	L2R	//L-3-hydroxybutyryl-CoA//	//(S)-hydroxybutanoate//CoA//
+yciA	RXN-14255	L2R	//OH-butyryl-CoA//	//D-3-hydroxybutyrate//CoA//
+yciA	ACYL-COA-HYDROLASE-RXN	L2R	//an ester//	//CoA//acid//
+glnH	ABC-12-RXN	L2R	//gln_Ext//	//gln//
+glnA	GLUTAMINESYN-RXN	L2R	//ammonium//glt//	//gln//|Pi|//
+glnD	URITRANS-RXN	L2R	//PII//UTP//	//GlnB//PP//
+glnD	RXN-16381	L2R	//GlnB//	//PII//UMP//
+glnD	RXN0-801	L2R	//YbaI//UTP//	//PP//YbaI//
+glnP	ABC-12-RXN	L2R	//gln_Ext//	//gln//
+glnQ	ABC-12-RXN	L2R	//gln_Ext//	//gln//
+leuB	RXN-13158	L2R	//3-isopropylmalate//	//ketoleucine//CO2//
+leuB	3-ISOPROPYLMALDEHYDROG-RXN	L2R	//3-isopropylmalate//	//2-isopropyl-3-oxosuccinate//
+leuD	RXN-13163	RVB	//3-isopropylmalate//	//alpha-isopropylmalate//
+leuD	RXN-8991	RVB	//3-isopropylmalate//	//2-isopropylmaleate//
+leuD	3-ISOPROPYLMALISOM-RXN	RVB	//2-isopropylmaleate//	//alpha-isopropylmalate//
+livK	ABC-35-RXN	L2R	//leu_Ext//	//leu//
+livK	TRANS-RXN-312	L2R	//phe_Ext//	//phe//
+leuC	RXN-13163	RVB	//3-isopropylmalate//	//alpha-isopropylmalate//
+leuC	RXN-8991	RVB	//3-isopropylmalate//	//2-isopropylmaleate//
+leuC	3-ISOPROPYLMALISOM-RXN	RVB	//2-isopropylmaleate//	//alpha-isopropylmalate//
+leuA	2-ISOPROPYLMALATESYN-RXN	L2R	//2-ketovaline//ac-CoA//	//alpha-isopropylmalate//CoA//
+ilvN	ACETOOHBUTSYN-RXN	L2R	//BTS//2-oxobutyrate//	//(S)-2-aceto-2-hydroxybutanoate//CO2//
+ilvN	ACETOLACTSYN-RXN	L2R	//BTS//	//alpha-acetolactate//CO2//
+ilvH	ACETOLACTSYN-RXN	L2R	//BTS//	//alpha-acetolactate//CO2//
+ilvH	ACETOOHBUTSYN-RXN	L2R	//BTS//2-oxobutyrate//	//(S)-2-aceto-2-hydroxybutanoate//CO2//
+ilvC	ACETOLACTREDUCTOISOM-RXN	L2R	//alpha-acetolactate//	//(R)-2,3-dihydroxy-isovalerate//
+ilvC	ACETOOHBUTREDUCTOISOM-RXN	L2R	//(S)-2-aceto-2-hydroxybutanoate//	//(R)-2,3-dihydroxy-3-methylvalerate//
+ilvC	2-DEHYDROPANTOATE-REDUCT-RXN	L2R	//ketopantoate//	//pantoate//
+livH	ABC-36-RXN	L2R	//val_Ext//	//val//
+livH	ABC-15-RXN	L2R	//ile_Ext//	//ile//
+livH	ABC-35-RXN	L2R	//leu_Ext//	//leu//
+livH	TRANS-RXN-312	L2R	//phe_Ext//	//phe//
+yghA	RXN0-7119	L2R	//isobutanal//	//isobutanol//
+ilvI	ACETOLACTSYN-RXN	L2R	//BTS//	//alpha-acetolactate//CO2//
+ilvI	ACETOOHBUTSYN-RXN	L2R	//BTS//2-oxobutyrate//	//(S)-2-aceto-2-hydroxybutanoate//CO2//
+ilvD	DIHYDROXYISOVALDEHYDRAT-RXN	L2R	//(R)-2,3-dihydroxy-isovalerate//	//2-ketovaline//
+ilvD	DIHYDROXYMETVALDEHYDRAT-RXN	L2R	//(R)-2,3-dihydroxy-3-methylvalerate//	//2-keto-isoleucine//
+ilvA	THREDEHYD-RXN	L2R	//thr//	//2-oxobutyrate//ammonium//
+ilvA	RXN-15122	L2R	//thr//	//(2Z)-2-aminobut-2-enoate//
+livJ	ABC-35-RXN	L2R	//leu_Ext//	//leu//
+livJ	ABC-36-RXN	L2R	//val_Ext//	//val//
+livJ	ABC-15-RXN	L2R	//ile_Ext//	//ile//
+livJ	TRANS-RXN-312	L2R	//phe_Ext//	//phe//
+ilvM	ACETOOHBUTSYN-RXN	L2R	//BTS//2-oxobutyrate//	//(S)-2-aceto-2-hydroxybutanoate//CO2//
+ilvM	ACETOLACTSYN-RXN	L2R	//BTS//	//alpha-acetolactate//CO2//
+ilvB	ACETOOHBUTSYN-RXN	L2R	//BTS//2-oxobutyrate//	//(S)-2-aceto-2-hydroxybutanoate//CO2//
+ilvB	ACETOLACTSYN-RXN	L2R	//BTS//	//alpha-acetolactate//CO2//
+livM	ABC-36-RXN	L2R	//val_Ext//	//val//
+livM	ABC-15-RXN	L2R	//ile_Ext//	//ile//
+livM	ABC-35-RXN	L2R	//leu_Ext//	//leu//
+livM	TRANS-RXN-312	L2R	//phe_Ext//	//phe//
+alr	ALARACECAT-RXN	RVB	//ala//	//D-ala//
+avtA	VALINE-PYRUVATE-AMINOTRANSFER-RXN	RVB	//BTS//val//	//ala//2-ketovaline//
+avtA	RXN0-5200	RVB	//an amine//2-oxobutyrate//	//L-butyrine//an amine//
+ilvE	RXN-10814	RVB	//phe//ketoglutarate//	//phenylpyruvate//glt//
+ilvE	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	RVB	//val//ketoglutarate//	//2-ketovaline//glt//
+ilvE	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	RVB	//ile//ketoglutarate//	//2-keto-isoleucine//glt//
+ilvE	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	RVB	//leu//ketoglutarate//	//ketoleucine//glt//
+hisH	GLUTAMIDOTRANS-RXN	L2R	//PRFAR//gln//	//glt//IGP//AICAR//
+hisH	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+hisH	RXN-17900	L2R	//PRFAR//ammonium//	//IGP//AICAR//
+hisD	HISTALDEHYD-RXN	L2R	//histidinal//	//his//
+hisD	HISTOLDEHYD-RXN	RVB	//histidol//	//histidinal//
+hisA	PRIBFAICARPISOM-RXN	L2R	//phosphoribosylformiminoAICAR-P//	//PRFAR//
+hisI	HISTCYCLOHYD-RXN	L2R	//phosphoribosyl-AMP//	//phosphoribosylformiminoAICAR-P//
+hisI	HISTPRATPHYD-RXN	L2R	//phosphoribosyl-ATP//	//phosphoribosyl-AMP//PP//
+hisF	GLUTAMIDOTRANS-RXN	L2R	//PRFAR//gln//	//glt//IGP//AICAR//
+hisF	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+hisF	RXN-17900	L2R	//PRFAR//ammonium//	//IGP//AICAR//
+hisB	IMIDPHOSDEHYD-RXN	L2R	//IGP//	//imidazole acetol-P//
+hisB	HISTIDPHOS-RXN	L2R	//histidinol-P//	//histidol//|Pi|//
+hisG	ATPPHOSPHORIBOSYLTRANS-RXN	RVB	//phosphoribosyl-ATP//PP//	//PRPP//
+hisC	HISTAMINOTRANS-RXN	RVB	//histidinol-P//ketoglutarate//	//imidazole acetol-P//glt//
+trpA	TRYPSYN-RXN	L2R	//indole-3-glycerol-P//ser//	//trp//GAP//
+trpA	RXN0-2382	L2R	//indole//ser//	//trp//
+trpA	RXN0-2381	RVB	//indole-3-glycerol-P//	//indole//GAP//
+aroH	DAHPSYN-RXN	L2R	//PEP//erythrose-4P//	//DAHP//|Pi|//
+trpE	ANTHRANSYN-RXN	L2R	//chorismate//gln//	//vitamin L1//BTS//glt//
+trpB	TRYPSYN-RXN	L2R	//indole-3-glycerol-P//ser//	//trp//GAP//
+trpB	RXN0-2381	RVB	//indole-3-glycerol-P//	//indole//GAP//
+trpB	RXN0-2382	L2R	//indole//ser//	//trp//
+mtr	TRANS-RXN-76	RVB	//trp_Ext//	//trp//
+mtr	TRANS-RXN-142	RVB	//indole_Ext//	//indole//
+trpC	IGPSYN-RXN	L2R	//1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-P//	//indole-3-glycerol-P//CO2//
+trpC	PRAISOM-RXN	L2R	//5-P-ribosyl-anthranilate//	//1-(2-carboxyphenylamino)-1-deoxy-D-ribulose-5-P//
+tnaB	TRANS-RXN-76	RVB	//trp_Ext//	//trp//
+trpD	ANTHRANSYN-RXN	L2R	//chorismate//gln//	//vitamin L1//BTS//glt//
+trpD	PRTRANS-RXN	L2R	//vitamin L1//PRPP//	//5-P-ribosyl-anthranilate//PP//
+tyrP	TRANS-RXN-77	RVB	//tyr_Ext//	//tyr//
+aroG	DAHPSYN-RXN	L2R	//PEP//erythrose-4P//	//DAHP//|Pi|//
+aroP	TRANS-RXN-76	RVB	//trp_Ext//	//trp//
+aroP	TRANS-RXN-77	RVB	//tyr_Ext//	//tyr//
+aroP	TRANS-RXN-56	RVB	//phe_Ext//	//phe//
+tyrA	CHORISMATEMUT-RXN	L2R	//chorismate//	//prephenate//
+tyrA	PREPHENATEDEHYDROG-RXN	L2R	//prephenate//	//hydroxyphenylpyruvate//CO2//
+tyrB	2.6.1.57-RXN	RVB	//an amino acid or its derivative//ketoglutarate//	//acid//glt//
+tyrB	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	RVB	//leu//ketoglutarate//	//ketoleucine//glt//
+tyrB	TYROSINE-AMINOTRANSFERASE-RXN	RVB	//tyr//ketoglutarate//	//hydroxyphenylpyruvate//glt//
+tyrB	RXN-10814	RVB	//phe//ketoglutarate//	//phenylpyruvate//glt//
+pheA	CHORISMATEMUT-RXN	L2R	//chorismate//	//prephenate//
+pheA	PREPHENATEDEHYDRAT-RXN	L2R	//prephenate//	//phenylpyruvate//CO2//
+cysK	ACSERLY-RXN	RVB	//acetylserine//sulfide//	//Cys//acetate//
+cysK	LCYSDESULF-RXN	L2R	//Cys//	//BTS//ammonium//sulfide//
+cysK	RXN-15129	L2R	//Cys//	//dehydroalanine//sulfide//
+cysM	SULFOCYS-RXN	RVB	//acetylserine//thiosulfate//	//S-sulfocysteine//acetate//
+cysM	ACSERLY-RXN	RVB	//acetylserine//sulfide//	//Cys//acetate//
+cysM	LCYSDESULF-RXN	L2R	//Cys//	//BTS//ammonium//sulfide//
+cysM	RXN-15129	L2R	//Cys//	//dehydroalanine//sulfide//
+cysE	SERINE-O-ACETTRAN-RXN	L2R	//ser//ac-CoA//	//acetylserine//CoA//
+nfsA	R303-RXN	L2R	//an aromatic compound//	//an aromatic compound//
+sstT	RXN0-4083	RVB	//Sodium_Ext//ser_Ext//	//Sodium//ser//
+serB	RXN0-5114	L2R	//L-serine-3P//	//ser//|Pi|//
+serC	PSERTRANSAM-RXN	RVB	//L-serine-3P//ketoglutarate//	//3-p-OH-pyr//glt//
+serC	PSERTRANSAMPYR-RXN	RVB	//2-oxo-3-hydroxy-4-phosphobutanoate//glt//	//4-phosphooxy-L-threonine//ketoglutarate//
+serC	SUCCINYLDIAMINOPIMTRANS-RXN	L2R	//glt//N-Succinyl-2-L-amino-6-oxoheptanedioate//	//ketoglutarate//L,L-SDAP//
+sdaC	TRANS-RXN-71	RVB	//ser_Ext//	//ser//
+serA	PGLYCDEHYDROG-RXN	RVB	//3-P-D-glycerate//	//3-p-OH-pyr//
+serA	KETOGLUTREDUCT-RXN	RVB	//(R)-2-hydroxyglutarate//	//ketoglutarate//
+serA	RXN-16701	RVB	//L-2-hydroxyglutarate//	//ketoglutarate//
+gltJ	TRANS-RXN0-222	L2R	//asp_Ext//	//asp//
+gltJ	ABC-13-RXN	L2R	//glt_Ext//	//glt//
+gltD	GLUTAMATESYN-RXN	L2R	//gln//ketoglutarate//	//glt//
+gltD	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+gltD	GLUTDEHYD-RXN	RVB	//glt//	//ammonium//ketoglutarate//
+gltK	TRANS-RXN0-222	L2R	//asp_Ext//	//asp//
+gltK	ABC-13-RXN	L2R	//glt_Ext//	//glt//
+gltP	TRANS-RXN-122A	RVB	//asp_Ext//	//asp//
+gltP	TRANS-RXN-162	RVB	//glt_Ext//	//glt//
+gdhA	GLUTDEHYD-RXN	RVB	//glt//	//ammonium//ketoglutarate//
+gltL	TRANS-RXN0-222	L2R	//asp_Ext//	//asp//
+gltL	ABC-13-RXN	L2R	//glt_Ext//	//glt//
+gltS	TRANS-RXN-122	RVB	//Sodium_Ext//glt_Ext//	//Sodium//glt//
+gltB	GLUTAMATESYN-RXN	L2R	//gln//ketoglutarate//	//glt//
+gltB	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+gltB	GLUTDEHYD-RXN	RVB	//glt//	//ammonium//ketoglutarate//
+argK	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+fre	NADPH-DEHYDROGENASE-FLAVIN-RXN	L2R	//riboflavin//	//reduced riboflavin//
+fre	RXN-12445	L2R	//riboflavin//	//reduced riboflavin//
+fre	RXN-12444	L2R	//FMN//	//reduced FMN//
+fre	FMNREDUCT-RXN	L2R	//FMN//	//reduced FMN//
+fre	RXN-8506	L2R	//FAD//	//1,5-dihydro-FAD//
+norW	RXN0-7108	RVB	//oxidized flavorubredoxin//	//FlRd//
+qorA	QOR-RXN	L2R	//aldehyde or ketone//	//a radical//
+cybB	RXN-20148	L2R	//superoxide//an acceptor//	//O2//an acceptor//
+appB	RXN0-5266	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+cydA	RXN0-5266	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+cydA	RXN-19778	L2R	//an acceptor//perhydrol//	//an acceptor//
+cydA	RXN-19777	RVB	//6-decylubiquinol//perhydrol//	//DBQ//
+appC	RXN0-5266	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+cydB	RXN0-5266	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+cydB	RXN-19778	L2R	//an acceptor//perhydrol//	//an acceptor//
+cydB	RXN-19777	RVB	//6-decylubiquinol//perhydrol//	//DBQ//
+caiA	CROBETREDUCT-RXN	L2R	//crotonobetainyl-CoA//a reduced ETF//	//gamma-butyrobetaine-CoA//a flavoprotein//
+mdaB	RXN0-271	L2R	//an acceptor//	//an acceptor//
+hybA	RXN0-5256	RVB	//a vitamin_Ext//hydrogen_Ext//	//an acceptor//
+tonB	TRANS-RXN0-283	L2R	//Cbi(I)_Ext//	//Cbi(I)//
+tonB	RXN0-1565	L2R	//B12s_Ext//	//B12s//
+tonB	RXN0-1682	L2R	//ferrienterochelin_Ext//	//ferrienterochelin//
+tonB	RXN0-1701	L2R	//ferrichrome_Ext//	//ferrichrome//
+tonB	RXN0-1684	L2R	//iron dicitrate_Ext//	//iron dicitrate//
+tonB	RXN0-1702	L2R	//ferric coprogen_Ext//	//ferric coprogen//
+ccp	RXN-19020	L2R	//an acceptor//perhydrol//	//a vitamin//
+ccp	RXN-19776	RVB	//menadiol//perhydrol//	//menadione//
+ccp	RXN-19775	RVB	//hydroquinone//perhydrol//	//chinone//
+ppnP	RXN0-5199	RVB	//guanosine//|Pi|//	//ribose-1-phosphate//guanine//
+ppnP	THYM-PHOSPH-RXN	RVB	//thymidine//|Pi|//	//deoxy-D-ribose 1-phosphate//thymine//
+ppnP	URPHOS-RXN	RVB	//|Pi|//uridine//	//ribose-1-phosphate//uracil//
+ppnP	XANTHOSINEPHOSPHORY-RXN	L2R	//xanthosine//|Pi|//	//ribose-1-phosphate//xanthine//
+ppnP	INOPHOSPHOR-RXN	RVB	//inosine//|Pi|//	//ribose-1-phosphate//hypoxanthine//
+ppnP	ADENPHOSPHOR-RXN	RVB	//adenosine//|Pi|//	//ribose-1-phosphate//adenine//
+pdeC	RXN0-4181	L2R	//c-di-GMP//	//5'pGpG//
+edd	PGLUCONDEHYDRAT-RXN	L2R	//6-p gluconate//	//KDPG//
+zntA	RXN0-5205	L2R	//Zn_Ext//	//Zn//
+atpG	ATPSYN-RXN	RVB	//	//
+atpG	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+ygiF	TRIPHOSPHATASE-RXN	L2R	//P3,i//	//|Pi|//PP//
+atpD	ATPSYN-RXN	RVB	//	//
+atpD	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+atpA	ATPSYN-RXN	RVB	//	//
+atpA	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+atpH	ATPSYN-RXN	RVB	//	//
+atpH	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+atpE	ATPSYN-RXN	RVB	//	//
+atpE	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+atpB	ATPSYN-RXN	RVB	//	//
+atpB	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+yidA	MANNITOL-1-PHOSPHATASE-RXN	L2R	//mannitol-1-P//	//|Pi|//D-mannitol//
+yidA	SORBITOL-6-PHOSPHATASE-RXN	L2R	//D-sorbitol 6-phosphate//	//L-gulitol//|Pi|//
+yidA	RXN0-7251	L2R	//L-GAP//	//L-Glycerose//|Pi|//
+yidA	RXN0-7250	L2R	//GAP//	//D-glycerose//|Pi|//
+yidA	RXN0-7249	L2R	//DHAP//	//glycerone//|Pi|//
+yidA	RXN-14483	L2R	//all carbohydrates//	//all carbohydrates//|Pi|//
+yidA	GLUCOSE-1-PHOSPHAT-RXN	L2R	//cori ester//	//|Pi|//aldehyde or ketone//
+yidA	RXN-15312	L2R	//alpha-D-glucose-6-P//	//alpha-glucose//|Pi|//
+yidA	GLUCOSE-6-PHOSPHATASE-RXN	L2R	//beta-D-glucose-6-P//	//|Pi|//beta-glucose//
+yidA	RXN0-5186	L2R	//beta-D-fructofuranose-1-P//	//beta-Levulose//|Pi|//
+yidA	SUGAR-PHOSPHATASE-RXN	L2R	//all carbohydrates//	//all carbohydrates//|Pi|//
+atpF	ATPSYN-RXN	RVB	//	//
+atpF	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+atpC	ATPSYN-RXN	RVB	//	//
+atpC	RXN0-7041	L2R	//TDP_Ext//	//thiamin triphosphate//
+menF	ISOCHORSYN-RXN	RVB	//chorismate//	//isochorismate//
+napA	NITRATE-REDUCTASE-CYTOCHROME-RXN	L2R	//a cytochrome//nitrate//	//a cytochrome//nitrite//
+fdoG	FORMATEDEHYDROG-RXN	L2R	//formate_Ext//a vitamin_Ext//	//CO2//an acceptor//
+menC	O-SUCCINYLBENZOATE-COA-SYN-RXN	L2R	//SHCHC//	//2-succinylbenzoate//
+pspE	THIOSULFATE-SULFURTRANSFERASE-RXN	L2R	//thiosulfate//cyanide//	//rhodanide//sulfite//
+narV	RXN0-3501	L2R	//an acceptor_Ext//nitrate_Ext//	//a vitamin//nitrite//
+narV	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+napB	NITRATE-REDUCTASE-CYTOCHROME-RXN	L2R	//a cytochrome//nitrate//	//a cytochrome//nitrite//
+torC	RXN0-5264	L2R	//TMAO//an acceptor//	//a vitamin//(CH3)3NH//
+narI	RXN0-3501	L2R	//an acceptor_Ext//nitrate_Ext//	//a vitamin//nitrite//
+narI	RXN0-7124	L2R	//an acceptor_Ext//nitrate_Ext//	//an acceptor//nitrite//
+narI	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+glpC	RXN-15740	L2R	//a vitamin//L-G3P//	//an acceptor//DHAP//
+fdnI	FORMATEDEHYDROG-RXN	L2R	//formate_Ext//a vitamin_Ext//	//CO2//an acceptor//
+menD	2.5.1.64-RXN	L2R	//isochorismate//ketoglutarate//	//SEPHCHC//CO2//
+nrfD	RXN-18604	L2R	//an acceptor//a cytochrome//	//a vitamin//a cytochrome//
+hybB	RXN0-5256	RVB	//a vitamin_Ext//hydrogen_Ext//	//an acceptor//
+hyfA	MVHMETH-RXN	L2R	//electron//	//hydrogen//
+narZ	RXN0-3501	L2R	//an acceptor_Ext//nitrate_Ext//	//a vitamin//nitrite//
+narZ	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+dmsC	DIMESULFREDUCT-RXN	L2R	//an acceptor//DMSO//	//a vitamin//DMS//
+menE	O-SUCCINYLBENZOATE-COA-LIG-RXN	L2R	//2-succinylbenzoate//CoA//	//PP//succinylbenzoyl-CoA//
+hypF	RXN0-6435	L2R	//carbamoyl-P//HypE//	//HydB//PP//|Pi|//
+hypF	RXN-14552	L2R	//carbamoyl-P//	//PP//(O-carbamoyl)adenylate//|Pi|//
+hypF	RXN-15915	L2R	//(O-carbamoyl)adenylate//HypE//	//HydB//
+pflA	1.97.1.4-A-RXN	L2R	//SAM//pyruvate formate-lyase//dihydro flavodoxin//	//5'-deoxyadenosine//met//activated pyruvate-formate lyase//a flavoprotein//
+pflA	TDCEACT1-RXN	RVB	//SAM//YhaS//dihydro flavodoxin//	//5'-deoxyadenosine//YhaS//a flavoprotein//
+napH	RXN-18584	L2R	//an acceptor//a cytochrome//	//an acceptor//a cytochrome//
+fdoI	FORMATEDEHYDROG-RXN	L2R	//formate_Ext//a vitamin_Ext//	//CO2//an acceptor//
+hyfB	MVHMETH-RXN	L2R	//electron//	//hydrogen//
+narG	RXN0-3501	L2R	//an acceptor_Ext//nitrate_Ext//	//a vitamin//nitrite//
+narG	RXN0-7124	L2R	//an acceptor_Ext//nitrate_Ext//	//an acceptor//nitrite//
+narG	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+glpA	RXN-15740	L2R	//a vitamin//L-G3P//	//an acceptor//DHAP//
+hybC	RXN0-5256	RVB	//a vitamin_Ext//hydrogen_Ext//	//an acceptor//
+fdnG	FORMATEDEHYDROG-RXN	L2R	//formate_Ext//a vitamin_Ext//	//CO2//an acceptor//
+nrfA	RXN-18605	L2R	//a cytochrome//nitrite//	//ammonium//a cytochrome//
+nirB	RXN-13854	L2R	//nitrite//	//ammonium//
+menA	DMK-RXN	L2R	//OPP//DHNA//	//DMKH2-8//PP//CO2//
+narX	RXN0-7297	L2R	//NarR//	//NarR//|Pi|//
+dmsA	DIMESULFREDUCT-RXN	L2R	//an acceptor//DMSO//	//a vitamin//DMS//
+glpE	RXN0-6385	L2R	//a thioredoxin//thiosulfate//	//a thioredoxin//sulfite//sulfide//
+glpE	THIOSULFATE-SULFURTRANSFERASE-RXN	L2R	//thiosulfate//cyanide//	//rhodanide//sulfite//
+napG	RXN-18584	L2R	//an acceptor//a cytochrome//	//an acceptor//a cytochrome//
+fdoH	FORMATEDEHYDROG-RXN	L2R	//formate_Ext//a vitamin_Ext//	//CO2//an acceptor//
+napC	RXN-14107	L2R	//an acceptor//a cytochrome//	//a vitamin//a cytochrome//
+napC	RXN-18604	L2R	//an acceptor//a cytochrome//	//a vitamin//a cytochrome//
+torA	RXN0-5264	L2R	//TMAO//an acceptor//	//a vitamin//(CH3)3NH//
+torA	RXN-19618	L2R	//TMAO//a cytochrome//	//(CH3)3NH//a cytochrome//
+menB	NAPHTHOATE-SYN-RXN	L2R	//succinylbenzoyl-CoA//	//DHNA-CoA//
+narH	RXN0-3501	L2R	//an acceptor_Ext//nitrate_Ext//	//a vitamin//nitrite//
+narH	RXN0-7124	L2R	//an acceptor_Ext//nitrate_Ext//	//an acceptor//nitrite//
+narH	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+glpB	RXN-15740	L2R	//a vitamin//L-G3P//	//an acceptor//DHAP//
+fdnH	FORMATEDEHYDROG-RXN	L2R	//formate_Ext//a vitamin_Ext//	//CO2//an acceptor//
+hypE	RXN-17943	L2R	//HydB//	//Protein//|Pi|//
+nrfC	RXN-18604	L2R	//an acceptor//a cytochrome//	//a vitamin//a cytochrome//
+nirD	RXN-13854	L2R	//nitrite//	//ammonium//
+narY	RXN0-3501	L2R	//an acceptor_Ext//nitrate_Ext//	//a vitamin//nitrite//
+narY	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+dmsB	DIMESULFREDUCT-RXN	L2R	//an acceptor//DMSO//	//a vitamin//DMS//
+nuoF	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoF	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+nuoK	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoK	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+ubiE	ADOMET-DMK-METHYLTRANSFER-RXN	L2R	//SAM//DMKH2-8//	//MKH2-8//SAH//
+ubiE	2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN	L2R	//SAM//2-octaprenyl-6-methoxyquinol//	//6-methoxy-3-methyl-2-octaprenylquinol//SAH//
+hyaA	RXN0-5256	RVB	//a vitamin_Ext//hydrogen_Ext//	//an acceptor//
+hyaA	RXN-16420	L2R	//hydrogen//O2//	//
+nuoH	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoH	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+ubiG	2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	L2R	//SAM//2-octaprenyl-6-hydroxyphenol//	//2-octaprenyl-6-methoxyphenol//SAH//
+ubiG	DHHB-METHYLTRANSFER-RXN	L2R	//SAM//OMHMB//	//ubiquinol(8)//SAH//
+dld	DLACTDEHYDROGFAD-RXN	L2R	//an acceptor//D-lactate//	//an acceptor//BTS//
+nuoC	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoC	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+yieH	RXN0-5185	L2R	//6-p gluconate//	//D-gluconate//|Pi|//
+cyoC	RXN0-5268	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+nikE	ABC-20-RXN	L2R	//nickel_Ext//	//nickel//
+wrbA	NQOR-RXN	L2R	//an acceptor//	//an acceptor//
+wrbA	RXN0-5330	L2R	//an acceptor//	//an acceptor//
+wrbA	RXN0-7123	L2R	//a vitamin//	//an acceptor//
+wrbA	RXN0-271	L2R	//an acceptor//	//an acceptor//
+nuoL	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoL	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+hyaB	RXN0-5256	RVB	//a vitamin_Ext//hydrogen_Ext//	//an acceptor//
+hyaB	RXN-16420	L2R	//hydrogen//O2//	//
+nuoI	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoI	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+ubiH	2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	L2R	//2-octaprenyl-6-methoxyphenol//O2//	//2-octaprenyl-6-methoxyquinol//
+glpD	RXN0-5260	L2R	//an acceptor//L-G3P//	//an acceptor//DHAP//
+nuoE	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoE	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+ubiX	RXN-16937	L2R	//reduced FMN//prenyl phosphate//	//prenylated FMNH2//|Pi|//
+cyoD	RXN0-5268	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+nuoA	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoA	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+cyoA	RXN0-5268	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+lldD	L-LACTDEHYDROGFMN-RXN	L2R	//an acceptor//L-lactate//	//an acceptor//BTS//
+lldD	RXN0-7227	L2R	//an acceptor//L-2-hydroxybutyrate//	//an acceptor//2-oxobutyrate//
+nuoN	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoN	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+nuoM	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoM	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+hyaC	RXN0-5256	RVB	//a vitamin_Ext//hydrogen_Ext//	//an acceptor//
+hyaC	RXN-16420	L2R	//hydrogen//O2//	//
+nuoJ	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoJ	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+ubiA	4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	L2R	//OPP//|4-hydroxybenzoate|//	//PP//3-octaprenyl-4-hydroxybenzoate//
+glpT	TRANS-RXN-22	RVB	//L-G3P_Ext//	//L-G3P//
+nuoG	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoG	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+cyoE	HEMEOSYN-RXN	L2R	//protoheme//FPP//	//ferroheme o//PP//
+nuoB	NADH-DEHYDROG-A-RXN	RVB	//an acceptor_Ext//	//an acceptor//
+nuoB	RXN0-5388	L2R	//a vitamin_Ext//	//an acceptor//
+cyoB	RXN0-5268	L2R	//O2_Ext//an acceptor_Ext//	//an acceptor//
+nikD	ABC-20-RXN	L2R	//nickel_Ext//	//nickel//
+ndh	RXN0-5330	L2R	//an acceptor//	//an acceptor//
+ndh	RXN0-7123	L2R	//a vitamin//	//an acceptor//
+ndh	R170-RXN	L2R	//Cu(II)//	//Cu(I)//
+ttdA	LTARTDEHYDRA-RXN	L2R	//tartrate//	//oxalacetate//
+frdD	R601-RXN	RVB	//an acceptor//fum//	//a vitamin//suc//
+frdA	R601-RXN	RVB	//an acceptor//fum//	//a vitamin//suc//
+adhE	ACETALD-DEHYDROG-RXN	RVB	//CoA//ethanal//	//ac-CoA//
+adhE	ALCOHOL-DEHYDROG-RXN	RVB	//eth//	//ethanal//
+adhE	ALCOHOL-DEHYDROG-GENERIC-RXN	RVB	//ROH//	//aldehyde or ketone//
+adhE	PFLDEACTIV-RXN	RVB	//activated pyruvate-formate lyase//	//pyruvate formate-lyase//
+hycE	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+hycE	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycE	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+ttdB	LTARTDEHYDRA-RXN	L2R	//tartrate//	//oxalacetate//
+hycB	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+hycB	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycB	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+pflB	PYRUVFORMLY-RXN	L2R	//BTS//CoA//	//formate//ac-CoA//
+pflB	KETOBUTFORMLY-RXN	L2R	//2-oxobutyrate//CoA//	//propanoyl-CoA//formate//
+frdB	R601-RXN	RVB	//an acceptor//fum//	//a vitamin//suc//
+fdhF	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+fdhF	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+fdhF	RXN-12274	L2R	//formate//a hydrogenase//	//CO2//a hydrogenase//
+fdhF	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycF	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+hycF	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycF	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+frmA	RXN-2962	L2R	//HMGSH//	//S-formylglutathione//
+hycC	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+hycC	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycC	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+frdC	R601-RXN	RVB	//an acceptor//fum//	//a vitamin//suc//
+hypB	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+hycG	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+hycG	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycG	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+nudK	RXN0-5108	L2R	//GDP-mannose//	//GMP//mannose-1-P//
+zraS	2.7.13.3-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+hycD	FHLMULTI-RXN	L2R	//formate//	//CO2//hydrogen//
+hycD	RXN0-3281	L2R	//formate//an oxidized hydrogenase 3//	//CO2//a reduced hydrogenase 3//
+hycD	RXN-12275	L2R	//a reduced hydrogenase 3//	//hydrogen//an oxidized hydrogenase 3//
+sucB	2OXOGLUTARATEDEH-RXN	L2R	//ketoglutarate//CoA//	//suc-CoA//CO2//
+sucB	2OXOGLUTDECARB-RXN	L2R	//ketoglutarate//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+sucB	RXN-7716	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+sucB	RXN0-1147	RVB	//suc-CoA//an amino acid or its derivative//	//CoA//an amino acid or its derivative//
+sdhC	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	L2R	//an acceptor//suc//	//an acceptor//fum//
+ppc	PEPCARBOX-RXN	L2R	//PEP//carbonate//	//|Pi|//oxalacetate//
+gltA	CITSYN-RXN	L2R	//oxalacetate//ac-CoA//	//cit//CoA//
+acnA	ACONITATEHYDR-RXN	RVB	//cis-aconitate//	//I-CIT//
+acnA	ACONITATEDEHYDR-RXN	RVB	//cit//	//cis-aconitate//
+fumA	FUMHYDR-RXN	RVB	//L-malate//	//fum//
+fumA	OXALOACETATE-TAUTOMERASE-RXN	L2R	//enol-oxaloacetate//	//oxalacetate//
+sucC	SUCCCOASYN-RXN	RVB	//suc//CoA//	//suc-CoA//|Pi|//
+sdhD	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	L2R	//an acceptor//suc//	//an acceptor//fum//
+sdhA	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	L2R	//an acceptor//suc//	//an acceptor//fum//
+icd	ISOCITDEH-RXN	RVB	//I-CIT//	//ketoglutarate//CO2//
+icd	RXN-9951	RVB	//I-CIT//	//oxalo-succ//
+icd	RXN-8642	RVB	//oxalo-succ//	//ketoglutarate//CO2//
+fumB	FUMHYDR-RXN	RVB	//L-malate//	//fum//
+fumB	D--TARTRATE-DEHYDRATASE-RXN	RVB	//D-tartrate//	//oxalacetate//
+sucD	SUCCCOASYN-RXN	RVB	//suc//CoA//	//suc-CoA//|Pi|//
+sucA	2OXOGLUTARATEDEH-RXN	L2R	//ketoglutarate//CoA//	//suc-CoA//CO2//
+sucA	RXN0-1147	RVB	//suc-CoA//an amino acid or its derivative//	//CoA//an amino acid or its derivative//
+sucA	RXN-7716	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+sucA	2OXOGLUTDECARB-RXN	L2R	//ketoglutarate//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+sdhB	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	L2R	//an acceptor//suc//	//an acceptor//fum//
+fumC	FUMHYDR-RXN	RVB	//L-malate//	//fum//
+pykF	PEPDEPHOS-RXN	L2R	//PEP//	//BTS//
+pgi	PGLUCISOM-RXN	RVB	//all carbohydrates//	//F6P//
+eno	2PGADEHYDRAT-RXN	RVB	//2-P-D-glycerate//	//PEP//
+gpmA	RXN-15513	RVB	//2-P-D-glycerate//	//3-P-D-glycerate//
+gpmA	RXN-15509	RVB	//an amino acid or its derivative//DPG//	//an amino acid or its derivative//acid//
+gpmA	RXN-15510	RVB	//an amino acid or its derivative//2-P-D-glycerate//	//an amino acid or its derivative//DPG//
+gpmA	RXN-15511	RVB	//an amino acid or its derivative//DPG//	//an amino acid or its derivative//3-P-D-glycerate//
+gpmA	RXN-15512	RVB	//an amino acid or its derivative//acid//	//an amino acid or its derivative//DPG//
+tpiA	TRIOSEPISOMERIZATION-RXN	RVB	//GAP//	//DHAP//
+pgk	PHOSGLYPHOS-RXN	RVB	//3-P-D-glycerate//	//DPG//
+pykA	PEPDEPHOS-RXN	L2R	//PEP//	//BTS//
+gapA	GAPOXNPHOSPHN-RXN	RVB	//GAP//|Pi|//	//DPG//
+fruK	1PFRUCTPHOSN-RXN	L2R	//beta-D-fructofuranose-1-P//	//FBP//
+metE	HOMOCYSMET-RXN	L2R	//5-methyltetrahydropteroyl tri-L-glutamate//homo-cys//	//met//H4PteGlu3//
+metA	HOMSUCTRAN-RXN	L2R	//homo-ser//suc-CoA//	//succinyl-homoserine//CoA//
+metH	HOMOCYSMET-RXN	L2R	//5-methyltetrahydropteroyl tri-L-glutamate//homo-cys//	//met//H4PteGlu3//
+metH	HOMOCYSMETB12-RXN	L2R	//homo-cys//a vitamin//	//met//a vitamin//
+metC	CYSTATHIONINE-BETA-LYASE-RXN	L2R	//cystathionine//	//ammonium//BTS//homo-cys//
+metC	RXN-15131	L2R	//cystathionine//	//dehydroalanine//homo-cys//
+metC	LCYSDESULF-RXN	L2R	//Cys//	//BTS//ammonium//sulfide//
+metC	RXN-15129	L2R	//Cys//	//dehydroalanine//sulfide//
+chbG	RXN0-7001	L2R	//diacetylchitobiose 6-phosphate//	//N-monoacetylchitobiose 6'-phosphate//acetate//
+chbG	RXN-11313	L2R	//all carbohydrates//	//all carbohydrates//acetate//
+bcsZ	RXN-2043	L2R	//all carbohydrates//	//all carbohydrates//
+purD	GLYRIBONUCSYN-RXN	L2R	//PRA//gly//	//|Pi|//GAR//
+purT	GARTRANSFORMYL2-RXN	L2R	//GAR//formate//	//|Pi|//FGAR//
+purT	ACETATEKIN-RXN	RVB	//acetate//	//acetyl-P//
+purN	GART-RXN	RVB	//10-formyl-THF mono-L-glutamate//GAR//	//a vitamin//FGAR//
+purK	RXN0-742	L2R	//AIR//carbonate//	//N5-CAIR//|Pi|//
+purE	RXN0-743	L2R	//N5-CAIR//	//CAIR//
+purL	FGAMSYN-RXN	L2R	//FGAR//gln//	//|Pi|//FGAM//glt//
+purF	PRPPAMIDOTRANS-RXN	L2R	//PRPP//gln//	//PRA//PP//glt//
+purC	SAICARSYN-RXN	L2R	//CAIR//asp//	//|Pi|//SAICAR//
+purB	AMPSYN-RXN	L2R	//adenylo-succ//	//fum//
+purB	AICARSYN-RXN	L2R	//SAICAR//	//fum//AICAR//
+purM	AIRS-RXN	L2R	//FGAM//	//|Pi|//AIR//
+pyrE	OROPRIBTRANS-RXN	RVB	//Orotidylic acid//PP//	//PRPP//orotate//
+psuK	PSEUDOURIDINE-KINASE-RXN	L2R	//pseudouridine//	//pseudouridine 5'-phosphate//
+pyrC	DIHYDROOROT-RXN	RVB	//L-dihydroorotate//	//carbamyl-aspartate//
+prs	PRPPSYN-RXN	L2R	//all carbohydrates//	//PRPP//
+pyrB	ASPCARBTRANS-RXN	L2R	//asp//carbamoyl-P//	//carbamyl-aspartate//|Pi|//
+umpH	AMP-DEPHOSPHORYLATION-RXN	L2R	//	//adenosine//|Pi|//
+umpH	RXN-7607	L2R	//IMP//	//inosine//|Pi|//
+umpH	RXN-7609	L2R	//GMP//	//guanosine//|Pi|//
+umpH	RXN-14025	L2R	//UMP//	//uridine//|Pi|//
+umpH	RXN-14026	L2R	//CMP//	//cytidine//|Pi|//
+umpH	5-NUCLEOTID-RXN	L2R	//NMP//	//nucleoside//|Pi|//
+pepP	3.4.11.9-RXN	L2R	//Protein//	//an amino acid or its derivative//Protein//
+nudC	RXN0-4401	L2R	//	//NMNH//
+hslU	RXN0-5103	L2R	//Protein//	//Protein//
+pepA	3.4.11.1-RXN	L2R	//a peptide with an N-terminal L-amino acid//	//an amino acid or its derivative//a peptide with an N-terminal L-amino acid//
+pepA	RXN-6622	L2R	//Cys-Gly//	//Cys//gly//
+pepT	3.4.11.4-RXN	L2R	//Peptide//	//Peptide//an amino acid or its derivative//
+mltF	RXN-17391	L2R	//a mature peptidoglycan(n) (meso-DAP containing)//	//a mature peptidoglycan(n) (meso-DAP containing)//GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala//
+degP	3.4.21.107-RXN	L2R	//Protein//	//Protein//
+ptrB	3.4.21.83-RXN	L2R	//Peptide//	//Protein//
+mltD	RXN-17391	L2R	//a mature peptidoglycan(n) (meso-DAP containing)//	//a mature peptidoglycan(n) (meso-DAP containing)//GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala//
+mltD	RXN-17392	L2R	//all carbohydrates//	//a mature peptidoglycan strand (non-reducing terminus)//GlcNAc-1,6-anhydro-MurNAc-tetrapeptide//
+slt	RXN-17391	L2R	//a mature peptidoglycan(n) (meso-DAP containing)//	//a mature peptidoglycan(n) (meso-DAP containing)//GlcNAc-1,6-anhMurNAc-L-Ala-gamma-D-Glu-DAP-D-Ala//
+slt	RXN-17392	L2R	//all carbohydrates//	//a mature peptidoglycan strand (non-reducing terminus)//GlcNAc-1,6-anhydro-MurNAc-tetrapeptide//
+clpX	3.4.21.92-RXN	L2R	//Protein//	//Protein//
+pepQ	3.4.13.9-RXN	L2R	//Peptide//	//pro//an amino acid or its derivative//
+bioH	RXN-11483	L2R	//Protein//	//Protein//MeOH//
+bioH	ACETYLESTERASE-RXN	L2R	//an acetyl ester//	//ROH//acetate//
+bioH	CARBOXYLESTERASE-RXN	L2R	//an ester//	//ROH//acid//
+clpA	3.4.21.92-RXN	L2R	//Protein//	//Protein//
+bioC	RXN-11475	L2R	//SAM//Protein//	//Protein//SAH//
+pepE	3.4.13.21-RXN	L2R	//Peptide//	//asp//an amino acid or its derivative//
+bioD	DETHIOBIOTIN-SYN-RXN	L2R	//CO2//DAPA//	//DTB//|Pi|//
+pepD	RXN0-6981	L2R	//Ala-Glu//	//ala//glt//
+pepD	3.4.13.18-RXN	L2R	//Peptide//	//an amino acid or its derivative//
+pepD	RXN-6622	L2R	//Cys-Gly//	//Cys//gly//
+bioA	DAPASYN-RXN	RVB	//SAM//KAPA//	//S-adenosyl-4-methylthio-2-oxobutanoate//DAPA//
+bisC	1.8.4.13-RXN	L2R	//L-methionine-(S)-S-oxide//a thioredoxin//	//met//a thioredoxin//
+bisC	RXN0-6277	L2R	//biotin sulfoxide//a thioredoxin//	//biotin//a thioredoxin//
+degS	RXN0-3182	L2R	//Protein//	//Protein//
+bioF	RXN-11484	L2R	//Protein//ala//	//KAPA//CO2//Protein//
+bioF	7KAPSYN-RXN	L2R	//ala//pimelyl-CoA//	//CO2//CoA//KAPA//
+prlC	3.4.24.70-RXN	L2R	//Peptide//	//Protein//
+bioB	2.8.1.6-RXN	L2R	//SAM//a sulfurated sulfur donor//DTB//Protein//	//an unsulfurated [sulfur donor]//biotin//5'-deoxyadenosine//met//Protein//
+bioB	RXN-17472	L2R	//SAM//a sulfurated sulfur donor//DTB//Protein//	//an unsulfurated [sulfur donor]//9-mercaptodethiobiotin//5'-deoxyadenosine//met//Protein//
+bioB	RXN-17473	L2R	//SAM//9-mercaptodethiobiotin//	//biotin//5'-deoxyadenosine//met//
+lon	3.4.21.53-RXN	L2R	//Protein//	//Protein//
+gshB	GLUTATHIONE-SYN-RXN	L2R	//gly//gamma-Glu-Cys//	//GSH//|Pi|//
+aat	RXN-17846	L2R	//L-leucyl-tRNA//an N-terminal arginyl-[protein]//	//L-leucyl-L-amino acid-[protein]//a single-stranded RNA//
+aat	RXN-17847	L2R	//an L-phenylalanyl-[tRNAPhe]//an N-terminal arginyl-[protein]//	//L-phenylalanyl-L-amino acid-[protein]//a single-stranded RNA//
+aat	RXN-17848	L2R	//an L-phenylalanyl-[tRNAPhe]//an N-terminal L-lysyl-[protein]//	//L-phenylalanyl-L-amino acid-[protein]//a single-stranded RNA//
+aat	LEUCYLTRANSFERASE-RXN	L2R	//L-leucyl-tRNA//an N-terminal L-lysyl-[protein]//	//L-leucyl-L-amino acid-[protein]//a single-stranded RNA//
+gshA	GLUTCYSLIG-RXN	L2R	//Cys//glt//	//gamma-Glu-Cys//|Pi|//
+hflC	RXN0-3221	L2R	//Protein//	//Protein//
+cpxA	RXN0-7299	L2R	//CpxR-P//	//YiiA//|Pi|//
+prc	3.4.21.102-RXN	L2R	//Protein//	//Protein//
+ispA	GPPSYN-RXN	L2R	//DPP//IPP//	//GPP//PP//
+ispA	FPPSYN-RXN	L2R	//GPP//IPP//	//FPP//PP//
+ubiC	CHORPYRLY-RXN	L2R	//chorismate//	//|4-hydroxybenzoate|//BTS//
+pepB	RXN0-5204	L2R	//a PepB aminopeptidase substrate//	//an amino acid or its derivative//Protein//
+pepB	RXN-6622	L2R	//Cys-Gly//	//Cys//gly//
+ispF	RXN0-302	L2R	//CDP-ME-2P//	//CMP//ME-2,4cPP//
+pepN	RXN0-5195	L2R	//Protein//	//Protein//
+pepN	3.4.11.2-RXN	L2R	//a peptide with an N-terminal L-alanine//	//ala//Protein//
+pepN	RXN-6622	L2R	//Cys-Gly//	//Cys//gly//
+ispB	RXN-8992	L2R	//FPP//IPP//	//OPP//PP//
+hslV	RXN0-5103	L2R	//Protein//	//Protein//
+ompT	3.4.21.87-RXN	L2R	//Protein//	//Protein//
+ftsH	RXN0-3221	L2R	//Protein//	//Protein//
+ubiI	2-OCTAPRENYLPHENOL-HYDROX-RXN	L2R	//2-octaprenylphenol//O2//	//2-octaprenyl-6-hydroxyphenol//
+gspO	3.4.23.43-RXN	L2R	//a type IV prepilin//	//Protein//Protein//
+menH	RXN-9310	L2R	//SEPHCHC//	//SHCHC//BTS//
+hflK	RXN0-3221	L2R	//Protein//	//Protein//
+ispG	RXN-15878	L2R	//ME-2,4cPP//dihydro flavodoxin//	//HMBDP//a flavoprotein//
+sppA	RXN0-3201	L2R	//Peptide//	//Protein//
+ubiD	3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	L2R	//3-octaprenyl-4-hydroxybenzoate//	//2-octaprenylphenol//CO2//
+dcp	3.4.15.5-RXN	L2R	//a peptidyl-dipeptidase Dcp substrate//	//Protein//Peptide//
+dxr	DXPREDISOM-RXN	RVB	//MEP//	//DXP//
+ispE	2.7.1.148-RXN	L2R	//CDP-ME//	//CDP-ME-2P//
+ptrA	3.4.24.55-RXN	L2R	//Protein//	//Protein//
+hemB	PORPHOBILSYNTH-RXN	L2R	//ALA//	//porphobilinogen//
+clpP	3.4.21.92-RXN	L2R	//Protein//	//Protein//
+cysG	RXN-13403	L2R	//SAM//uroporphyrinogen-III//	//SAH//precorrin-2//
+cysG	RXN-8675	L2R	//SAM//precorrin-1//	//SAH//precorrin-2//
+cysG	UROPORIIIMETHYLTRANSA-RXN	L2R	//SAM//uroporphyrinogen-III//	//SAH//precorrin-1//
+cysG	DIMETHUROPORDEHYDROG-RXN	L2R	//precorrin-2//	//Precorrin//
+cysG	SIROHEME-FERROCHELAT-RXN	L2R	//Precorrin//Fe+2//	//siroheme//
+hemF	RXN0-1461	L2R	//coproporphyrinogen III//O2//	//protoporphyrinogen//CO2//
+rseP	RXN0-3201	L2R	//Peptide//	//Protein//
+rseP	RXN-18678	L2R	//Peptide//	//Protein//
+hemL	GSAAMINOTRANS-RXN	L2R	//L-glutamate 1-semialdehyde//	//ALA//
+recD	RXN-19004	L2R	//a polynucleotide//Tif//	//a polynucleotide//|Pi|//
+recD	RXN0-2605	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+recD	3.1.21.2-RXN	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+recD	RXN0-4261	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+hemC	OHMETHYLBILANESYN-RXN	L2R	//porphobilinogen//	//ammonium//preuroporphyrinogen//
+nfi	3.1.21.7-RXN	L2R	//a DNA containing an AP site//	//a deoxynucleotide//
+hemN	HEMN-RXN	L2R	//SAM//coproporphyrinogen III//	//protoporphyrinogen//CO2//met//5'-deoxyadenosine//
+nfo	3.1.21.2-RXN	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+hemG	PROTOPORGENOXI-RXN	L2R	//protoporphyrinogen//O2//	//protoporphyrin IX//perhydrol//
+hemG	RXN0-6259	L2R	//a vitamin//protoporphyrinogen//	//an acceptor//protoporphyrin IX//
+xseB	3.1.11.6-RXN	L2R	//a polynucleotide//	//NMP//oligonucleotide(n)//
+hemD	UROGENIIISYN-RXN	L2R	//preuroporphyrinogen//	//uroporphyrinogen-III//
+hsdR	3.1.21.3-RXN	L2R	//[DNA]//	//a polynucleotide//|Pi|//
+hemA	GLUTRNAREDUCT-RXN	L2R	//an L-glutamyl-[tRNAGlx]//	//L-glutamate 1-semialdehyde//TRNA(GLT)//
+xseA	3.1.11.6-RXN	L2R	//a polynucleotide//	//NMP//oligonucleotide(n)//
+hemE	UROGENDECARBOX-RXN	L2R	//uroporphyrinogen-III//	//CO2//coproporphyrinogen III//
+hemH	PROTOHEMEFERROCHELAT-RXN	RVB	//protoheme//	//protoporphyrin IX//Fe+2//
+recE	RXN0-5039	L2R	//a polynucleotide//	//a polynucleotide//a 5'-phosphomononucleotide//
+recB	RXN-19004	L2R	//a polynucleotide//Tif//	//a polynucleotide//|Pi|//
+recB	RXN0-2605	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+recB	3.1.21.2-RXN	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+recB	RXN-11135	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+endA	3.1.21.1-RXN	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+cobT	DMBPPRIBOSYLTRANS-RXN	L2R	//NaMN//DMB//	//niacin//DMB-ribose-5'-P//
+mcrB	RXN0-2941	L2R	//DNA containing a recognition site//	//Cleaved DNA//
+cobU	COBINPGUANYLYLTRANS-RXN	L2R	//adenosylcobinamide-P//GTP//	//adenosylcobinamide-GDP//PP//
+cobU	COBINAMIDEKIN-RXN	L2R	//AdoCbi//	//adenosylcobinamide-P//
+xthA	RXN-20410	L2R	//a DNA containing an AP site//	//a [DNA]-3'-hydroxyl//5'dRP-DNA//
+xthA	3.1.11.2-RXN	L2R	//[DNA]//	//[DNA]//a deoxynucleotide//
+xthA	RXN-20426	L2R	//a [DNA]-nucleotide-3'-phosphate//	//a [DNA]-3'-hydroxyl//|Pi|//
+xthA	RXN-20429	L2R	//a [DNA]-nucleotide-3'-phosphoglycolate//	//a [DNA]-3'-hydroxyl//2-P-glycolate//
+btuR	BTUR2-RXN	L2R	//Cbi(II)//a flavoprotein//	//AdoCbi//P3,i//a flavoprotein//
+btuR	RXN-19342	L2R	//Cbi(II)//Protein//	//[corrinoid adenosyltranferase]-cob(II)inamide//
+btuR	RXN-19343	L2R	//[corrinoid adenosyltranferase]-cob(I)inamide//	//AdoCbi//P3,i//Protein//
+btuR	COBALADENOSYLTRANS-RXN	L2R	//an organometallic compound//	//an organometallic compound//P3,i//
+uvrB	RXN0-2621	L2R	//DNA with lesion//	//DNA without lesion//
+recJ	3.1.11.6-RXN	L2R	//a polynucleotide//	//NMP//oligonucleotide(n)//
+cobS	COBALAMIN5PSYN-RXN	L2R	//adenosylcobinamide-GDP//DMB-ribose-5'-P//	//adenosylcobalamin 5'-phosphate//GMP//
+entC	ISOCHORSYN-RXN	RVB	//chorismate//	//isochorismate//
+recC	RXN-19004	L2R	//a polynucleotide//Tif//	//a polynucleotide//|Pi|//
+recC	RXN0-2605	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+recC	3.1.21.2-RXN	L2R	//a polynucleotide//	//a 5'-phosphooligonucleotide//
+entA	DHBDEHYD-RXN	L2R	//(2S,3S)-2,3-dihydroxy-2,3-dihydrobenzoate//	//2-pyrocatechuate//
+mcrC	RXN0-2941	L2R	//DNA containing a recognition site//	//Cleaved DNA//
+folK	H2PTERIDINEPYROPHOSPHOKIN-RXN	L2R	//6-(hydroxymethyl)-7,8-dihydropterin//	//6-hydroxymethyl-dihydropterin diphosphate//
+pabA	PABASYN-RXN	RVB	//gln//chorismate//	//4-amino-4-deoxychorismate//glt//
+uvrC	RXN0-2621	L2R	//DNA with lesion//	//DNA without lesion//
+folP	H2PTEROATESYNTH-RXN	L2R	//pABA//6-hydroxymethyl-dihydropterin diphosphate//	//H2Pte//PP//
+sbcB	3.1.11.1-RXN	L2R	//[DNA]//	//[DNA]//a deoxynucleotide//
+folE	GTP-CYCLOHYDRO-I-RXN	L2R	//GTP//	//formate//H2NTP//
+rnhB	3.1.26.4-RXN	L2R	//a polynucleotide//	//DNA//NMP//
+pabB	PABASYN-RXN	RVB	//gln//chorismate//	//4-amino-4-deoxychorismate//glt//
+rnd	RXN0-6484	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+rnd	RXN0-6483	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+rnd	RXN0-4222	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+rnd	3.1.13.5-RXN	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+pabC	ADCLY-RXN	L2R	//4-amino-4-deoxychorismate//	//pABA//BTS//
+rhlB	RXN-11109	L2R	//wound RNA//	//an unwound RNA//|Pi|//
+nudB	H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	L2R	//H2NTP//	//dihydroneopterin-P//PP//
+nudB	RXN0-384	L2R	//dATP//	//dAMP//PP//
+folB	H2NEOPTERINALDOL-RXN	L2R	//DHN//	//glycoaldehyde//6-(hydroxymethyl)-7,8-dihydropterin//
+folB	RXN-10856	RVB	//DHN//	//DHM//
+rnt	RXN0-6484	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+rnt	RXN0-6483	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+rnt	RXN0-4223	L2R	//a polynucleotide//	//NMP//
+lipB	RXN0-947	L2R	//AcpP//an amino acid or its derivative//	//an amino acid or its derivative//Protein//
+lipB	RXN0-1137	RVB	//SucB//lipoyl-ACP//	//SucB//Protein//
+lipB	RXN0-1130	RVB	//AceF//lipoyl-ACP//	//AceF//Protein//
+lipB	RXN0-1138	L2R	//an amino acid or its derivative//lipoyl-ACP//	//an amino acid or its derivative//Protein//
+rnpA	RXN0-6480	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+rnpA	3.1.26.5-RXN	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+lplA	RXN-8655	L2R	//lipoyl-AMP//an amino acid or its derivative//	//an amino acid or its derivative//
+lplA	RXN0-1139	L2R	//AceF//lipoic acid//	//PP//AceF//
+lplA	RXN0-1140	L2R	//SucB//lipoic acid//	//PP//SucB//
+lplA	RXN0-1141	L2R	//an amino acid or its derivative//lipoic acid//	//PP//an amino acid or its derivative//
+lplA	RXN-8654	L2R	//lipoic acid//	//lipoyl-AMP//PP//
+lplA	RXN-13039	L2R	//lipoyl-AMP//an amino acid or its derivative//	//an amino acid or its derivative//
+lplA	RXN0-5098	L2R	//an amino acid or its derivative//C-8 acid//	//an amino acid or its derivative//PP//
+rne	RXN0-6522	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+rne	RXN0-6521	L2R	//RNase E mRNA processing substrate//	//RNase E processing product mRNA//a single-stranded RNA//
+rne	RXN0-6485	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+rne	RXN0-6478	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+rne	3.1.26.12-RXN	L2R	//a single-stranded RNA//	//a single-stranded RNA//
+lipA	RXN0-949	L2R	//SAM//an amino acid or its derivative//Protein//Protein//	//an amino acid or its derivative//5'-deoxyadenosine//met//Protein//sulfur(2-)//Fe+2//Protein//
+rna	RXN0-6527	L2R	//a single-stranded RNA//	//a single-stranded RNA//
+rna	RXN0-6526	L2R	//a single-stranded RNA//	//a single-stranded RNA//
+rna	3.1.27.6-RXN	L2R	//a single-stranded RNA//	//a single-stranded RNA//
+rnb	RXN0-6524	L2R	//a single-stranded RNA//	//RNase II substrate with no poly-A tail//
+rnb	RXN0-6479	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+rnb	3.1.13.1-RXN	L2R	//a single-stranded RNA//	//NMP//
+rph	RXN0-6482	L2R	//a single-stranded RNA//|Pi|//	//a single-stranded RNA//NDP//
+rph	RXN0-6481	L2R	//a single-stranded RNA//|Pi|//	//a single-stranded RNA//NDP//
+rph	TRNA-NUCLEOTIDYLTRANSFERASE-RXN	L2R	//a polynucleotide//|Pi|//	//a polynucleotide//NDP//
+rnhA	3.1.26.4-RXN	L2R	//a polynucleotide//	//DNA//NMP//
+rnc	3.1.26.3-RXN	L2R	//RNase III mRNA processing substrate//	//RNase III processing product mRNA//a single-stranded RNA//
+moaE	RXN-8342	L2R	//cPMP//a sulfurated sulfur donor//	//MPT//a small subunit of molybdopterin synthase//
+pnp	RXN0-6479	L2R	//a single-stranded RNA//	//a single-stranded RNA//NMP//
+pnp	2.7.7.8-RXN	RVB	//a single-stranded RNA//|Pi|//	//a single-stranded RNA//NDP//
+moaA	RXN-8340	L2R	//SAM//GTP//an acceptor//	//3',8-cH2GTP//met//5'-deoxyadenosine//an acceptor//
+rnpB	RXN0-6480	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+rnpB	3.1.26.5-RXN	L2R	//a single-stranded RNA//	//a single-stranded RNA//a single-stranded RNA//
+moeA	RXN-8348	L2R	//H2Dtpp-mADP//molybdate//	//MoCo (dioxyo)//
+rnr	RXN0-7023	L2R	//RNase R degradation substrate RNA//	//NMP//a diribonucleotide//
+chiA	3.2.1.14-RXN	L2R	//all carbohydrates//	//all carbohydrates//
+moaC	RXN-17809	L2R	//3',8-cH2GTP//	//cPMP//PP//
+psuG	RXN0-5398	RVB	//D-ribofuranose 5-phosphate//uracil//	//pseudouridine 5'-phosphate//
+moeB	RXN-11361	L2R	//a small subunit of molybdopterin synthase//	//an unsulfurated [sulfur donor]//PP//
+mobA	RXN0-262	L2R	//MoCo (dioxyo)//GTP//	//MGD//PP//
+mobA	RXN-16457	L2R	//MoCo (dioxyo)//MPT//	//bis-MPT//
+mobA	RXN-16456	L2R	//bis-MPT//GTP//	//bis-MGD//PP//
+moaD	RXN-8342	L2R	//cPMP//a sulfurated sulfur donor//	//MPT//a small subunit of molybdopterin synthase//
+mog	RXN-8344	L2R	//MPT//	//H2Dtpp-mADP//PP//
+coaE	DEPHOSPHOCOAKIN-RXN	L2R	//3-dephospho-CoA//	//CoA//
+panB	3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	RVB	//a vitamin//2-ketovaline//	//ketopantoate//a vitamin//
+panC	PANTOATE-BETA-ALANINE-LIG-RXN	L2R	//beta-alanine//pantoate//	//D-pantothenic acid//PP//
+coaA	PANTOTHENATE-KIN-RXN	L2R	//D-pantothenic acid//	//4'-P-Pantothenate//
+dfp	P-PANTOCYSLIG-RXN	L2R	//4'-P-Pantothenate//Cys//CTP//	//PP//CMP//PPC//
+dfp	P-PANTOCYSDECARB-RXN	L2R	//PPC//	//phosphopantotheine//CO2//
+panD	ASPDECARBOX-RXN	L2R	//asp//	//beta-alanine//CO2//
+puuC	AMINOBUTDEHYDROG-RXN	L2R	//ABAL//	//GABA//
+puuC	SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	L2R	//succ-S-ald//	//suc//
+puuC	RXN0-5455	L2R	//reuterin//	//hydracrylic acid//
+puuC	RXN0-3922	L2R	//4-(gamma-L-glutamylamino)butanal//	//gamma-glu-GABA//
+coaD	PANTEPADENYLYLTRAN-RXN	L2R	//phosphopantotheine//	//3-dephospho-CoA//PP//
+nudL	RXN0-6562	L2R	//3-p-OH-pyr//	//OH-pyr//|Pi|//
+pdxA	RXN-13179	L2R	//4-phosphooxy-L-threonine//	//3-amino-2-oxopropyl phosphate//CO2//
+potH	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+pdxJ	PDXJ-RXN	L2R	//3-amino-2-oxopropyl phosphate//DXP//	//pyridoxine-P//|Pi|//
+caiC	LCARNCOALIG-RXN	L2R	//CoA//vitamin Bt//	//L-carnityl-CoA//PP//
+pncB	NICOTINATEPRIBOSYLTRANS-RXN	L2R	//niacin//PRPP//	//NaMN//PP//|Pi|//
+nadA	QUINOLINATE-SYNTHA-RXN	L2R	//iminoaspartate//DHAP//	//quinolinate//|Pi|//
+potC	ABC-24-RXN	L2R	//spermidine_Ext//	//spermidine//
+potC	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+nadC	QUINOPRIBOTRANS-RXN	L2R	//PRPP//quinolinate//	//NaMN//PP//CO2//
+pncA	NICOTINAMID-RXN	L2R	//vitamin PP//	//ammonium//niacin//
+pncA	PYRAZIN-RXN	L2R	//pyrazinamide//	//ammonium//pyrazinoate//
+eutB	ETHAMLY-RXN	L2R	//colamine//	//ammonium//ethanal//
+nadB	L-ASPARTATE-OXID-RXN	L2R	//O2//asp//	//perhydrol//iminoaspartate//
+nadB	RXN-9772	L2R	//asp//fum//	//iminoaspartate//suc//
+nagE	TRANS-RXN-167	L2R	//HPr - phosphorylated_Ext//NAcGlc_Ext//	//N-acetyl-alpha-D-glucosamine 6-phosphate//Hpr//
+nagE	TRANS-RXN-167A	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//alpha-D-glucosamine phosphate//Hpr//
+nadE	NAD-SYNTH-GLN-RXN	L2R	//NaAD//gln//	//PP//glt//
+nadE	NAD-SYNTH-NH3-RXN	L2R	//ammonium//NaAD//	//PP//
+tauD	RXN0-299	L2R	//taufon//ketoglutarate//O2//	//aminoacetaldehyde//sulfite//suc//CO2//
+nadK	NAD-KIN-RXN	L2R	//	//
+potI	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+thiF	RXN-9788	L2R	//Protein//a ThiS sulfur-carrier protein//Protein//	//Protein//NuvA//Protein//
+thiF	RXN-9789	L2R	//a ThiS sulfur-carrier protein//	//a ThiS sulfur-carrier protein//PP//
+potF	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+potD	ABC-24-RXN	L2R	//spermidine_Ext//	//spermidine//
+potD	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+thiG	THIAZOLSYN2-RXN	L2R	//DXP//iminoacetate//Protein//	//cThz*-P//a ThiS sulfur-carrier protein//
+thiC	PYRIMSYN1-RXN	L2R	//SAM//AIR//	//HMP-P//5'-deoxyadenosine//met//formate//CO//
+eutC	ETHAMLY-RXN	L2R	//colamine//	//ammonium//ethanal//
+potA	ABC-24-RXN	L2R	//spermidine_Ext//	//spermidine//
+potA	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+thiH	RXN-11319	L2R	//SAM//tyr//	//iminoacetate//4-cresol//5'-deoxyadenosine//met//
+thiE	RXN-12611	L2R	//cThz*-P//HMP-PP//	//TMP//CO2//PP//
+thiE	THI-P-SYN-RXN	L2R	//THZ-P//HMP-PP//	//TMP//PP//
+puuB	RXN0-3921	L2R	//gamma-Glu-Put//O2//	//4-(gamma-L-glutamylamino)butanal//perhydrol//ammonium//
+ribA	GTP-CYCLOHYDRO-II-RXN	L2R	//GTP//	//PP//DARP//formate//
+yigB	RIBOPHOSPHAT-RXN	L2R	//5-amino-6-(5-phosphoribitylamino)uracil//	//ARP//|Pi|//
+yigB	RXN0-5187	L2R	//FMN//	//riboflavin//|Pi|//
+potG	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+ribC	RIBOFLAVIN-SYN-RXN	L2R	//6,7-dimethyl-8-(1-D-ribityl)lumazine//	//ARP//riboflavin//
+ribD	RIBOFLAVINSYNDEAM-RXN	L2R	//DARP//	//5-amino-6-(5'-phosphoribosylamino)uracil//ammonium//
+ribD	RIBOFLAVINSYNREDUC-RXN	L2R	//5-amino-6-(5'-phosphoribosylamino)uracil//	//5-amino-6-(5-phosphoribitylamino)uracil//
+potE	TRANS-RXN-69	RVB	//putrescine_Ext//	//putrescine//
+potE	TRANS-RXN0-211	RVB	//putrescine_Ext//Ornithine_Ext//	//putrescine//Ornithine//
+ribB	DIOHBUTANONEPSYN-RXN	L2R	//ribulose-5P//	//tetrolose phosphate//formate//
+ribE	LUMAZINESYN-RXN	L2R	//ARP//tetrolose phosphate//	//6,7-dimethyl-8-(1-D-ribityl)lumazine//|Pi|//
+potB	ABC-24-RXN	L2R	//spermidine_Ext//	//spermidine//
+potB	ABC-25-RXN	L2R	//putrescine_Ext//	//putrescine//
+ribF	RIBOFLAVINKIN-RXN	L2R	//riboflavin//	//FMN//
+ribF	FADSYN-RXN	L2R	//FMN//	//FAD//PP//
+dppD	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+tdh	THREODEHYD-RXN	L2R	//thr//	//3-oxothreonine//
+dsdA	DSERDEAM-RXN	L2R	//D-serine//	//BTS//ammonium//
+dsdA	RXN-15581	L2R	//D-serine//	//dehydroalanine//
+sapF	TRANS-RXN-328	L2R	//putrescine_Ext//	//putrescine//
+aspC	ASPAMINOTRANS-RXN	RVB	//asp//ketoglutarate//	//oxalacetate//glt//
+aspC	RXN-10814	RVB	//phe//ketoglutarate//	//phenylpyruvate//glt//
+aspC	TYROSINE-AMINOTRANSFERASE-RXN	RVB	//tyr//ketoglutarate//	//hydroxyphenylpyruvate//glt//
+aspC	2.6.1.7-RXN	RVB	//kynurenine//ketoglutarate//	//glt//4-(2-aminophenyl)-2,4-dioxobutanoate//
+aspC	CYSTEINE-AMINOTRANSFERASE-RXN	RVB	//ketoglutarate//Cys//	//glt//mercaptopyruvate//
+gcvP	GCVMULTI-RXN	L2R	//gly//a vitamin//	//a vitamin//ammonium//CO2//
+gcvP	GCVT-RXN	RVB	//an amino acid or its derivative//a vitamin//	//an amino acid or its derivative//a vitamin//ammonium//
+gcvP	RXN-8629	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+gcvP	GCVP-RXN	RVB	//gly//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+putA	RXN0-7008	L2R	//an acceptor//pro//	//an acceptor//pyrroline 5-carboxylate//
+putA	RXN-14116	L2R	//glutamate-semialdehyde//	//glt//
+ansA	ASPARAGHYD-RXN	L2R	//asn//	//asp//ammonium//
+sdaB	4.3.1.17-RXN	L2R	//ser//	//BTS//ammonium//
+sdaB	RXN-15125	L2R	//ser//	//dehydroalanine//
+metB	O-SUCCHOMOSERLYASE-RXN	RVB	//Cys//succinyl-homoserine//	//suc//cystathionine//
+metB	METBALT-RXN	L2R	//succinyl-homoserine//	//2-oxobutyrate//suc//ammonium//
+metB	RXN-15147	L2R	//succinyl-homoserine//	//suc//(2Z)-2-aminobut-2-enoate//
+fabG	RXN-9536	L2R	//Protein//	//Protein//
+fabG	RXN-9532	L2R	//Protein//	//Protein//
+fabG	RXN-9528	L2R	//Protein//	//Protein//
+fabG	RXN-9518	L2R	//Protein//	//Protein//
+fabG	RXN-9540	L2R	//Protein//	//AcpP//
+fabG	RXN-9524	L2R	//Protein//	//AcpP//
+fabG	RXN-9556	L2R	//Protein//	//Protein//
+fabG	3-OXOACYL-ACP-REDUCT-RXN	L2R	//Protein//	//Protein//
+fabG	RXN0-2142	L2R	//AcpP//	//AcpP//
+fabG	RXN-10655	L2R	//Protein//	//Protein//
+fabG	RXN-10659	L2R	//Protein//	//Protein//
+fabG	RXN-11480	L2R	//Protein//	//Protein//
+fabG	RXN-11476	L2R	//Protein//	//Protein//
+fabG	RXN-9514	L2R	//Protein//	//AcpP//
+dadA	RXN-11193	L2R	//an amino acid or its derivative//an acceptor//	//ammonium//acid//an acceptor//
+dadA	DALADEHYDROG-RXN	L2R	//an acceptor//D-ala//	//an acceptor//ammonium//BTS//
+acpT	ENTDB-RXN	L2R	//EntB//CoA//	//holo EntB//PAP//
+acpT	HOLO-ACP-SYNTH-RXN	L2R	//Protein//CoA//	//PAP//Protein//
+livF	ABC-35-RXN	L2R	//leu_Ext//	//leu//
+livF	ABC-36-RXN	L2R	//val_Ext//	//val//
+livF	ABC-15-RXN	L2R	//ile_Ext//	//ile//
+livF	TRANS-RXN-312	L2R	//phe_Ext//	//phe//
+accC	BIOTIN-CARBOXYL-RXN	L2R	//an amino acid or its derivative//carbonate//	//|Pi|//an amino acid or its derivative//
+dppF	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+cfa	2.1.1.79-RXN	L2R	//SAM//acid//	//acid//SAH//
+tnaA	TRYPTOPHAN-RXN	L2R	//trp//	//ammonium//indole//BTS//
+tnaA	RXN-15578	L2R	//trp//	//indole//dehydroalanine//
+tnaA	LCYSDESULF-RXN	L2R	//Cys//	//BTS//ammonium//sulfide//
+tnaA	RXN-15129	L2R	//Cys//	//dehydroalanine//sulfide//
+acpS	ENTDB-RXN	L2R	//EntB//CoA//	//holo EntB//PAP//
+acpS	HOLO-ACP-SYNTH-RXN	L2R	//Protein//CoA//	//PAP//Protein//
+gcvH	GCVMULTI-RXN	L2R	//gly//a vitamin//	//a vitamin//ammonium//CO2//
+gcvH	GCVP-RXN	RVB	//gly//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+gcvH	GCVT-RXN	RVB	//an amino acid or its derivative//a vitamin//	//an amino acid or its derivative//a vitamin//ammonium//
+gcvH	RXN-8629	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+fabZ	RXN-11477	L2R	//Protein//	//Protein//
+fabZ	RXN-11481	L2R	//Protein//	//Protein//
+fabZ	RXN-10656	L2R	//Protein//	//Protein//
+fabZ	RXN-10660	L2R	//Protein//	//Protein//
+fabZ	RXN0-2144	L2R	//AcpP//	//AcpP//
+fabZ	4.2.1.58-RXN	L2R	//AcpP//	//Protein//
+fabZ	RXN-9537	L2R	//Protein//	//Protein//
+fabZ	RXN-9533	L2R	//Protein//	//Protein//
+fabZ	RXN-9655	L2R	//Protein//	//Protein//
+fabZ	RXN-9520	L2R	//Protein//	//Protein//
+fabZ	4.2.1.61-RXN	L2R	//AcpP//	//Protein//
+fabZ	4.2.1.59-RXN	L2R	//AcpP//	//AcpP//
+fabZ	RXN-9557	L2R	//Protein//	//Protein//
+fabZ	3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	L2R	//Protein//	//Protein//
+fabF	2.3.1.179-RXN	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabF	3-OXOACYL-ACP-SYNTH-BASE-RXN	L2R	//Protein//Protein//	//Protein//Protein//CO2//
+fabF	RXN-9527	L2R	//AcpP//Protein//	//Protein//CO2//Protein//
+fabF	RXN-9531	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabF	RXN-9523	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabF	RXN-9539	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabF	RXN-9535	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabF	3-OXOACYL-ACP-SYNTH-RXN	L2R	//Protein//Protein//	//Protein//Protein//CO2//
+lhgD	RXN0-7319	L2R	//L-2-hydroxyglutarate//an acceptor//	//ketoglutarate//an acceptor//
+fabH	2.3.1.180-RXN	L2R	//ac-CoA//Protein//	//Protein//CoA//CO2//
+fabH	ACP-S-ACETYLTRANSFER-RXN	RVB	//Protein//ac-CoA//	//Protein//CoA//
+tdcB	4.3.1.17-RXN	L2R	//ser//	//BTS//ammonium//
+tdcB	RXN-15125	L2R	//ser//	//dehydroalanine//
+tdcB	THREDEHYD-RXN	L2R	//thr//	//2-oxobutyrate//ammonium//
+tdcB	RXN-15122	L2R	//thr//	//(2Z)-2-aminobut-2-enoate//
+accA	RXN0-5055	L2R	//ac-CoA//an amino acid or its derivative//	//malonyl-CoA//an amino acid or its derivative//
+fabA	4.2.1.58-RXN	L2R	//AcpP//	//Protein//
+fabA	RXN-9537	L2R	//Protein//	//Protein//
+fabA	RXN-9533	L2R	//Protein//	//Protein//
+fabA	RXN-9655	L2R	//Protein//	//Protein//
+fabA	RXN-9520	L2R	//Protein//	//Protein//
+fabA	4.2.1.61-RXN	L2R	//AcpP//	//Protein//
+fabA	4.2.1.59-RXN	L2R	//AcpP//	//AcpP//
+fabA	3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	L2R	//Protein//	//Protein//
+fabA	5.3.3.14-RXN	RVB	//Protein//	//AcpP//
+accD	RXN0-5055	L2R	//ac-CoA//an amino acid or its derivative//	//malonyl-CoA//an amino acid or its derivative//
+brnQ	TRANS-RXN-126B	RVB	//Sodium_Ext//leu_Ext//	//Sodium//leu//
+brnQ	TRANS-RXN-126A	RVB	//Sodium_Ext//val_Ext//	//Sodium//val//
+brnQ	TRANS-RXN-126	RVB	//Sodium_Ext//ile_Ext//	//Sodium//ile//
+fabD	MALONYL-COA-ACP-TRANSACYL-RXN	L2R	//Protein//malonyl-CoA//	//Protein//CoA//
+sdaA	4.3.1.17-RXN	L2R	//ser//	//BTS//ammonium//
+sdaA	RXN-15125	L2R	//ser//	//dehydroalanine//
+fabB	RXN-11474	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	2.3.1.179-RXN	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	2.3.1.41-RXN	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	RXN-11479	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	RXN-10654	L2R	//AcpP//Protein//	//Protein//Protein//CO2//
+fabB	RXN-10658	L2R	//Protein//Protein//	//Protein//Protein//CO2//
+fabB	RXN-9516	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	RXN0-2141	L2R	//AcpP//Protein//	//AcpP//Protein//CO2//
+fabB	3-OXOACYL-ACP-SYNTH-BASE-RXN	L2R	//Protein//Protein//	//Protein//Protein//CO2//
+fabB	RXN-9527	L2R	//AcpP//Protein//	//Protein//CO2//Protein//
+fabB	RXN-9531	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	RXN-9523	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	RXN-9539	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	RXN-9535	L2R	//Protein//Protein//	//Protein//CO2//Protein//
+fabB	3-OXOACYL-ACP-SYNTH-RXN	L2R	//Protein//Protein//	//Protein//Protein//CO2//
+fabB	MALONYL-ACPDECARBOX-RXN	L2R	//Protein//	//Protein//CO2//
+ansB	ASPARAGHYD-RXN	L2R	//asn//	//asp//ammonium//
+fabI	1.3.1.9-RXN	L2R	//Protein//	//Protein//
+fabI	RXN-9558	L2R	//Protein//	//Protein//
+fabI	ENOYL-ACP-REDUCT-NADH-RXN	L2R	//Protein//	//Protein//
+fabI	RXN0-2145	L2R	//AcpP//	//AcpP//
+fabI	RXN-10661	L2R	//Protein//	//Protein//
+fabI	RXN-10657	L2R	//Protein//	//Protein//
+fabI	RXN-11482	L2R	//Protein//	//Protein//
+fabI	RXN-11478	L2R	//Protein//	//Protein//
+fabI	RXN-9657	L2R	//Protein//	//Protein//
+fabI	RXN-9658	L2R	//Protein//	//Protein//
+fabI	RXN-9659	L2R	//AcpP//	//AcpP//
+fabI	RXN-9660	L2R	//Protein//	//Protein//
+fabI	RXN-9661	L2R	//Protein//	//Protein//
+fabI	RXN-9662	L2R	//Protein//	//Protein//
+fabI	RXN-9663	L2R	//Protein//	//Protein//
+fabI	ENOYL-ACP-REDUCT-NADPH-RXN	L2R	//Protein//	//Protein//
+artM	ABC-4-RXN	L2R	//arg_Ext//	//arg//
+pheP	TRANS-RXN-56	RVB	//phe_Ext//	//phe//
+plsX	RXN-9590	RVB	//Protein//|Pi|//	//acyl phosphate//Protein//
+dadX	ALARACECAT-RXN	RVB	//ala//	//D-ala//
+livG	ABC-36-RXN	L2R	//val_Ext//	//val//
+livG	ABC-15-RXN	L2R	//ile_Ext//	//ile//
+livG	ABC-35-RXN	L2R	//leu_Ext//	//leu//
+livG	TRANS-RXN-312	L2R	//phe_Ext//	//phe//
+tynA	RXN-9597	L2R	//carbamoyl-P//O2//	//aldehyde or ketone//ammonium//perhydrol//
+tynA	AMINEPHEN-RXN	L2R	//O2//phenethylamine//	//PAA//ammonium//perhydrol//
+tynA	AMACETOXID-RXN	L2R	//aminoacetone//O2//	//methylglyoxal//ammonium//perhydrol//
+tynA	AMINEOXID-RXN	L2R	//an amine//O2//	//aldehyde or ketone//ammonium//perhydrol//
+glyA	GLYOHMETRANS-RXN	RVB	//ser//a vitamin//	//gly//a vitamin//
+glyA	RXN-6321	L2R	//CH-THF mono-L-glutamate//	//folinate//
+glyA	RXN0-5240	RVB	//D-ala//PLP//	//BTS//PMP//
+glyA	RXN0-5234	L2R	//an amino acid or its derivative//	//ethanal//gly//
+iaaA	RXN0-3241	L2R	//Peptide//	//asp//an amino acid or its derivative//
+iaaA	ASPARAGHYD-RXN	L2R	//asn//	//asp//ammonium//
+dppA	ABC-8-RXN	L2R	//Peptide_Ext//	//Peptide//
+sapD	TRANS-RXN-328	L2R	//putrescine_Ext//	//putrescine//
+speF	ORNDECARBOX-RXN	L2R	//Ornithine//	//CO2//putrescine//
+asnB	ASNSYNB-RXN	L2R	//gln//asp//	//glt//asn//PP//
+asnB	ASNSYNA-RXN	L2R	//asp//ammonium//	//asn//PP//
+asnB	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+gcvT	GCVMULTI-RXN	L2R	//gly//a vitamin//	//a vitamin//ammonium//CO2//
+gcvT	GCVP-RXN	RVB	//gly//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+gcvT	RXN-8629	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+gcvT	GCVT-RXN	RVB	//an amino acid or its derivative//a vitamin//	//an amino acid or its derivative//a vitamin//ammonium//
+grxA	RXN-18586	L2R	//S-sulfocysteine//a glutaredoxin//	//Cys//sulfite//a glutaredoxin//
+grxC	RXN0-7271	L2R	//a protein with a disulfide bond//a glutaredoxin//	//protein with reduced SH groups//a glutaredoxin//
+kbl	AKBLIG-RXN	RVB	//gly//ac-CoA//	//3-oxothreonine//CoA//
+grxB	RXN0-7271	L2R	//a protein with a disulfide bond//a glutaredoxin//	//protein with reduced SH groups//a glutaredoxin//
+acpH	3.1.4.14-RXN	L2R	//Protein//	//phosphopantotheine//Protein//
+fadA	KETOACYLCOATHIOL-RXN	L2R	//an ester//CoA//	//an ester//ac-CoA//
+fadA	RXN-17778	L2R	//3-oxo-18:1-delta9-CoA//CoA//	//16:1(n-9)//ac-CoA//
+fadA	RXN-17782	L2R	//3-oxo-16:1-delta7-CoA//CoA//	//14:1(n-9)//ac-CoA//
+fadA	RXN-17787	L2R	//CoA//3-oxo-18:1-delta11-CoA//	//ac-CoA//16:1-delta9-CoA//
+fadA	RXN-17791	L2R	//CoA//3-oxo-16:1-delta9-CoA//	//ac-CoA//14:1(n-7)-CoA//
+fadA	RXN-17795	L2R	//3-oxo-14:1-delta7-CoA//CoA//	//ac-CoA//12:1(n-7)-CoA//
+fadA	RXN-17799	L2R	//3-oxo-12:1-delta5-CoA//CoA//	//ac-CoA//10:1(n-7)-CoA//
+fadA	RXN-14394	L2R	//3-oxo-14:1-delta5-CoA//CoA//	//12:1(n-9)//ac-CoA//
+atoB	ACETYL-COA-ACETYLTRANSFER-RXN	RVB	//ac-CoA//	//acetoacetyl-CoA//CoA//
+atoB	RXN-20154	RVB	//ac-CoA//an amino acid or its derivative//	//a [protein] S-acetyl-L-cysteine//CoA//
+atoB	RXN-20155	RVB	//a [protein] S-acetyl-L-cysteine//ac-CoA//	//acetoacetyl-CoA//an amino acid or its derivative//
+fadB	OHACYL-COA-DEHYDROG-RXN	L2R	//an ester//	//an ester//
+fadB	RXN-17777	L2R	//(S)-3-hydroxy-18:1-delta9-CoA//	//3-oxo-18:1-delta9-CoA//
+fadB	RXN-17781	L2R	//(S)-3-hydroxy-16:1-delta7-CoA//	//3-oxo-16:1-delta7-CoA//
+fadB	RXN-14393	RVB	//(S)-3-hydroxy-14:1-delta5-CoA//	//3-oxo-14:1-delta5-CoA//
+fadB	RXN-17786	L2R	//(S)-3-hydroxy-18:1-delta11-CoA//	//3-oxo-18:1-delta11-CoA//
+fadB	RXN-17790	L2R	//(S)-3-hydroxy-16:1-delta9-CoA//	//3-oxo-16:1-delta9-CoA//
+fadB	RXN-17794	L2R	//(S)-3-hydroxy-14:1-delta7-CoA//	//3-oxo-14:1-delta7-CoA//
+fadB	RXN-17798	L2R	//(S)-3-hydroxy-12:1-delta5-CoA//	//3-oxo-12:1-delta5-CoA//
+fadB	ENOYL-COA-HYDRAT-RXN	L2R	//an ester//	//an ester//
+fadB	RXN-17776	L2R	//(2E,9Z)-octadecenoyl-CoA//	//(S)-3-hydroxy-18:1-delta9-CoA//
+fadB	RXN-17780	L2R	//(2E,7Z)-hexadecenoyl-CoA//	//(S)-3-hydroxy-16:1-delta7-CoA//
+fadB	RXN0-5393	L2R	//(2E,5Z)-tetradecenoyl-CoA//	//(S)-3-hydroxy-14:1-delta5-CoA//
+fadB	RXN-17785	L2R	//(2E,11Z)-octadecenoyl-CoA//	//(S)-3-hydroxy-18:1-delta11-CoA//
+fadB	RXN-17789	L2R	//(2E,9Z)-hexadecenoyl-CoA//	//(S)-3-hydroxy-16:1-delta9-CoA//
+fadB	RXN-17793	L2R	//(2E,7Z)-tetradecenoyl-CoA//	//(S)-3-hydroxy-14:1-delta7-CoA//
+fadB	RXN-17797	L2R	//(2E,5Z)-dodecenoyl-CoA//	//(S)-3-hydroxy-12:1-delta5-CoA//
+fadB	RXN-7931	RVB	//12:1(n-9)//	//(2E)-dodecenoyl-CoA//
+fadB	ENOYL-COA-DELTA-ISOM-RXN	RVB	//an ester//	//an ester//
+fadB	RXN0-5391	RVB	//(2E,5Z)-tetradecenoyl-CoA//	//(3E,5Z)-tetradeca-3,5-dienoyl-CoA//
+fadB	OHBUTYRYL-COA-EPIM-RXN	RVB	//an ester//	//an ester//
+fadK	ACYLCOASYN-RXN	L2R	//acid//CoA//	//an ester//PP//
+fadK	TRANS-RXN0-623	L2R	//acid_Ext//CoA_Ext//	//an ester//PP//
+fadK	RXN0-7238	L2R	//cis-vaccenate_Ext//CoA_Ext//	//cis-vaccenoyl-CoA//PP//
+fadK	RXN0-7239	L2R	//oleate_Ext//CoA_Ext//	//18:1(n-9)//PP//
+fadK	RXN0-7248	L2R	//palmitoleate_Ext//CoA_Ext//	//16:1-delta9-CoA//PP//
+atoD	ACETOACETYL-COA-TRANSFER-RXN	RVB	//oxobutyrate//ac-CoA//	//acetoacetyl-CoA//acetate//
+wbbI	RXN0-5210	L2R	//Glcp-alpha-octyl//UDP-Galf//	//Galf-beta-1,6-Glcp-alpha-octyl//UDP//
+fadD	ACYLCOASYN-RXN	L2R	//acid//CoA//	//an ester//PP//
+fadD	TRANS-RXN0-623	L2R	//acid_Ext//CoA_Ext//	//an ester//PP//
+fadD	RXN0-7238	L2R	//cis-vaccenate_Ext//CoA_Ext//	//cis-vaccenoyl-CoA//PP//
+fadD	RXN0-7239	L2R	//oleate_Ext//CoA_Ext//	//18:1(n-9)//PP//
+fadD	RXN0-7248	L2R	//palmitoleate_Ext//CoA_Ext//	//16:1-delta9-CoA//PP//
+fadL	RXN0-1802	L2R	//acid_Ext//	//acid//
+eptB	RXN-16286	L2R	//a lipid//Re endotoxin//	//an ester//phosphoethanolamine-Kdo2-lipid A//
+eptB	RXN0-4581	L2R	//a lipid//Re-LPS//	//an ester//phosphatidylethanolamine-Kdo2-lipid IVA//
+kdsB	CPM-KDOSYNTH-RXN	L2R	//3-Kdo//CTP//	//CMP-Kdo//PP//
+ydiF	ACETOACETYL-COA-TRANSFER-RXN	RVB	//oxobutyrate//ac-CoA//	//acetoacetyl-CoA//acetate//
+gutQ	DARAB5PISOM-RXN	RVB	//aldehydo-arabinose-5P//	//ribulose-5P//
+atoA	ACETOACETYL-COA-TRANSFER-RXN	RVB	//oxobutyrate//ac-CoA//	//acetoacetyl-CoA//acetate//
+gmhB	RXN0-4361	L2R	//D-beta-D-heptose-1,7-bisphosphate//	//D-beta-D-heptose-1-phosphate//|Pi|//
+rfaD	5.1.3.20-RXN	L2R	//ADP-D-beta-D-heptose//	//ADP-L-glycero-D-manno-heptose//
+kdsA	KDO-8PSYNTH-RXN	L2R	//D-arabinofuranose 5P//PEP//	//Kdo-8P//|Pi|//
+manX	TRANS-RXN-165	L2R	//aldehyde or ketone_Ext//HPr - phosphorylated_Ext//	//D-mannopyranose-6-P//Hpr//
+manX	TRANS-RXN0-540	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//2-deoxy-D-glucose 6-phosphate//Hpr//
+manX	TRANS-RXN0-446	L2R	//N-acetyl-beta-D-mannosamine_Ext//HPr - phosphorylated_Ext//	//ManNAc-6-P//Hpr//
+manX	TRANS-RXN-167A	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//alpha-D-glucosamine phosphate//Hpr//
+manX	TRANS-RXN-157	L2R	//HPr - phosphorylated_Ext//aldehyde or ketone_Ext//	//all carbohydrates//Hpr//
+manX	TRANS-RXN-167	L2R	//HPr - phosphorylated_Ext//NAcGlc_Ext//	//N-acetyl-alpha-D-glucosamine 6-phosphate//Hpr//
+manX	TRANS-RXN-158A	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//D-fructofuranose 6-phosphate//Hpr//
+pagP	RXN0-1842	L2R	//a lipid//lipid A//	//a lipid//2-Lysolecithin//
+fucK	FUCULOKIN-RXN	L2R	//fuculose//	//L-fuculose-1-P//
+fucK	DARABKIN-RXN	L2R	//D-ribulose//	//D-ribulose-1-P//
+lptD	TRANS-RXN-237	L2R	//a lipid_Ext//	//a lipid//
+lptE	TRANS-RXN-237	L2R	//a lipid_Ext//	//a lipid//
+garD	GALACTARDEHYDRA-RXN	L2R	//mucate//	//KDG//
+xylG	ABC-33-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+alsK	ALLOSE-KINASE-RXN	L2R	//aldehyde or ketone//	//aldehydo-D-allose-6-P//
+dacD	RXN-16649	L2R	//all carbohydrates//	//all carbohydrates//D-ala//
+dacD	BETA-LACTAMASE-RXN	L2R	//an antibiotic//	//a substituted beta-amino acid//
+dacD	RXN-19249	RVB	//Ac2-Lys-Ala-Ala//	//diacetyl-lys-D-ala//D-ala//
+dacD	RXN-19253	RVB	//peptidoglycan pentapeptide//	//peptidoglycan tetrapeptide//D-ala//
+focA	TRANS-RXN-1	RVB	//formate_Ext//	//formate//
+focA	TRANS-RXN-381	RVB	//phosphinate_Ext//	//phosphinate//
+ldtD	RXN-16660	L2R	//all carbohydrates//all carbohydrates//	//a nascent peptidoglycan with L,D cross links (meso-diaminopimelate containing)//D-ala//
+ldtD	RXN-16665	L2R	//all carbohydrates//gly//	//a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-glycine) tetrapeptide//D-ala//
+ldtD	RXN-16664	L2R	//all carbohydrates//	//a nascent peptidoglycan with (L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimelate) tripeptide//D-ala//
+pfkB	6PFRUCTPHOS-RXN	L2R	//F6P//	//FBP//
+pfkB	TAGAKIN-RXN	L2R	//D-tagatofuranose 6-phosphate//	//D-tagatofuranose 1,6-diphosphate//
+malY	CYSTATHIONINE-BETA-LYASE-RXN	L2R	//cystathionine//	//ammonium//BTS//homo-cys//
+malY	RXN-15131	L2R	//cystathionine//	//dehydroalanine//homo-cys//
+malY	LCYSDESULF-RXN	L2R	//Cys//	//BTS//ammonium//sulfide//
+malY	RXN-15129	L2R	//Cys//	//dehydroalanine//sulfide//
+gnd	RXN-9952	L2R	//6-p gluconate//	//ribulose-5P//CO2//
+dacC	RXN-16649	L2R	//all carbohydrates//	//all carbohydrates//D-ala//
+dacC	RXN-19249	RVB	//Ac2-Lys-Ala-Ala//	//diacetyl-lys-D-ala//D-ala//
+dacC	3.4.17.8-RXN	L2R	//UDP-N-acetylmuramoyl-L-alanyl-gamma-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine//	//UDP-MurNAc-tetrapeptide//D-ala//
+dacC	RXN-19256	RVB	//NAM-pentapeptide//	//NAM-tetrapeptide//D-ala//
+fruA	TRANS-RXN0-582	L2R	//all carbohydrates_Ext//PtsI-Phis189_Ext//	//D-fructose 1-phosphate//EI//
+fruA	TRANS-RXN0-618	L2R	//PtsI-Phis189_Ext//aldehyde or ketone_Ext//	//EI//D-fructose 1-phosphate//
+fruA	TRANS-RXN-158	L2R	//all carbohydrates_Ext//PtsI-Phis189_Ext//	//D-fructose 1-phosphate//EI//
+araF	ABC-2-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+glgB	GLYCOGEN-BRANCH-RXN	L2R	//all carbohydrates//	//all carbohydrates//
+glgC	GLUC1PADENYLTRANS-RXN	L2R	//cori ester//	//ADP-glucose//PP//
+glgA	GLYCOGENSYN-RXN	RVB	//all carbohydrates//ADP-glucose//	//all carbohydrates//
+glcB	MALSYN-RXN	L2R	//ac-CoA//glyox//	//L-malate//CoA//
+gatD	1.1.1.251-RXN	RVB	//galactitol 1-phosphate//	//keto-D-tagatose 6-phosphate//
+treF	TREHALA-RXN	L2R	//D-(+)-trehalose//	//beta-glucose//alpha-glucose//
+dkgB	RXN0-4281	L2R	//methylglyoxal//	//acetol//
+dkgB	RXN0-5141	L2R	//4NBZ//	//4NBA//
+dkgB	RXN0-7020	L2R	//2,5-diketo-D-gluconate//	//L-sorbosonate//
+bcsA	CELLULOSE-SYNTHASE-UDP-FORMING-RXN	L2R	//UDPG//all carbohydrates//	//all carbohydrates//UDP//
+zwf	GLU6PDEHYDROG-RXN	L2R	//all carbohydrates//	//6-phosphogluconolactone//
+bcsB	CELLULOSE-SYNTHASE-UDP-FORMING-RXN	L2R	//UDPG//all carbohydrates//	//all carbohydrates//UDP//
+srlD	SORB6PDEHYDROG-RXN	RVB	//D-sorbitol 6-phosphate//	//all carbohydrates//
+mtlD	MANNPDEHYDROG-RXN	RVB	//mannitol-1-P//	//F6P//
+malQ	RXN-14261	RVB	//maltohexaose//aldehyde or ketone//	//maltopentaose//all carbohydrates//
+malQ	RXN-14260	RVB	//maltopentaose//aldehyde or ketone//	//maltotetraose//all carbohydrates//
+malQ	MALTODEG-RXN	L2R	//all carbohydrates//maltohexaose//	//maltoheptaose//aldehyde or ketone//
+malQ	AMYLOMALT-RXN	RVB	//maltotetraose//aldehyde or ketone//	//maltotriose//all carbohydrates//
+gcd	RXN0-6373	L2R	//an acceptor//aldehyde or ketone//	//an acceptor//gluconolactone//
+dctA	TRANS-RXN0-517	RVB	//acid_Ext//	//acid//
+dctA	TRANS-RXN0-451	RVB	//D-malate_Ext//	//D-malate//
+dctA	TRANS-RXN-122A	RVB	//asp_Ext//	//asp//
+dctA	TRANS-RXN-121C	RVB	//orotate_Ext//	//orotate//
+dctA	TRANS-RXN0-553	RVB	//fum_Ext//	//fum//
+dctA	TRANS-RXN-121A	RVB	//L-malate_Ext//	//L-malate//
+dctA	TRANS-RXN-121	RVB	//suc_Ext//	//suc//
+gatA	TRANS-RXN-161	L2R	//an amino acid or its derivative_Ext//dulcite_Ext//	//galactitol 1-phosphate//an amino acid or its derivative//
+gatA	TRANS-RXN-169	L2R	//HPr - phosphorylated_Ext//L-gulitol_Ext//	//D-sorbitol 6-phosphate//Hpr//
+pgm	PHOSPHOGLUCMUT-RXN	RVB	//cori ester//	//all carbohydrates//
+pgm	RXN-16997	L2R	//Protein//cori ester//	//alpha-glucose 1,6-bisphosphate//a phosphoglucomutase//
+pgm	RXN-16998	L2R	//alpha-glucose 1,6-bisphosphate//a phosphoglucomutase//	//all carbohydrates//Protein//
+rhaA	RHAMNISOM-RXN	RVB	//beta-L-rhamnopyranose//	//keto-L-rhamnulose//
+rhaA	LYXISOM-RXN	RVB	//beta-L-lyxose//	//xylulose//
+aes	ACETYLESTERASE-RXN	L2R	//an acetyl ester//	//ROH//acetate//
+xylA	XYLISOM-RXN	RVB	//aldehyde or ketone//	//xylulose//
+mglB	ABC-18-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+mglB	TRANS-RXN0-541	L2R	//b-methyl-D-galactoside_Ext//	//b-methyl-D-galactoside//
+malK	ABC-16-RXN	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+malK	TRANS-RXN0-504	L2R	//maltotetraose_Ext//	//maltotetraose//
+malK	TRANS-RXN0-503	L2R	//maltotriose_Ext//	//maltotriose//
+hmp	R621-RXN	L2R	//NO//O2//	//nitrate//
+hmp	1.5.1.34-RXN	L2R	//quinoid dihydrobiopterin//	//an organic heterocyclic compound//
+chbB	TRANS-RXN-155B	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//diacetylchitobiose 6-phosphate//Hpr//
+chbB	TRANS-RXN-155	L2R	//HPr - phosphorylated_Ext//beta-D-cellobiose_Ext//	//beta-D-cellobiose-6'-p//Hpr//
+crr	RXN0-17	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//MurNAc-6-P//Hpr//
+crr	TRANS-RXN-168	L2R	//HPr - phosphorylated_Ext//D-(+)-trehalose_Ext//	//alpha,alpha-trehalose 6-phosphate//Hpr//
+crr	TRANS-RXN-157	L2R	//HPr - phosphorylated_Ext//aldehyde or ketone_Ext//	//all carbohydrates//Hpr//
+crr	TRANS-RXN0-583	L2R	//alphaMG_Ext//HPr - phosphorylated_Ext//	//Hpr//alphaMG6P//
+can	RXN0-5224	RVB	//carbonate//	//CO2//
+aldA	LACTALDDEHYDROG-RXN	L2R	//lactald//	//L-lactate//
+aldA	GLYCOLALD-DEHYDROG-RXN	L2R	//glycoaldehyde//	//glycolate//
+trxB	THIOREDOXIN-REDUCT-NADPH-RXN	L2R	//a thioredoxin//	//a thioredoxin//
+xapB	TRANS-RXN-31	RVB	//xanthosine_Ext//	//xanthosine//
+gpmM	3PGAREARR-RXN	RVB	//2-P-D-glycerate//	//3-P-D-glycerate//
+kduD	1.1.1.127-RXN	RVB	//KDG//	//DKII//
+kduD	RXN0-7101	RVB	//D-gluconate//	//5-ketogluconate//
+kduD	RXN-15607	L2R	//cortexone//	//20-dihydro DOC//
+setB	TRANS-RXN-82	RVB	//alpha-lactose_Ext//	//alpha-lactose//
+yihV	RXN-15297	L2R	//6-deoxy-6-sulfofructose//	//6-deoxy-6-sulfofructose 1-phosphate//
+treC	TRE6PHYDRO-RXN	L2R	//alpha,alpha-trehalose 6-phosphate//	//all carbohydrates//aldehyde or ketone//
+rbsC	ABC-28-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+melA	ALPHAGALACTOSID-RXN	L2R	//melibiose//	//aldehyde or ketone//aldehyde or ketone//
+melA	RXN-17754	L2R	//melibionate//	//alpha-D-galactose//D-gluconate//
+malF	ABC-16-RXN	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+malF	TRANS-RXN0-504	L2R	//maltotetraose_Ext//	//maltotetraose//
+malF	TRANS-RXN0-503	L2R	//maltotriose_Ext//	//maltotriose//
+hdhA	7-ALPHA-HYDROXYSTEROID-DEH-RXN	L2R	//cholate//	//3alpha,12alpha-dihydroxy-7-oxo-5beta-cholanate//
+fucU	RXN0-5298	RVB	//alpha-L-fucose//	//beta-L-fucose//
+bglB	RXN0-5297	L2R	//salicin-6-p//	//beta-D-glucose-6-P//saligenin//
+bglB	RXN0-5295	L2R	//arbutin-6P//	//beta-D-glucose-6-P//hydroquinone//
+bglB	6-PHOSPHO-BETA-GLUCOSIDASE-RXN	L2R	//beta-D-cellobiose-6'-p//	//all carbohydrates//aldehyde or ketone//
+sgbH	RXN0-705	L2R	//3-keto-L-gulonate 6-P//	//L-xylulose 5P//CO2//
+aceE	PYRUVDEH-RXN	L2R	//BTS//CoA//	//ac-CoA//CO2//
+aceE	RXN0-1133	L2R	//CoA//an amino acid or its derivative//	//ac-CoA//an amino acid or its derivative//
+aceE	RXN0-1132	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+aceE	RXN0-1134	L2R	//BTS//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+aceE	RXN-12583	L2R	//BTS//TDP//	//2-(alpha-hydroxyethyl)-TPP//CO2//
+aceE	RXN-12508	L2R	//2-(alpha-hydroxyethyl)-TPP//an amino acid or its derivative//	//an amino acid or its derivative//TDP//
+scpA	METHYLMALONYL-COA-MUT-RXN	RVB	//CH3-malonyl-CoA//	//suc-CoA//
+sthA	PYRNUTRANSHYDROGEN-RXN	L2R	//	//
+ppnN	AMP-NUCLEOSID-RXN	L2R	//	//D-ribofuranose 5-phosphate//adenine//
+ppnN	INOSINATE-NUCLEOSIDASE-RXN	L2R	//IMP//	//hypoxanthine//D-ribofuranose 5-phosphate//
+ppnN	RXN-14065	L2R	//CMP//	//cytosine//D-ribofuranose 5-phosphate//
+ppnN	3.2.2.10-RXN	L2R	//a pyrimidine nucleotide//	//all carbohydrates//a base(2)//
+gmm	GDPMANMANHYDRO-RXN	L2R	//GDP-mannose//	//aldehyde or ketone//GDP//
+gmm	GDP-GLUCOSIDASE-RXN	L2R	//GDP-glucose//	//GDP//aldehyde or ketone//
+garP	TRANS-RXN0-523	L2R	//glycerate_Ext//	//glycerate//
+garP	TRANS-RXN0-204	L2R	//glucarate_Ext//	//glucarate//
+garP	TRANS-RXN0-203	L2R	//mucate_Ext//	//mucate//
+ushA	AMP-DEPHOSPHORYLATION-RXN	L2R	//	//adenosine//|Pi|//
+ushA	RXN-14025	L2R	//UMP//	//uridine//|Pi|//
+ushA	RXN-14026	L2R	//CMP//	//cytidine//|Pi|//
+ushA	5-NUCLEOTID-RXN	L2R	//NMP//	//nucleoside//|Pi|//
+ushA	UDPSUGARHYDRO-RXN	L2R	//a modified nucleotide//	//UMP//cori ester//
+ushA	RXN0-5292	L2R	//dCMP//	//d-cytidine//|Pi|//
+ushA	THYMIDYLATE-5-PHOSPHATASE-RXN	L2R	//TMP//	//|Pi|//thymidine//
+ushA	RXN-14161	L2R	//dAMP//	//deoxyadenosine//|Pi|//
+ushA	RXN-14142	L2R	//dGMP//	//deoxyguanosine//|Pi|//
+ushA	RXN-14143	L2R	//dUMP//	//deoxyuridine//|Pi|//
+ushA	RXN0-3741	L2R	//a deoxynucleotide//	//nucleoside//|Pi|//
+ushA	4-NITROPHENYLPHOSPHATASE-RXN	L2R	//pNPP//	//PNP//|Pi|//
+ushA	BIS5-ADENOSYL-TRIPHOSPHATASE-RXN	L2R	//5'Ap3A//	//
+ushA	RXN-18241	L2R	//CDP-glycerol//	//cytidine//|Pi|//L-G3P//
+sgbU	LXULRU5P-RXN	L2R	//L-xylulose 5P//	//L-ribulose-5-P//
+lldP	TRANS-RXN-104	RVB	//L-lactate_Ext//	//L-lactate//
+lldP	TRANS-RXN0-515	RVB	//D-lactate_Ext//	//D-lactate//
+lldP	TRANS-RXN-105	RVB	//glycolate_Ext//	//glycolate//
+lldP	TRANS-RXN0-622	RVB	//L-2-hydroxybutyrate_Ext//	//L-2-hydroxybutyrate//
+nagA	NAG6PDEACET-RXN	L2R	//N-acetyl-alpha-D-glucosamine 6-phosphate//	//alpha-D-glucosamine phosphate//acetate//
+yihS	RXN-15296	L2R	//alpha-sulfoquinovose//	//6-deoxy-6-sulfofructose//
+yihS	MANNOSE-ISOMERASE-RXN	RVB	//aldehydo-D-mannose//	//keto-D-fructose//
+nanA	RXN-15313	L2R	//beta-Neu5Ac//	//N-acetyl-beta-D-mannosamine//BTS//
+nanA	ACNEULY-RXN	RVB	//an N-acyl-neuraminate//	//N-acetyl-beta-D-mannosamine//BTS//
+galU	GLUC1PURIDYLTRANS-RXN	L2R	//cori ester//UTP//	//UDPG//PP//
+nagB	GLUCOSAMINE-6-P-DEAMIN-RXN	RVB	//alpha-D-glucosamine phosphate//	//ammonium//F6P//
+uidA	BETA-GLUCURONID-RXN	L2R	//a glucuronide//	//D-glucopyranuronate//ROH//
+speC	ORNDECARBOX-RXN	L2R	//Ornithine//	//CO2//putrescine//
+manY	TRANS-RXN-165	L2R	//aldehyde or ketone_Ext//HPr - phosphorylated_Ext//	//D-mannopyranose-6-P//Hpr//
+manY	TRANS-RXN0-540	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//2-deoxy-D-glucose 6-phosphate//Hpr//
+manY	TRANS-RXN0-446	L2R	//N-acetyl-beta-D-mannosamine_Ext//HPr - phosphorylated_Ext//	//ManNAc-6-P//Hpr//
+manY	TRANS-RXN-167A	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//alpha-D-glucosamine phosphate//Hpr//
+manY	TRANS-RXN-157	L2R	//HPr - phosphorylated_Ext//aldehyde or ketone_Ext//	//all carbohydrates//Hpr//
+manY	TRANS-RXN-167	L2R	//HPr - phosphorylated_Ext//NAcGlc_Ext//	//N-acetyl-alpha-D-glucosamine 6-phosphate//Hpr//
+manY	TRANS-RXN-158A	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//D-fructofuranose 6-phosphate//Hpr//
+gss	GSPSYN-RXN	L2R	//spermidine//GSH//	//glutathionylspermidine//|Pi|//
+gss	GSPAMID-RXN	L2R	//glutathionylspermidine//	//GSH//spermidine//
+lacY	TRANS-RXN-24	RVB	//alpha-lactose_Ext//	//alpha-lactose//
+lacY	TRANS-RXN-94	RVB	//melibiose_Ext//	//melibiose//
+lacY	RXN0-7215	RVB	//lactulose_Ext//	//lactulose//
+lacY	RXN0-7217	RVB	//arabinosylgalactose_Ext//	//arabinosylgalactose//
+lacY	RXN-17755	RVB	//melibionate_Ext//	//melibionate//
+speD	SAMDECARB-RXN	L2R	//SAM//	//CO2//dcSAM//
+fucO	GLYCOLALDREDUCT-RXN	RVB	//glycol//	//glycoaldehyde//
+fucO	LACTALDREDUCT-RXN	RVB	//L-1,2-propanediol//	//lactald//
+speA	ARGDECARBOX-RXN	L2R	//arg//	//CO2//agmatine//
+ascB	6-PHOSPHO-BETA-GLUCOSIDASE-RXN	L2R	//beta-D-cellobiose-6'-p//	//all carbohydrates//aldehyde or ketone//
+ascB	RXN0-5295	L2R	//arbutin-6P//	//beta-D-glucose-6-P//hydroquinone//
+speE	SPERMIDINESYN-RXN	L2R	//putrescine//dcSAM//	//spermidine//MTA//
+speE	RXN0-5217	L2R	//1-BioDex//dcSAM//	//aminopropylcadaverine//MTA//
+speB	AGMATIN-RXN	L2R	//agmatine//	//urea//putrescine//
+nrdD	RIBONUCLEOSIDE-TRIP-REDUCT-RXN	L2R	//formate//NTP//	//a deoxynucleotide//CO2//
+nrdD	RXN0-745	L2R	//formate//	//CO2//dATP//
+nrdD	RXN0-746	L2R	//formate//GTP//	//dGTP//CO2//
+nrdD	RXN0-724	L2R	//formate//UTP//	//dUTP//CO2//
+nrdD	RXN0-723	L2R	//formate//CTP//	//dCTP//CO2//
+mutT	RXN-14002	L2R	//8-oxo-GDP//	//8-oxo-GMP//|Pi|//
+mutT	RXN-12816	L2R	//8-oxo-dGDP//	//8-oxo-dGMP//|Pi|//
+mutT	RXN-11397	L2R	//8-oxo-GTP//	//8-oxo-GMP//PP//
+mutT	RXN-11396	L2R	//8-oxo-dGTP//	//8-oxo-dGMP//PP//
+xylF	ABC-33-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+folD	METHENYLTHFCYCLOHYDRO-RXN	RVB	//CH-THF mono-L-glutamate//	//10-formyl-THF mono-L-glutamate//
+folD	METHYLENETHFDEHYDROG-NADP-RXN	RVB	//a vitamin//	//CH-THF mono-L-glutamate//
+uxaA	ALTRODEHYDRAT-RXN	L2R	//altronate//	//KDG//
+metF	1.5.1.20-RXN	L2R	//a vitamin//	//a vitamin//
+xylH	ABC-33-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+folA	RXN-19329	L2R	//dihydrofolate//	//THF//
+folA	DIHYDROFOLATEREDUCT-RXN	L2R	//a vitamin//	//a vitamin//
+alsE	RXN0-304	L2R	//D-allulose-6-P//	//F6P//
+purU	FORMYLTHFDEFORMYL-RXN	L2R	//10-formyl-THF mono-L-glutamate//	//a vitamin//formate//
+folC	RXN0-2921	L2R	//a vitamin//glt//	//a vitamin//|Pi|//
+folC	FORMYLTHFGLUSYNTH-RXN	L2R	//10-formyl-THF mono-L-glutamate//glt//	//10-formyl-THF mono-L-glutamate//|Pi|//
+folC	FOLYLPOLYGLUTAMATESYNTH-RXN	L2R	//a vitamin//glt//	//a vitamin//|Pi|//
+folC	DIHYDROFOLATESYNTH-RXN	L2R	//glt//H2Pte//	//dihydrofolate//|Pi|//
+mak	MANNKIN-RXN	L2R	//aldehyde or ketone//	//D-mannopyranose-6-P//
+mak	FRUCTOKINASE-RXN	L2R	//beta-Levulose//	//F6P//
+poxB	RXN-11496	L2R	//BTS//an acceptor//	//CO2//an acceptor//acetate//
+poxB	RXN0-2022	L2R	//BTS//ethanal//	//aldehyde or ketone//CO2//
+poxB	RXN-6161	L2R	//BTS//	//ethanal//CO2//
+poxB	RXN3O-470	L2R	//ethanal//	//aldehyde or ketone//
+malZ	RXN0-5183	L2R	//maltotriose//	//all carbohydrates//aldehyde or ketone//
+malZ	MALTODEXGLUCOSID-RXN	L2R	//all carbohydrates//	//all carbohydrates//aldehyde or ketone//
+malZ	RXN-14281	L2R	//maltopentaose//	//maltotetraose//aldehyde or ketone//
+malZ	RXN-14282	L2R	//maltohexaose//	//maltopentaose//aldehyde or ketone//
+malZ	RXN-14283	L2R	//maltoheptaose//	//maltohexaose//aldehyde or ketone//
+aceA	ISOCIT-CLEAV-RXN	RVB	//I-CIT//	//glyox//suc//
+kgtP	TRANS-RXN-23	RVB	//ketoglutarate_Ext//	//ketoglutarate//
+aceB	MALSYN-RXN	L2R	//ac-CoA//glyox//	//L-malate//CoA//
+fucA	FUCPALDOL-RXN	L2R	//L-fuculose-1-P//	//lactald//DHAP//
+fucA	DARABALDOL-RXN	L2R	//D-ribulose-1-P//	//glycoaldehyde//DHAP//
+metK	S-ADENMETSYN-RXN	L2R	//met//	//SAM//|Pi|//PP//
+araG	ABC-2-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+caiD	CARNDETRU-RXN	RVB	//L-carnityl-CoA//	//crotonobetainyl-CoA//
+caiB	RXN0-3601	L2R	//vitamin Bt//gamma-butyrobetaine-CoA//	//L-carnityl-CoA//actinine//
+pta	PHOSACETYLTRANS-RXN	RVB	//|Pi|//ac-CoA//	//acetyl-P//CoA//
+pta	PTAALT-RXN	L2R	//propanoyl-CoA//|Pi|//	//propanoyl-P//CoA//
+gatY	TAGAALDOL-RXN	L2R	//D-tagatofuranose 1,6-diphosphate//	//DHAP//GAP//
+kdgK	DEOXYGLUCONOKIN-RXN	L2R	//KDG//	//KDPG//
+uidB	TRANS-RXN-98	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+dcuA	TRANS-RXN-379	RVB	//asp_Ext//fum_Ext//	//asp//fum//
+dcuA	TRANS-RXN-106	RVB	//suc_Ext//fum_Ext//	//fum//suc//
+dcuA	TRANS-RXN-106B	RVB	//suc_Ext//L-malate_Ext//	//L-malate//suc//
+dcuA	TRANS-RXN-106A	RVB	//suc_Ext//asp_Ext//	//asp//suc//
+dcuA	TRANS-RXN-299	RVB	//fum_Ext//	//fum//
+gcl	GLYOCARBOLIG-RXN	L2R	//glyox//	//CO2//tartronate-S-ald//
+glgP	GLYCOPHOSPHORYL-RXN	L2R	//all carbohydrates//|Pi|//	//all carbohydrates//cori ester//
+eda	KDPGALDOL-RXN	L2R	//KDPG//	//GAP//BTS//
+eda	RXN-13990	RVB	//L-4-hydroxy-2-oxoglutarate//	//glyox//BTS//
+eda	OXALODECARB-RXN	L2R	//oxalacetate//	//BTS//CO2//
+pdxH	PNPOXI-RXN	L2R	//O2//pyridoxine-P//	//perhydrol//PLP//
+pdxH	PMPOXI-RXN	L2R	//O2//PMP//	//ammonium//perhydrol//PLP//
+araD	RIBULPEPIM-RXN	RVB	//L-ribulose-5-P//	//xylulose-P//
+talB	TRANSALDOL-RXN	RVB	//all carbohydrates//GAP//	//F6P//erythrose-4P//
+talA	TRANSALDOL-RXN	RVB	//all carbohydrates//GAP//	//F6P//erythrose-4P//
+tdcD	PROPKIN-RXN	RVB	//propanoate//	//propanoyl-P//
+gabT	GABATRANSAM-RXN	RVB	//ketoglutarate//GABA//	//glt//succ-S-ald//
+gabT	VAGL-RXN	RVB	//5-aminovalerate//ketoglutarate//	//glt//5-oxopentanoate//
+gabT	ACETYLORNTRANSAM-RXN	L2R	//2-acetamido-5-oxopentanoate//glt//	//acetylornithine//ketoglutarate//
+gabD	SUCCSEMIALDDEHYDROG-RXN	L2R	//succ-S-ald//	//suc//
+gabD	RXN-8182	L2R	//5-oxopentanoate//	//glutarate//
+dgoA	DEHYDDEOXPHOSGALACT-ALDOL-RXN	RVB	//2-keto-3-deoxy-D-galactonate 6-phosphate//	//GAP//BTS//
+nrdF	RIBONUCLEOSIDE-DIP-REDUCTII-RXN	L2R	//CDP//YgaN//	//dCDP//a glutaredoxin//
+nrdF	RXN0-748	L2R	//GDP//YgaN//	//dGDP//a glutaredoxin//
+nrdF	RXN0-747	L2R	//YgaN//	//dADP//a glutaredoxin//
+nrdF	RXN0-722	L2R	//UDP//YgaN//	//dUDP//a glutaredoxin//
+nrdF	UDPREDUCT-RXN	L2R	//UDP//a thioredoxin//	//dUDP//a thioredoxin//
+nrdF	GDPREDUCT-RXN	L2R	//GDP//a thioredoxin//	//dGDP//a thioredoxin//
+nrdF	CDPREDUCT-RXN	L2R	//CDP//a thioredoxin//	//dCDP//a thioredoxin//
+nrdF	ADPREDUCT-RXN	L2R	//a thioredoxin//	//dADP//a thioredoxin//
+nrdF	RIBONUCLEOSIDE-DIP-REDUCTI-RXN	L2R	//a thioredoxin//NDP//	//a thioredoxin//a deoxynucleotide//
+gatB	TRANS-RXN-161	L2R	//an amino acid or its derivative_Ext//dulcite_Ext//	//galactitol 1-phosphate//an amino acid or its derivative//
+gatB	TRANS-RXN-169	L2R	//HPr - phosphorylated_Ext//L-gulitol_Ext//	//D-sorbitol 6-phosphate//Hpr//
+udp	URPHOS-RXN	RVB	//|Pi|//uridine//	//ribose-1-phosphate//uracil//
+galP	TRANS-RXN-21	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+galP	RXN0-7077	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+guaC	GMP-REDUCT-RXN	L2R	//GMP//	//ammonium//IMP//
+rhaB	RHAMNULOKIN-RXN	L2R	//all carbohydrates//	//L-rhamnulose-1P//
+apaH	3.6.1.41-RXN	L2R	//Ap4A//	//
+acs	ACETATE--COA-LIGASE-RXN	L2R	//CoA//acetate//	//ac-CoA//PP//
+acs	PROPIONATE--COA-LIGASE-RXN	L2R	//CoA//propanoate//	//propanoyl-CoA//PP//
+tdk	THYKI-RXN	L2R	//thymidine//	//TMP//
+tdk	DURIDKI-RXN	L2R	//deoxyuridine//	//dUMP//
+garK	GKI-RXN	L2R	//glycerate//	//2-P-D-glycerate//
+gpt	GUANPRIBOSYLTRAN-RXN	L2R	//guanine//PRPP//	//GMP//PP//
+gpt	XANPRIBOSYLTRAN-RXN	L2R	//xanthine//PRPP//	//XMP//PP//
+gpt	HYPOXANPRIBOSYLTRAN-RXN	L2R	//PRPP//hypoxanthine//	//PP//IMP//
+srlE	TRANS-RXN-169	L2R	//HPr - phosphorylated_Ext//L-gulitol_Ext//	//D-sorbitol 6-phosphate//Hpr//
+srlE	TRANS-RXN-156	L2R	//HPr - phosphorylated_Ext//D-mannitol_Ext//	//mannitol-1-P//Hpr//
+add	ADDALT-RXN	L2R	//deoxyadenosine//	//ammonium//deoxyinosine//
+add	ADENODEAMIN-RXN	L2R	//adenosine//	//ammonium//inosine//
+mglC	ABC-18-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+mglC	TRANS-RXN0-541	L2R	//b-methyl-D-galactoside_Ext//	//b-methyl-D-galactoside//
+dgt	DGTPTRIPHYDRO-RXN	L2R	//dGTP//	//P3,i//deoxyguanosine//
+upp	URACIL-PRIBOSYLTRANS-RXN	L2R	//PRPP//uracil//	//PP//UMP//
+deoC	DEOXYRIBOSE-P-ALD-RXN	RVB	//all carbohydrates//	//ethanal//GAP//
+chbC	TRANS-RXN-155B	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//diacetylchitobiose 6-phosphate//Hpr//
+chbC	TRANS-RXN-155	L2R	//HPr - phosphorylated_Ext//beta-D-cellobiose_Ext//	//beta-D-cellobiose-6'-p//Hpr//
+cmk	RXN-11832	RVB	//CMP//	//CDP//
+cmk	RXN-7913	L2R	//dCMP//	//dCDP//
+araA	ARABISOM-RXN	RVB	//arabinose//	//ribulose//
+hpt	HYPOXANPRIBOSYLTRAN-RXN	L2R	//PRPP//hypoxanthine//	//PP//IMP//
+hpt	GUANPRIBOSYLTRAN-RXN	L2R	//guanine//PRPP//	//GMP//PP//
+rihC	URIDINE-NUCLEOSIDASE-RXN	L2R	//uridine//	//aldehyde or ketone//uracil//
+rihC	RXN0-363	L2R	//xanthosine//	//aldehyde or ketone//xanthine//
+rihC	INOSINE-NUCLEOSIDASE-RXN	L2R	//inosine//	//aldehyde or ketone//hypoxanthine//
+rihC	ADENOSINE-NUCLEOSIDASE-RXN	L2R	//adenosine//	//aldehyde or ketone//adenine//
+rihC	RXN0-361	L2R	//cytidine//	//aldehyde or ketone//cytosine//
+ndk	NUCLEOSIDE-DIP-KIN-RXN	L2R	//NDP//	//NTP//
+ndk	UDPKIN-RXN	L2R	//UDP//	//UTP//
+ndk	CDPKIN-RXN	L2R	//CDP//	//CTP//
+ndk	DUDPKIN-RXN	L2R	//dUDP//	//dUTP//
+ndk	DCDPKIN-RXN	L2R	//dCDP//	//dCTP//
+ndk	DTDPKIN-RXN	L2R	//TDP//	//TTP//
+ndk	DADPKIN-RXN	L2R	//dADP//	//dATP//
+ndk	DGDPKIN-RXN	L2R	//dGDP//	//dGTP//
+ndk	GDPKIN-RXN	L2R	//GDP//	//GTP//
+apt	ADENPRIBOSYLTRAN-RXN	L2R	//PRPP//adenine//	//PP//
+rihB	RXN0-361	L2R	//cytidine//	//aldehyde or ketone//cytosine//
+rihB	URIDINE-NUCLEOSIDASE-RXN	L2R	//uridine//	//aldehyde or ketone//uracil//
+rihB	RIBOSYLPYRIMIDINE-NUCLEOSIDASE-RXN	L2R	//nucleoside//	//a base(2)//aldehyde or ketone//
+thyA	THYMIDYLATESYN-RXN	L2R	//a vitamin//dUMP//	//TMP//a vitamin//
+mngA	RXN0-2522	L2R	//HPr - phosphorylated_Ext//mannosylglycerate_Ext//	//2(alpha-D-mannosyl-6-phosphate)-D-glycerate//Hpr//
+guaA	GMP-SYN-GLUT-RXN	L2R	//gln//XMP//	//glt//GMP//PP//
+guaA	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+guaA	GMP-SYN-NH3-RXN	L2R	//XMP//ammonium//	//GMP//PP//
+acnB	ACONITATEHYDR-RXN	RVB	//cis-aconitate//	//I-CIT//
+acnB	ACONITATEDEHYDR-RXN	RVB	//cit//	//cis-aconitate//
+acnB	4.2.1.99-RXN	RVB	//methylisocitrate//	//2-methylaconitate//
+adk	ADENYL-KIN-RXN	RVB	//	//
+adk	UDPKIN-RXN	L2R	//UDP//	//UTP//
+adk	CDPKIN-RXN	L2R	//CDP//	//CTP//
+adk	GDPKIN-RXN	L2R	//GDP//	//GTP//
+adk	DGDPKIN-RXN	L2R	//dGDP//	//dGTP//
+adk	DCDPKIN-RXN	L2R	//dCDP//	//dCTP//
+adk	DTDPKIN-RXN	L2R	//TDP//	//TTP//
+adk	RXN-14074	L2R	//GTP//	//GDP//
+tktB	1TRANSKETO-RXN	RVB	//all carbohydrates//GAP//	//all carbohydrates//xylulose-P//
+tktB	2TRANSKETO-RXN	RVB	//erythrose-4P//xylulose-P//	//F6P//GAP//
+udk	URIDINEKIN-RXN	L2R	//uridine//	//UMP//
+udk	CYTIKIN-RXN	L2R	//cytidine//	//CMP//
+udk	URKI-RXN	L2R	//uridine//GTP//	//UMP//GDP//
+udk	CYTIDINEKIN-RXN	L2R	//cytidine//GTP//	//CMP//GDP//
+gmk	GUANYL-KIN-RXN	RVB	//GMP//	//GDP//
+gmk	GMKALT-RXN	RVB	//dGMP//	//dGDP//
+tktA	2TRANSKETO-RXN	RVB	//erythrose-4P//xylulose-P//	//F6P//GAP//
+tktA	1TRANSKETO-RXN	RVB	//all carbohydrates//GAP//	//all carbohydrates//xylulose-P//
+dut	DUTP-PYROP-RXN	L2R	//dUTP//	//dUMP//PP//
+xylB	XYLULOKIN-RXN	L2R	//xylulose//	//xylulose-P//
+xylB	RXN0-382	L2R	//1-deoxy-xylulose//	//DXP//
+dcd	DCTP-DEAM-RXN	L2R	//dCTP//	//ammonium//dUTP//
+pyrF	OROTPDECARB-RXN	L2R	//Orotidylic acid//	//CO2//UMP//
+rbsD	RXN0-5304	RVB	//beta-D-ribopyranose//	//beta-D-ribofuranose//
+codA	CYTDEAM-RXN	L2R	//cytosine//	//ammonium//uracil//
+codA	RXN0-6708	L2R	//isoguanine//	//xanthine//ammonium//
+melB	TRANS-RXN-94	RVB	//melibiose_Ext//	//melibiose//
+melB	RXN-17755	RVB	//melibionate_Ext//	//melibionate//
+melB	TRANS-RXN-94B	RVB	//lithium ion_Ext//melibiose_Ext//	//lithium ion//melibiose//
+melB	TRANS-RXN-94A	RVB	//Sodium_Ext//melibiose_Ext//	//Sodium//melibiose//
+melB	TRANS-RXN0-520	RVB	//b-methyl-D-galactoside_Ext//Sodium_Ext//	//b-methyl-D-galactoside//Sodium//
+melB	TRANS-RXN0-519	RVB	//a-methyl-D-galactoside_Ext//	//a-methyl-D-galactoside//
+purA	ADENYLOSUCCINATE-SYNTHASE-RXN	L2R	//asp//IMP//GTP//	//adenylo-succ//|Pi|//GDP//
+malG	ABC-16-RXN	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+malG	TRANS-RXN0-504	L2R	//maltotetraose_Ext//	//maltotetraose//
+malG	TRANS-RXN0-503	L2R	//maltotriose_Ext//	//maltotriose//
+deoA	THYM-PHOSPH-RXN	RVB	//thymidine//|Pi|//	//deoxy-D-ribose 1-phosphate//thymine//
+deoA	URA-PHOSPH-RXN	RVB	//deoxyuridine//|Pi|//	//deoxy-D-ribose 1-phosphate//uracil//
+galE	UDPGLUCEPIM-RXN	RVB	//UDPG//	//UDP-galactose//
+nrdE	RIBONUCLEOSIDE-DIP-REDUCTII-RXN	L2R	//CDP//YgaN//	//dCDP//a glutaredoxin//
+nrdE	RXN0-748	L2R	//GDP//YgaN//	//dGDP//a glutaredoxin//
+nrdE	RXN0-747	L2R	//YgaN//	//dADP//a glutaredoxin//
+nrdE	RXN0-722	L2R	//UDP//YgaN//	//dUDP//a glutaredoxin//
+nrdE	UDPREDUCT-RXN	L2R	//UDP//a thioredoxin//	//dUDP//a thioredoxin//
+nrdE	GDPREDUCT-RXN	L2R	//GDP//a thioredoxin//	//dGDP//a thioredoxin//
+nrdE	CDPREDUCT-RXN	L2R	//CDP//a thioredoxin//	//dCDP//a thioredoxin//
+nrdE	ADPREDUCT-RXN	L2R	//a thioredoxin//	//dADP//a thioredoxin//
+nrdE	RIBONUCLEOSIDE-DIP-REDUCTI-RXN	L2R	//a thioredoxin//NDP//	//a thioredoxin//a deoxynucleotide//
+bglF	TRANS-RXN0-518	L2R	//b-methyl-D-glucoside_Ext//HPr - phosphorylated_Ext//	//methyl beta-D-glucoside 6-phosphate//Hpr//
+bglF	TRANS-RXN-153	L2R	//Ursin_Ext//HPr - phosphorylated_Ext//	//arbutin-6P//Hpr//
+bglF	TRANS-RXN-153A	L2R	//HPr - phosphorylated_Ext//salicin_Ext//	//salicin-6-p//Hpr//
+bglF	TRANS-RXN-157	L2R	//HPr - phosphorylated_Ext//aldehyde or ketone_Ext//	//all carbohydrates//Hpr//
+mtn	ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN	L2R	//SAH//	//S-ribosylhomocysteine//adenine//
+mtn	METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN	L2R	//MTA//	//MTR//adenine//
+mtn	RXN0-6550	L2R	//5'-deoxyadenosine//	//5'-deoxyribose//adenine//
+chbF	RXN0-7002	L2R	//N-monoacetylchitobiose 6'-phosphate//	//N-acetyl-alpha-D-glucosamine 6-phosphate//all carbohydrates//
+chbF	6-PHOSPHO-BETA-GLUCOSIDASE-RXN	L2R	//beta-D-cellobiose-6'-p//	//all carbohydrates//aldehyde or ketone//
+nrdA	RIBONUCLEOSIDE-DIP-REDUCTI-RXN	L2R	//a thioredoxin//NDP//	//a thioredoxin//a deoxynucleotide//
+nrdA	CDPREDUCT-RXN	L2R	//CDP//a thioredoxin//	//dCDP//a thioredoxin//
+nrdA	UDPREDUCT-RXN	L2R	//UDP//a thioredoxin//	//dUDP//a thioredoxin//
+nrdA	ADPREDUCT-RXN	L2R	//a thioredoxin//	//dADP//a thioredoxin//
+nrdA	GDPREDUCT-RXN	L2R	//GDP//a thioredoxin//	//dGDP//a thioredoxin//
+aceF	PYRUVDEH-RXN	L2R	//BTS//CoA//	//ac-CoA//CO2//
+aceF	RXN0-1134	L2R	//BTS//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+aceF	RXN-12583	L2R	//BTS//TDP//	//2-(alpha-hydroxyethyl)-TPP//CO2//
+aceF	RXN-12508	L2R	//2-(alpha-hydroxyethyl)-TPP//an amino acid or its derivative//	//an amino acid or its derivative//TDP//
+aceF	RXN0-1132	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+aceF	RXN0-1133	L2R	//CoA//an amino acid or its derivative//	//ac-CoA//an amino acid or its derivative//
+cdd	CYTIDEAM2-RXN	L2R	//cytidine//	//uridine//ammonium//
+cdd	CYTIDEAM-RXN	L2R	//d-cytidine//	//deoxyuridine//ammonium//
+tmk	DTMPKI-RXN	L2R	//TMP//	//TDP//
+guaB	IMP-DEHYDROG-RXN	RVB	//IMP//	//XMP//
+amn	AMP-NUCLEOSID-RXN	L2R	//	//D-ribofuranose 5-phosphate//adenine//
+aphA	ACID-PHOSPHATASE-RXN	L2R	//a phosphate monoester//	//ROH//|Pi|//
+aphA	RXN-14473	L2R	//NMP//	//nucleoside//|Pi|//
+aphA	AMP-DEPHOSPHORYLATION-RXN	L2R	//	//adenosine//|Pi|//
+aphA	RXN-7607	L2R	//IMP//	//inosine//|Pi|//
+aphA	RXN-7609	L2R	//GMP//	//guanosine//|Pi|//
+aphA	RXN-14025	L2R	//UMP//	//uridine//|Pi|//
+aphA	RXN-14026	L2R	//CMP//	//cytidine//|Pi|//
+aphA	5-NUCLEOTID-RXN	L2R	//NMP//	//nucleoside//|Pi|//
+aphA	RXN-14090	L2R	//3'-CMP//	//cytidine//|Pi|//
+aphA	RXN-14126	L2R	//3'-AMP//	//adenosine//|Pi|//
+aphA	3-NUCLEOTID-RXN	L2R	//a ribonucleoside 3'-phosphate//	//nucleoside//|Pi|//
+aphA	RXN0-5292	L2R	//dCMP//	//d-cytidine//|Pi|//
+aphA	THYMIDYLATE-5-PHOSPHATASE-RXN	L2R	//TMP//	//|Pi|//thymidine//
+aphA	RXN-14161	L2R	//dAMP//	//deoxyadenosine//|Pi|//
+aphA	RXN-14142	L2R	//dGMP//	//deoxyguanosine//|Pi|//
+aphA	RXN-14143	L2R	//dUMP//	//deoxyuridine//|Pi|//
+aphA	RXN0-3741	L2R	//a deoxynucleotide//	//nucleoside//|Pi|//
+aphA	RXN-14521	L2R	//T3P//	//thymidine//|Pi|//
+aphA	DEOXYNUCLEOTIDE-3-PHOSPHATASE-RXN	L2R	//a nucleoside 3'-monophosphate//	//nucleoside//|Pi|//
+aphA	RXN-14522	L2R	//2'-deoxycytidine 3'-monophosphate//	//|Pi|//d-cytidine//
+aphA	RXN-14525	L2R	//2'-deoxy-3'GMP//	//deoxyguanosine//|Pi|//
+aphA	RXN-14523	L2R	//2'-deoxyuridine 3'-monophosphate//	//deoxyuridine//|Pi|//
+aphA	RXN-14524	L2R	//2'-deoxy-3'AMP//	//deoxyadenosine//|Pi|//
+aphA	RXN-14505	L2R	//phosphothreonine//	//thr//|Pi|//
+aphA	RXN0-5114	L2R	//L-serine-3P//	//ser//|Pi|//
+aphA	RXN-14534	L2R	//Phosphotyrosine//	//tyr//|Pi|//
+pyrH	RXN-12002	L2R	//UMP//	//UDP//
+kbaY	TAGAALDOL-RXN	L2R	//D-tagatofuranose 1,6-diphosphate//	//DHAP//GAP//
+pyrG	CTPSYN-RXN	L2R	//UTP//gln//	//|Pi|//CTP//glt//
+pyrG	GLUTAMIN-RXN	L2R	//gln//	//glt//ammonium//
+pyrG	RXN-14325	L2R	//UTP//ammonium//	//|Pi|//CTP//
+sgbE	RIBULPEPIM-RXN	RVB	//L-ribulose-5-P//	//xylulose-P//
+purH	AICARTRANSFORM-RXN	RVB	//10-formyl-THF mono-L-glutamate//AICAR//	//a vitamin//FAICAR//
+purH	IMPCYCLOHYDROLASE-RXN	RVB	//IMP//	//FAICAR//
+deoB	D-PPENTOMUT-RXN	RVB	//deoxy-D-ribose 1-phosphate//	//all carbohydrates//
+deoB	PPENTOMUT-RXN	RVB	//ribose-1-phosphate//	//all carbohydrates//
+yihT	RXN-15298	L2R	//6-deoxy-6-sulfofructose 1-phosphate//	//D-3-sulfolactaldehyde//DHAP//
+gabP	TRANS-RXN-57	RVB	//GABA_Ext//	//GABA//
+gabP	TRANS-RXN-384	RVB	//5-aminovalerate_Ext//	//5-aminovalerate//
+gsk	GUANOSINEKIN-RXN	L2R	//guanosine//	//GMP//
+gsk	INOSINEKIN-RXN	L2R	//inosine//	//IMP//
+uxaB	ALTRO-OXIDOREDUCT-RXN	RVB	//altronate//	//tagaturonate//
+nrdB	RIBONUCLEOSIDE-DIP-REDUCTI-RXN	L2R	//a thioredoxin//NDP//	//a thioredoxin//a deoxynucleotide//
+nrdB	CDPREDUCT-RXN	L2R	//CDP//a thioredoxin//	//dCDP//a thioredoxin//
+nrdB	UDPREDUCT-RXN	L2R	//UDP//a thioredoxin//	//dUDP//a thioredoxin//
+nrdB	ADPREDUCT-RXN	L2R	//a thioredoxin//	//dADP//a thioredoxin//
+nrdB	GDPREDUCT-RXN	L2R	//GDP//a thioredoxin//	//dGDP//a thioredoxin//
+rbsA	ABC-28-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+cpdB	3-NUCLEOTID-RXN	L2R	//a ribonucleoside 3'-phosphate//	//nucleoside//|Pi|//
+cpdB	CYCPHOSDIESTER-RXN	L2R	//a nucleoside 2',3'-cyclic phosphate//	//a ribonucleoside 3'-phosphate//
+cpdB	RXN-14115	L2R	//3'-UMP//	//uridine//|Pi|//
+cpdB	RXN-14126	L2R	//3'-AMP//	//adenosine//|Pi|//
+cpdB	RXN-14124	L2R	//3'-GMP//	//guanosine//|Pi|//
+cpdB	RXN-14090	L2R	//3'-CMP//	//cytidine//|Pi|//
+cpdB	RXN-14113	L2R	//cyclic 2',3'-AMP//	//3'-AMP//
+cpdB	RXN-14112	L2R	//2',3'-cyclic CMP//	//3'-CMP//
+cpdB	RXN-14091	L2R	//2',3'-Cyclic UMP//	//3'-UMP//
+cpdB	RXN-14064	L2R	//2',3'-cyclic GMP//	//3'-GMP//
+manZ	TRANS-RXN-165	L2R	//aldehyde or ketone_Ext//HPr - phosphorylated_Ext//	//D-mannopyranose-6-P//Hpr//
+manZ	TRANS-RXN0-540	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//2-deoxy-D-glucose 6-phosphate//Hpr//
+manZ	TRANS-RXN0-446	L2R	//N-acetyl-beta-D-mannosamine_Ext//HPr - phosphorylated_Ext//	//ManNAc-6-P//Hpr//
+manZ	TRANS-RXN-167A	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//alpha-D-glucosamine phosphate//Hpr//
+manZ	TRANS-RXN-157	L2R	//HPr - phosphorylated_Ext//aldehyde or ketone_Ext//	//all carbohydrates//Hpr//
+manZ	TRANS-RXN-167	L2R	//HPr - phosphorylated_Ext//NAcGlc_Ext//	//N-acetyl-alpha-D-glucosamine 6-phosphate//Hpr//
+manZ	TRANS-RXN-158A	L2R	//all carbohydrates_Ext//HPr - phosphorylated_Ext//	//D-fructofuranose 6-phosphate//Hpr//
+lacZ	BETAGALACTOSID-RXN	L2R	//alpha-lactose//	//cerebrose//aldehyde or ketone//
+lacZ	RXN0-5363	RVB	//alpha-lactose//	//allolactose//
+lacZ	RXN-17726	L2R	//lactulose//	//cerebrose//all carbohydrates//
+lacZ	RXN0-7219	L2R	//arabinosylgalactose//	//cerebrose//a D-threo-aldose//
+fucP	TRANS-RXN-20	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+fucP	RXN0-7221	RVB	//a D-threo-aldose_Ext//	//a D-threo-aldose//
+fucP	RXN0-7222	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+ascF	TRANS-RXN-155	L2R	//HPr - phosphorylated_Ext//beta-D-cellobiose_Ext//	//beta-D-cellobiose-6'-p//Hpr//
+ascF	TRANS-RXN-153A	L2R	//HPr - phosphorylated_Ext//salicin_Ext//	//salicin-6-p//Hpr//
+ascF	TRANS-RXN-153	L2R	//Ursin_Ext//HPr - phosphorylated_Ext//	//arbutin-6P//Hpr//
+dcuB	TRANS-RXN-106	RVB	//suc_Ext//fum_Ext//	//fum//suc//
+dcuB	TRANS-RXN-106B	RVB	//suc_Ext//L-malate_Ext//	//L-malate//suc//
+dcuB	TRANS-RXN-106A	RVB	//suc_Ext//asp_Ext//	//asp//suc//
+dcuB	TRANS-RXN-299	RVB	//fum_Ext//	//fum//
+dcuB	TRANS-RXN0-499	RVB	//D-tartrate_Ext//suc_Ext//	//suc//D-tartrate//
+ugpQ	GLYCPDIESTER-RXN	L2R	//glycerol-3-P-OR//	//ROH//L-G3P//
+ugpQ	RXN-14073	L2R	//diglycerol phosphate//	//glycerol//L-G3P//
+ugpQ	RXN-14136	L2R	//glycerophosphoserine//	//L-G3P//ser//
+ugpQ	RXN-14160	L2R	//1-glycerophosphorylethanolamine//	//L-G3P//colamine//
+glpK	GLYCEROL-KIN-RXN	L2R	//glycerol//	//L-G3P//
+gldA	RXN-8632	RVB	//L-1,2-propanediol//	//acetol//
+gldA	AMINOPROPDEHYDROG-RXN	L2R	//aminoacetone//	//D-1-amino-2-propanol//
+gldA	GLYCDEH-RXN	RVB	//glycerol//	//glycerone//
+exuT	TRANS-RXN-123	RVB	//acid_Ext//	//acid//
+exuT	TRANS-RXN-35	RVB	//acid_Ext//	//acid//
+glpQ	RXN-14073	L2R	//diglycerol phosphate//	//glycerol//L-G3P//
+glpQ	GLYCPDIESTER-RXN	L2R	//glycerol-3-P-OR//	//ROH//L-G3P//
+yiaK	RXN0-703	L2R	//DKG//	//3-keto-L-gulonate//
+gntK	GLUCONOKIN-RXN	L2R	//D-gluconate//	//6-p gluconate//
+alsC	ABC-42-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+agp	GLUCOSE-1-PHOSPHAT-RXN	L2R	//cori ester//	//|Pi|//aldehyde or ketone//
+agp	RXN0-1001	L2R	//IP6//	//Ins(1,2,4,5,6)P5//|Pi|//
+rpiB	RXN0-303	RVB	//aldehydo-D-allose-6-P//	//D-allulose-6-P//
+rpiB	RIB5PISOM-RXN	RVB	//all carbohydrates//	//ribulose-5P//
+rhaT	TRANS-RXN-112	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+rhaT	TRANS-RXN0-236	RVB	//beta-L-lyxose_Ext//	//beta-L-lyxose//
+ptsG	TRANS-RXN-157	L2R	//HPr - phosphorylated_Ext//aldehyde or ketone_Ext//	//all carbohydrates//Hpr//
+ptsG	TRANS-RXN0-583	L2R	//alphaMG_Ext//HPr - phosphorylated_Ext//	//Hpr//alphaMG6P//
+manA	MANNPISOM-RXN	RVB	//D-mannopyranose-6-P//	//F6P//
+yicI	RXN0-5001	L2R	//all carbohydrates//	//xylose//
+yicI	RXN-12402	L2R	//isoprimeverose//	//aldehyde or ketone//xylose//
+lacA	GALACTOACETYLTRAN-RXN	L2R	//all carbohydrates//ac-CoA//	//all carbohydrates//CoA//
+glpX	F16BDEPHOS-RXN	L2R	//FBP//	//F6P//|Pi|//
+fucI	FUCISOM-RXN	RVB	//alpha-L-fucose//	//fuculose//
+fucI	DARABISOM-RXN	RVB	//aldehyde or ketone//	//D-ribulose//
+yggF	F16BDEPHOS-RXN	L2R	//FBP//	//F6P//|Pi|//
+araH	ABC-2-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+ybhA	3.1.3.74-RXN	L2R	//PLP//	//pyridoxal//|Pi|//
+ybhA	F16BDEPHOS-RXN	L2R	//FBP//	//F6P//|Pi|//
+maeA	1.1.1.39-RXN	L2R	//L-malate//	//CO2//BTS//
+maeA	MALATE-DEH-RXN	RVB	//L-malate//	//oxalacetate//
+maeA	OXALODECARB-RXN	L2R	//oxalacetate//	//BTS//CO2//
+ppsA	PEPSYNTH-RXN	RVB	//BTS//	//|Pi|//PEP//
+pck	PEPCARBOXYKIN-RXN	L2R	//oxalacetate//	//CO2//PEP//
+epd	ERYTH4PDEHYDROG-RXN	L2R	//erythrose-4P//	//erythronate-4P//
+uxuB	MANNONOXIDOREDUCT-RXN	RVB	//mannonate//	//acid//
+fbp	F16BDEPHOS-RXN	L2R	//FBP//	//F6P//|Pi|//
+alsB	ABC-42-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+ghrB	GLYOXYLATE-REDUCTASE-NADP+-RXN	L2R	//glyox//	//glycolate//
+ghrB	RXN0-300	L2R	//OH-pyr//	//glycerate//
+ghrB	1.1.1.215-RXN	L2R	//2-keto-D-gluconate//	//D-gluconate//
+ghrB	RXN0-7021	L2R	//L-sorbosonate//	//L-idonate//
+ghrB	YIAE1-RXN	L2R	//2,5-diketo-D-gluconate//	//5-ketogluconate//
+galM	ALDOSE1EPIM-RXN	RVB	//cerebrose//	//alpha-D-galactose//
+pfkA	RXN0-6541	L2R	//all carbohydrates//	//SBP//
+pfkA	6PFRUCTPHOS-RXN	L2R	//F6P//	//FBP//
+malX	TRANS-RXN0-575	L2R	//all carbohydrates_Ext//	//all carbohydrates//
+malX	TRANS-RXN0-574	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+glgX	RXN0-5146	L2R	//all carbohydrates//	//all carbohydrates//maltotetraose//
+fbaA	F16ALDOLASE-RXN	RVB	//FBP//	//DHAP//GAP//
+fbaA	SEDOBISALDOL-RXN	L2R	//SBP//	//DHAP//erythrose-4P//
+araE	TRANS-RXN-10	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+dgoK	DEHYDDEOXGALACTKIN-RXN	L2R	//2-keto-3-deoxygalactonate//	//2-keto-3-deoxy-D-galactonate 6-phosphate//
+gatC	TRANS-RXN-161	L2R	//an amino acid or its derivative_Ext//dulcite_Ext//	//galactitol 1-phosphate//an amino acid or its derivative//
+gatC	TRANS-RXN-169	L2R	//HPr - phosphorylated_Ext//L-gulitol_Ext//	//D-sorbitol 6-phosphate//Hpr//
+idnK	GLUCONOKIN-RXN	L2R	//D-gluconate//	//6-p gluconate//
+kdgT	TRANS-RXN-113	RVB	//KDG_Ext//	//KDG//
+caiT	TRANS-RXN-100	RVB	//actinine_Ext//vitamin Bt_Ext//	//actinine//vitamin Bt//
+garR	RXN0-5289	RVB	//glycerate//	//tartronate-S-ald//
+garR	TSA-REDUCT-RXN	L2R	//tartronate-S-ald//	//glycerate//
+srlB	TRANS-RXN-169	L2R	//HPr - phosphorylated_Ext//L-gulitol_Ext//	//D-sorbitol 6-phosphate//Hpr//
+srlB	TRANS-RXN-156	L2R	//HPr - phosphorylated_Ext//D-mannitol_Ext//	//mannitol-1-P//Hpr//
+mtlA	TRANS-RXN-156	L2R	//HPr - phosphorylated_Ext//D-mannitol_Ext//	//mannitol-1-P//Hpr//
+mtlA	TRANS-RXN-169	L2R	//HPr - phosphorylated_Ext//L-gulitol_Ext//	//D-sorbitol 6-phosphate//Hpr//
+malP	RXN-9025	L2R	//all carbohydrates//|Pi|//	//cori ester//
+malP	RXN-14286	L2R	//maltoheptaose//|Pi|//	//maltohexaose//cori ester//
+malP	RXN-14285	L2R	//maltohexaose//|Pi|//	//maltopentaose//cori ester//
+malP	RXN-14284	L2R	//maltopentaose//|Pi|//	//cori ester//maltotetraose//
+malP	RXN0-5182	L2R	//maltotetraose//|Pi|//	//maltotriose//cori ester//
+malP	RXN0-5184	L2R	//all carbohydrates//|Pi|//	//all carbohydrates//cori ester//
+galT	GALACTURIDYLYLTRANS-RXN	RVB	//UDPG//galactose-1-P//	//UDP-galactose//cori ester//
+chbA	TRANS-RXN-155B	L2R	//HPr - phosphorylated_Ext//all carbohydrates_Ext//	//diacetylchitobiose 6-phosphate//Hpr//
+chbA	TRANS-RXN-155	L2R	//HPr - phosphorylated_Ext//beta-D-cellobiose_Ext//	//beta-D-cellobiose-6'-p//Hpr//
+araB	RXN0-5116	L2R	//ribulose//	//L-ribulose-5-P//
+phnN	RXN0-1401	RVB	//ribose-1,5-bisphosphate//	//PRPP//
+phnH	RXN-17954	L2R	//(acetamidomethyl)phosphonate//	//alpha-D-ribose 1-(acetamidomethylphosphonate) 5-triphosphate//adenine//
+phnH	RXN0-6732	L2R	//MePn//	//alpha-D-ribose-1-(methyl)phosphonate-5-triphosphate//adenine//
+mngB	RXN0-5216	L2R	//2(alpha-D-mannosyl-6-phosphate)-D-glycerate//	//D-mannopyranose-6-P//glycerate//
+pldA	RXN0-6952	L2R	//a lipid//	//a lipid//acid//
+pldA	RXN0-6725	L2R	//a lipid//	//acid//a lipid//
+pldA	RXN-19312	L2R	//a lipid//	//acid//1-glycerophosphorylethanolamine//
+pldA	RXN-19311	L2R	//a lipid//	//acid//1-glycerophosphorylethanolamine//
+dhaM	RXN0-7169	L2R	//glycerone//HPr - phosphorylated//	//DHAP//Hpr//
+dhaM	2.7.1.121-RXN	L2R	//glycerone//PEP//	//DHAP//BTS//
+ppx	EXOPOLYPHOSPHATASE-RXN	L2R	//an inorganic anion//	//an inorganic anion//|Pi|//
+phnP	RXN0-6710	L2R	//5-phospho-alpha-D-ribose 1,2-cyclic phosphate//	//ribose-1,5-bisphosphate//
+rhaD	RHAMNULPALDOL-RXN	RVB	//L-rhamnulose-1P//	//lactald//DHAP//
+phnL	RXN-17954	L2R	//(acetamidomethyl)phosphonate//	//alpha-D-ribose 1-(acetamidomethylphosphonate) 5-triphosphate//adenine//
+phnL	RXN0-6732	L2R	//MePn//	//alpha-D-ribose-1-(methyl)phosphonate-5-triphosphate//adenine//
+rpiA	RIB5PISOM-RXN	RVB	//all carbohydrates//	//ribulose-5P//
+phnI	RXN-17954	L2R	//(acetamidomethyl)phosphonate//	//alpha-D-ribose 1-(acetamidomethylphosphonate) 5-triphosphate//adenine//
+phnI	RXN0-6732	L2R	//MePn//	//alpha-D-ribose-1-(methyl)phosphonate-5-triphosphate//adenine//
+xylE	TRANS-RXN-30	RVB	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+ppa	INORGPYROPHOSPHAT-RXN	L2R	//PP//	//|Pi|//
+ppa	TRIPHOSPHATASE-RXN	L2R	//P3,i//	//|Pi|//PP//
+gpsA	GLYC3PDEHYDROGBIOSYN-RXN	L2R	//DHAP//	//L-G3P//
+rbsK	RIBOKIN-RXN	L2R	//aldehyde or ketone//	//D-ribofuranose 5-phosphate//
+ppk	POLYPHOSPHATE-KINASE-RXN	RVB	//an inorganic anion//	//an inorganic anion//
+mglA	ABC-18-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+mglA	TRANS-RXN0-541	L2R	//b-methyl-D-galactoside_Ext//	//b-methyl-D-galactoside//
+phoA	ALKAPHOSPHA-RXN	L2R	//a phosphate monoester//	//ROH//|Pi|//
+phoA	RXN-7948	L2R	//phosphoethanolamine//	//colamine//|Pi|//
+phoA	RXN-5647	L2R	//phosphocholine//	//choline//|Pi|//
+phoA	RXN-14514	L2R	//phosphocysteamine//	//cysteamine//|Pi|//
+phoA	4-NITROPHENYLPHOSPHATASE-RXN	L2R	//pNPP//	//PNP//|Pi|//
+phoA	3.1.3.74-RXN	L2R	//PLP//	//pyridoxal//|Pi|//
+phoA	RXN-14181	L2R	//pyridoxine-P//	//pyridoxol//|Pi|//
+phoA	RXN-7607	L2R	//IMP//	//inosine//|Pi|//
+phoA	RXN-14025	L2R	//UMP//	//uridine//|Pi|//
+phoA	RXN-14115	L2R	//3'-UMP//	//uridine//|Pi|//
+phoA	RXN-14510	L2R	//2'-UMP//	//uridine//|Pi|//
+phoA	RXN0-5292	L2R	//dCMP//	//d-cytidine//|Pi|//
+phoA	RXN-14026	L2R	//CMP//	//cytidine//|Pi|//
+phoA	RXN-14090	L2R	//3'-CMP//	//cytidine//|Pi|//
+phoA	RXN-14511	L2R	//2'CMP//	//cytidine//|Pi|//
+phoA	RXN-14512	L2R	//guanosine 2'-monophosphate//	//guanosine//|Pi|//
+phoA	RXN-14142	L2R	//dGMP//	//deoxyguanosine//|Pi|//
+phoA	RXN-14513	L2R	//2'-AMP//	//|Pi|//adenosine//
+phoA	RXN-14126	L2R	//3'-AMP//	//adenosine//|Pi|//
+phoA	RXN-14161	L2R	//dAMP//	//deoxyadenosine//|Pi|//
+phoA	AMP-DEPHOSPHORYLATION-RXN	L2R	//	//adenosine//|Pi|//
+phoA	PHOSPHOENOLPYRUVATE-PHOSPHATASE-RXN	L2R	//PEP//	//BTS//|Pi|//
+phoA	HISTIDPHOS-RXN	L2R	//histidinol-P//	//histidol//|Pi|//
+phoA	RXN0-5187	L2R	//FMN//	//riboflavin//|Pi|//
+phoA	RXN-5822	L2R	//	//|Pi|//
+phoA	F16BDEPHOS-RXN	L2R	//FBP//	//F6P//|Pi|//
+phoA	PHOSPHOGLYCERATE-PHOSPHATASE-RXN	L2R	//2-P-D-glycerate//	//glycerate//|Pi|//
+phoA	GLYCEROL-2-PHOSPHATASE-RXN	L2R	//2-glycerophosphate//	//|Pi|//glycerol//
+phoA	RXN-14509	L2R	//all carbohydrates//	//aldehydo-D-ribose//|Pi|//
+phoA	RXN-14505	L2R	//phosphothreonine//	//thr//|Pi|//
+phoA	RXN0-5114	L2R	//L-serine-3P//	//ser//|Pi|//
+phoA	TRIPHOSPHATASE-RXN	L2R	//P3,i//	//|Pi|//PP//
+phoA	INORGPYROPHOSPHAT-RXN	L2R	//PP//	//|Pi|//
+phoA	RXN-17330	L2R	//D-glucose 1-phosphate//	//aldehyde or ketone//|Pi|//
+phoA	RXN66-526	L2R	//all carbohydrates//	//aldehyde or ketone//|Pi|//
+phoA	MANNITOL-1-PHOSPHATASE-RXN	L2R	//mannitol-1-P//	//|Pi|//D-mannitol//
+phoA	SORBITOL-6-PHOSPHATASE-RXN	L2R	//D-sorbitol 6-phosphate//	//L-gulitol//|Pi|//
+phoA	RXN-14483	L2R	//all carbohydrates//	//all carbohydrates//|Pi|//
+phoA	GLUCOSE-1-PHOSPHAT-RXN	L2R	//cori ester//	//|Pi|//aldehyde or ketone//
+phoA	RXN-15312	L2R	//alpha-D-glucose-6-P//	//alpha-glucose//|Pi|//
+phoA	GLUCOSE-6-PHOSPHATASE-RXN	L2R	//beta-D-glucose-6-P//	//|Pi|//beta-glucose//
+phoA	RXN0-5186	L2R	//beta-D-fructofuranose-1-P//	//beta-Levulose//|Pi|//
+phoA	SUGAR-PHOSPHATASE-RXN	L2R	//all carbohydrates//	//all carbohydrates//|Pi|//
+phoA	RXN-17724	L2R	//all carbohydrates//	//aldehyde or ketone//|Pi|//
+phoA	RXN-17725	L2R	//mannose-1-P//	//aldehyde or ketone//|Pi|//
+phoA	RXN-17745	L2R	//alpha-D-glucosamine phosphate//	//all carbohydrates//|Pi|//
+phoA	3-PHOSPHOGLYCERATE-PHOSPHATASE-RXN	L2R	//3-P-D-glycerate//	//glycerate//|Pi|//
+phoA	GPH-RXN	L2R	//2-P-glycolate//	//glycolate//|Pi|//
+phoA	3.1.3.68-RXN	L2R	//2-deoxy-D-glucose 6-phosphate//	//all carbohydrates//|Pi|//
+phoA	PHOSPHOAMIDASE-RXN	L2R	//neo-ton//	//|Pi|//creatine//
+phoA	RXN0-5185	L2R	//6-p gluconate//	//D-gluconate//|Pi|//
+phoA	RXN0-7249	L2R	//DHAP//	//glycerone//|Pi|//
+phoA	RXN0-7250	L2R	//GAP//	//D-glycerose//|Pi|//
+phoA	RXN0-7251	L2R	//L-GAP//	//L-Glycerose//|Pi|//
+phnJ	RXN-17956	L2R	//SAM//1-(2-N-acetamidomethylphosphonato) 5-phospho-alpha-D-ribose//an acceptor//	//5-phospho-alpha-D-ribose 1,2-cyclic phosphate//N-methylacetamide//5'-deoxyadenosine//met//an acceptor//
+phnJ	RXN0-6734	L2R	//SAM//alpha-D-ribose-1-methylphosphonate 5-phosphate//an acceptor//	//5-phospho-alpha-D-ribose 1,2-cyclic phosphate//methane//5'-deoxyadenosine//met//an acceptor//
+galK	GALACTOKIN-RXN	L2R	//alpha-D-galactose//	//galactose-1-P//
+phnG	RXN-17954	L2R	//(acetamidomethyl)phosphonate//	//alpha-D-ribose 1-(acetamidomethylphosphonate) 5-triphosphate//adenine//
+phnG	RXN0-6732	L2R	//MePn//	//alpha-D-ribose-1-(methyl)phosphonate-5-triphosphate//adenine//
+cpsB	2.7.7.13-RXN	L2R	//mannose-1-P//GTP//	//GDP-mannose//PP//
+cysJ	SULFITE-REDUCT-RXN	L2R	//sulfite//	//sulfide//
+cysJ	NADPH-DEHYDROGENASE-FLAVIN-RXN	L2R	//riboflavin//	//reduced riboflavin//
+ackA	ACETATEKIN-RXN	RVB	//acetate//	//acetyl-P//
+ackA	PROPKIN-RXN	RVB	//propanoate//	//propanoyl-P//
+cysD	SULFATE-ADENYLYLTRANS-RXN	L2R	//H2SO4//	//APS//PP//
+yjcS	RXN-15761	L2R	//dodecyl sulfate//	//lorol//H2SO4//
+glk	GLUCOKIN-RXN	L2R	//aldehyde or ketone//	//all carbohydrates//
+glk	GLUCOSAMINE-KINASE-RXN	L2R	//all carbohydrates//	//alpha-D-glucosamine phosphate//
+cysN	SULFATE-ADENYLYLTRANS-RXN	L2R	//H2SO4//	//APS//PP//
+aldB	RXN0-3962	L2R	//ethanal//	//acetate//
+bglX	3.2.1.21-RXN	L2R	//all carbohydrates//	//an acceptor//aldehyde or ketone//
+cysH	1.8.4.8-RXN	L2R	//PAPS//a thioredoxin//	//PAP//sulfite//a thioredoxin//
+yihU	RXN-15299	L2R	//D-3-sulfolactaldehyde//	//an organosulfur compound//
+yihU	4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	L2R	//succ-S-ald//	//GHB//
+amyA	ALPHA-AMYL-RXN	L2R	//all carbohydrates//	//all carbohydrates//
+uxuA	MANNONDEHYDRAT-RXN	L2R	//mannonate//	//KDG//
+rbsB	ABC-28-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+cysI	SULFITE-REDUCT-RXN	L2R	//sulfite//	//sulfide//
+mdh	MALATE-DEH-RXN	RVB	//L-malate//	//oxalacetate//
+cysC	ADENYLYLSULFKIN-RXN	L2R	//APS//	//PAPS//
+lpd	PYRUVDEH-RXN	L2R	//BTS//CoA//	//ac-CoA//CO2//
+lpd	RXN0-1134	L2R	//BTS//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+lpd	RXN-12583	L2R	//BTS//TDP//	//2-(alpha-hydroxyethyl)-TPP//CO2//
+lpd	RXN-12508	L2R	//2-(alpha-hydroxyethyl)-TPP//an amino acid or its derivative//	//an amino acid or its derivative//TDP//
+lpd	RXN0-1133	L2R	//CoA//an amino acid or its derivative//	//ac-CoA//an amino acid or its derivative//
+lpd	GCVMULTI-RXN	L2R	//gly//a vitamin//	//a vitamin//ammonium//CO2//
+lpd	GCVP-RXN	RVB	//gly//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+lpd	GCVT-RXN	RVB	//an amino acid or its derivative//a vitamin//	//an amino acid or its derivative//a vitamin//ammonium//
+lpd	2OXOGLUTARATEDEH-RXN	L2R	//ketoglutarate//CoA//	//suc-CoA//CO2//
+lpd	2OXOGLUTDECARB-RXN	L2R	//ketoglutarate//an amino acid or its derivative//	//an amino acid or its derivative//CO2//
+lpd	RXN0-1147	RVB	//suc-CoA//an amino acid or its derivative//	//CoA//an amino acid or its derivative//
+lpd	1.8.1.4-RXN	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+lpd	RXN-8629	RVB	//an amino acid or its derivative//	//an amino acid or its derivative//
+lpd	RXN0-1132	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+lpd	RXN-7716	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//
+lpd	RXN-15119	L2R	//TeO2//an acceptor//	//Te0//an acceptor//
+cysQ	325-BISPHOSPHATE-NUCLEOTIDASE-RXN	L2R	//PAP//	//|Pi|//
+garL	KDGALDOL-RXN	RVB	//KDG//	//BTS//tartronate-S-ald//
+cynT	RXN0-5224	RVB	//carbonate//	//CO2//
+lyxK	LYXK-RXN	L2R	//xylulose//	//L-xylulose 5P//
+lyxK	RXN0-704	L2R	//3-keto-L-gulonate//	//3-keto-L-gulonate 6-P//
+alsA	ABC-42-RXN	L2R	//aldehyde or ketone_Ext//	//aldehyde or ketone//
+yihQ	RXN-17701	L2R	//1-(6-sulfo-alpha-D-quinovosyl)glycerol//	//alpha-sulfoquinovose//glycerol//
+yihQ	RXN-17700	L2R	//an ester//	//alpha-sulfoquinovose//an ester//
+malS	RXN0-5181	L2R	//all carbohydrates//	//all carbohydrates//maltohexaose//
+uhpT	TRANS-RXN-33	RVB	//all carbohydrates_Ext//	//all carbohydrates//
+uhpT	TRANS-RXN0-502	RVB	//D-mannopyranose-6-P_Ext//	//D-mannopyranose-6-P//
+uhpT	TRANS-RXN0-501	RVB	//D-fructofuranose 6-phosphate_Ext//	//D-fructofuranose 6-phosphate//
+uhpT	TRANS-RXN0-534	RVB	//L-GAP_Ext//	//L-GAP//
+rlmJ	RXN0-6998	L2R	//SAM//a ribonucleotide//	//a base(2)//SAH//
+rhaM	RXN0-5306	L2R	//isodulcit//	//beta-L-rhamnopyranose//
+ydfG	RXN0-2201	L2R	//ser//	//FGly//
+ydfG	RXN-16000	L2R	//L-allo-threonine//	//3-oxothreonine//
+ydfG	RXN-8974	L2R	//3-oxopropanoate//	//hydracrylic acid//
+yohF	ACETOINDEHYDROG-A-RXN	L2R	//diacetyl//	//aldehyde or ketone//
+deoD	RXN0-5199	RVB	//guanosine//|Pi|//	//ribose-1-phosphate//guanine//
+deoD	PNP-RXN	RVB	//nebularine//|Pi|//	//a base(2)//ribose-1-phosphate//
+deoD	DEOXYGUANPHOSPHOR-RXN	RVB	//deoxyguanosine//|Pi|//	//guanine//deoxy-D-ribose 1-phosphate//
+deoD	INOPHOSPHOR-RXN	RVB	//inosine//|Pi|//	//ribose-1-phosphate//hypoxanthine//
+deoD	DEOXYINOPHOSPHOR-RXN	RVB	//deoxyinosine//|Pi|//	//hypoxanthine//deoxy-D-ribose 1-phosphate//
+deoD	ADENPHOSPHOR-RXN	RVB	//adenosine//|Pi|//	//ribose-1-phosphate//adenine//
+deoD	DEOXYADENPHOSPHOR-RXN	RVB	//deoxyadenosine//|Pi|//	//adenine//deoxy-D-ribose 1-phosphate//
+ybcF	RXN-14196	RVB	//carbamate//	//carbamoyl-P//
+pldB	RXN-19311	L2R	//a lipid//	//acid//1-glycerophosphorylethanolamine//
+pldB	RXN-19312	L2R	//a lipid//	//acid//1-glycerophosphorylethanolamine//
+pldB	RXN0-7122	L2R	//a lipid//diglycerol phosphate//	//1-glycerophosphorylethanolamine//a lipid//
+appA	RXN0-5462	L2R	//GTP//	//GDP//|Pi|//
+appA	RXN-10940	L2R	//IP6//	//I(1,2,3,4,5)P5//|Pi|//
+appA	RXN-17495	L2R	//I(1,2,3,4,5)P5//	//I(2,3,4,5)P4//|Pi|//
+appA	RXN-17489	L2R	//I(2,3,4,5)P4//	//I(2,4,5)P3//|Pi|//
+appA	RXN-17490	L2R	//I(2,4,5)P3//	//I(2,5)P2//|Pi|//
+appA	RXN-17493	L2R	//I(2,5)P2//	//Ins2P//|Pi|//
+mqo	MALATE-DEHYDROGENASE-ACCEPTOR-RXN	L2R	//an acceptor//L-malate//	//an acceptor//oxalacetate//
+recG	RXN0-2604	L2R	//a DNA with unresolved recombinational or Holliday junctions, created by RecA//	//a DNA segment//
+dnaG	RXN0-5021	L2R	//a polynucleotide//NTP//	//a polynucleotide//PP//
+dnaB	RXN0-4261	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+kefF	NQOR-RXN	L2R	//an acceptor//	//an acceptor//
+kefF	RXN0-5330	L2R	//an acceptor//	//an acceptor//
+kefF	RXN0-7123	L2R	//a vitamin//	//an acceptor//
+kefF	RXN0-271	L2R	//an acceptor//	//an acceptor//
+polA	RXN0-5039	L2R	//a polynucleotide//	//a polynucleotide//a 5'-phosphomononucleotide//
+polA	RXN0-4961	L2R	//[DNA]//	//NMP//
+polA	DNA-DIRECTED-DNA-POLYMERASE-RXN	L2R	//a deoxynucleotide//[DNA]//	//PP//[DNA]//
+preA	DIHYDROURACIL-DEHYDROGENASE-NAD+-RXN	RVB	//DI-H-uracil//	//uracil//
+preA	RXN0-6565	RVB	//dihydrothymine//	//thymine//
+cueO	RXN0-2945	L2R	//Cu(I)//O2//	//Cu(II)//
+cueO	RXN0-2943	L2R	//2-pyrocatechuate//O2//	//2-carboxymuconate//
+cueO	RXN0-1483	L2R	//Fe+2//O2//	//fe(iii)//
+cueO	RXN-17944	RVB	//DMP//O2//	//TMPQ//
+cdh	CDPDIGLYPYPHOSPHA-RXN	L2R	//CDP-diglyceride//	//a lipid//CMP//
+rep	RXN-11135	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+hinT	RXN0-4121	L2R	//GMP-lysine//	//GMP//N-alpha-acetyl lysine methyl ester//
+dnaE	DNA-DIRECTED-DNA-POLYMERASE-RXN	L2R	//a deoxynucleotide//[DNA]//	//PP//[DNA]//
+yihX	GLUCOSE-1-PHOSPHAT-RXN	L2R	//cori ester//	//|Pi|//aldehyde or ketone//
+adeD	ADENINE-DEAMINASE-RXN	L2R	//adenine//	//ammonium//hypoxanthine//
+adeD	CATAL-RXN	L2R	//perhydrol//	//O2//
+yhdE	RXN0-5107	L2R	//TTP//	//TMP//PP//
+yhdE	RXN-14139	L2R	//UTP//	//UMP//PP//
+tag	RXN0-5189	L2R	//a base(2)//	//an apurinic site within DNA//3-methyladenine//
+mutH	RXN0-2625	L2R	//a mismatched DNA base pair//	//a properly matched DNA base pair//
+tesB	ACYL-COA-HYDROLASE-RXN	L2R	//an ester//	//CoA//acid//
+tesB	RXN-14251	L2R	//L-3-hydroxybutyryl-CoA//	//(S)-hydroxybutanoate//CoA//
+tesB	RXN-14255	L2R	//OH-butyryl-CoA//	//D-3-hydroxybutyrate//CoA//
+recQ	RXN-11135	L2R	//a polynucleotide//	//|Pi|//a polynucleotide//
+mutM	RXN-18435	L2R	//a base(2)//	//8-oxoguanine//an apurinic site within DNA//
+mutM	3.2.2.23-RXN	L2R	//a base(2)//	//N-(2,4-diamino-6-hydroxypyrimidin-5-yl)-N-methylformamide//an apurinic site within DNA//
+yiaY	THREODEHYD-RXN	L2R	//thr//	//3-oxothreonine//
+recF	RXN0-2606	L2R	//an unstable RecA filament-DNA complex//	//a stabilized RecA filament-DNA complex//
+phr	RXN-19025	L2R	//a DNA containing cyclobutane_dTdT//h&nu;//	//a DNA thymidine//
+phr	RXN-19026	L2R	//cyclobutane_dCdC//h&nu;//	//a DNA cytidine//
+phr	DEOXYRIBODIPYRIMIDINE-PHOTOLYASE-RXN	L2R	//a dimer of non-adjacent 2'-deoxycytidine and thymidine in DNA//h&nu;//	//a DNA cytidine//a DNA thymidine//
+fsaB	RXN0-313	RVB	//F6P//	//glycerone//GAP//
+mutS	RXN0-2625	L2R	//a mismatched DNA base pair//	//a properly matched DNA base pair//
+recR	RXN0-2606	L2R	//an unstable RecA filament-DNA complex//	//a stabilized RecA filament-DNA complex//
+alkA	3.2.2.21-RXN	L2R	//an alkylated DNA//	//a DNA containing an AP site//a base(2)//
+alkB	RXN-18737	L2R	//a base(2)//ketoglutarate//O2//	//a ribonucleotide//CO2//formol//suc//
+alkB	RXN-18738	L2R	//a base(2)//ketoglutarate//O2//	//a base(2)//CO2//formol//suc//
+alkB	RXN0-986	L2R	//a base(2)//ketoglutarate//O2//	//a ribonucleotide//ethanal//suc//CO2//
+alkB	RXN0-7275	L2R	//a base(2)//ketoglutarate//O2//	//a ribonucleotide//glyoxal//suc//CO2//
+alkB	RXN0-7280	L2R	//1-methyl-dATP//ketoglutarate//O2//	//dATP//formol//suc//CO2//
+alkB	RXN-18739	L2R	//1-methyl-dAMP//ketoglutarate//O2//	//dAMP//formol//suc//CO2//
+yceF	RXN0-7079	L2R	//7-methyl-GTP//	//7-methylguanosine-5'-phosphate//PP//
+mug	RXN0-1922	L2R	//DNA containing a base with lesion//	//a DNA containing an AP site//a base(2)//
+gph	GPH-RXN	L2R	//2-P-glycolate//	//glycolate//|Pi|//
+nudF	RXN0-7309	L2R	//DPP//	//prenyl phosphate//|Pi|//
+nudF	RXN0-1441	L2R	//ADP-D-ribose//	//D-ribofuranose 5-phosphate//
+nudF	ADPSUGPPHOSPHAT-RXN	L2R	//a modified nucleotide//	//cori ester//
+mutY	RXN0-2661	L2R	//DNA with A-GO mismatch//	//an apurinic site within DNA//adenine//
+ruvC	3.1.22.4-RXN	L2R	//DNA combined with exogenous DNA to form a recombinational junction//	//resolution of recombinational junction formation of two intact strands//
+ligA	DNA-LIGASE-NAD+-RXN	L2R	//a [DNA]-3'-hydroxyl//a 5'-phospho-[DNA]//	//[DNA]//NMN//
+ligA	RXN-17920	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//NMN//
+ligA	RXN-17918	L2R	//an amino acid or its derivative//a 5'-phospho-[DNA]//	//A5'pp5'DNA//an amino acid or its derivative//
+ligA	RXN-17919	L2R	//A5'pp5'DNA//a [DNA]-3'-hydroxyl//	//[DNA]//
+mutL	RXN0-2625	L2R	//a mismatched DNA base pair//	//a properly matched DNA base pair//
+recO	RXN0-2606	L2R	//an unstable RecA filament-DNA complex//	//a stabilized RecA filament-DNA complex//
+ung	RXN0-2584	L2R	//a uracil in DNA//	//an apyrimidinic site in DNA//uracil//
+ligB	DNA-LIGASE-NAD+-RXN	L2R	//a [DNA]-3'-hydroxyl//a 5'-phospho-[DNA]//	//[DNA]//NMN//
+ligB	RXN-17920	L2R	//an amino acid or its derivative//	//an amino acid or its derivative//NMN//
+ligB	RXN-17918	L2R	//an amino acid or its derivative//a 5'-phospho-[DNA]//	//A5'pp5'DNA//an amino acid or its derivative//
+ligB	RXN-17919	L2R	//A5'pp5'DNA//a [DNA]-3'-hydroxyl//	//[DNA]//
+rpoB	DNA-DIRECTED-RNA-POLYMERASE-RXN	RVB	//NTP//a polynucleotide//	//PP//a polynucleotide//
+rpoC	DNA-DIRECTED-RNA-POLYMERASE-RXN	RVB	//NTP//a polynucleotide//	//PP//a polynucleotide//
+gyrA	5.99.1.3-RXN	RVB	//a polynucleotide//	//a polynucleotide//|Pi|//
+topA	5.99.1.2-RXN	RVB	//a polynucleotide//	//a polynucleotide//
+gyrB	5.99.1.3-RXN	RVB	//a polynucleotide//	//a polynucleotide//|Pi|//
+topB	5.99.1.2-RXN	RVB	//a polynucleotide//	//a polynucleotide//
+rpoA	DNA-DIRECTED-RNA-POLYMERASE-RXN	RVB	//NTP//a polynucleotide//	//PP//a polynucleotide//
+rlmA	RXN-11573	L2R	//SAM//a base(2)//	//a base(2)//SAH//
+tadA	RXN0-1081	L2R	//a ribonucleotide//	//an inosine in tRNA//ammonium//
+bcsG	RXN-19630	RVB	//a lipid//all carbohydrates//	//an ester//all carbohydrates//
+rluD	RXN-11837	L2R	//a ribonucleotide//	//a ribonucleotide//
+dusB	RXN0-1281	L2R	//a ribonucleotide//	//a ribonucleotide//
+queA	RXN0-1342	L2R	//SAM//a base(2)//	//a ribonucleotide//adenine//met//
+dusA	RXN0-1281	L2R	//a ribonucleotide//	//a ribonucleotide//
+rlmD	RXN-11601	L2R	//SAM//a base(2)//	//a base(2)//SAH//
