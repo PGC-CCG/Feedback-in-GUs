@@ -61,11 +61,11 @@ def feedback(dir,conf_dic):
                 # print(TF)
                 for line in rp:
                     obj = line.strip().split("\t")[1]
-                    obj = re.sub(r"[\"&;|]|(</?.>)|_Ext",'',obj)
+                    obj2 = re.sub(r"[\"&;|]|(</?.>)|_Ext",'',obj)
                     # If an effector contains the object as a string
                     # matches = [cmp for cmp in conf_dic[TF] if obj in cmp]
-                    obj2 = re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",obj)
-                    matches = [cmp for cmp in conf_dic[TF] if obj2 == re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",cmp)]
+                    obj3 = re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",obj2)
+                    matches = [cmp for cmp in conf_dic[TF] if obj3 == re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",cmp)]
                     if len(matches) > 0:
                         for effector in matches:
                             matches_dic[TF][effector].add(obj)
@@ -79,6 +79,22 @@ def feedback(dir,conf_dic):
                     #         matches_dic[TF][effector].add(obj)
     # Return dictionary with TFs with exact feedback and dictionary of possible feedback
     return feedback_dic,TFs_in_net,matches_dic
+
+def transport(feed_dic):
+    transported = defaultdict(lambda: defaultdict(int))
+    for TF_file in os.listdir(os.path.join(dir+"/Modelled_GUs")):
+        tf=TF_file.split("_")[0]
+        with open(TF_file) as modelled:
+            for line in modelled:
+                # Skip first line - header
+                if re.match("^#",line):
+                    continue
+                line=line.split("\t")strip("\n")
+                rcts=line[0].split(",")
+                pdt=line[1].split(",")
+                rx=line[2]
+                
+
 
 feed_dic,TF_list,matches = feedback(GU_dir,conformation_dic)
 
