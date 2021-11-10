@@ -39,7 +39,7 @@ with open(conformationf) as conf:
 # Actually Calculating the feedback
 def feedback(dir,conf_dic):
     TFs_in_net = set()
-    feedback_dic = defaultdict(list) #Dictionary to keep track of how many loops are found
+    feedback_dic = defaultdict(lambda: defaultdict(int)) #Dictionary to keep track of how many loops are found
     matches_dic = defaultdict(lambda: defaultdict(set)) #To keep track of possible matches if not exact
     for TF in os.listdir(os.path.join(dir+"/GUs_secondary_reactions")):
         TFs_in_net.add(TF) #Added TF to the set
@@ -49,29 +49,35 @@ def feedback(dir,conf_dic):
             found = [] #Flag and to not repeat same object
             matches = []
             for line in rp:
+                transp=0
                 obj = line.strip().split("\t")[1]
+                if re.search("_Ext",obj):
+                    transp=1
                 obj = re.sub(r"[\"&;|]|(</?.>)|_Ext",'',obj)
                 # Exact match
-                if (obj in conf_dic[TF]) and (obj not in found):
+                if (((obj in conf_dic[TF]) and (obj not in found)) or ((obj in conf_dic[TF]) and (transp == 1) and (feedback_dic[TF][obj] == 0))):
                     found.append(obj)
-                    feedback_dic[TF].append(obj)
+                    print(TF, obj, transp)
+                    feedback_dic[TF][obj] = transp
         # If no feedback found, search for closest compound           
         if len(found) == 0:
             with open(os.path.join(dir+"GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
                 # print(TF)
                 for line in rp:
+                    transp = 0
                     obj = line.strip().split("\t")[1]
-                    obj2 = re.sub(r"[\"&;|]|(</?.>)|_Ext",'',obj)
+                    if re.search("_Ext",obj):
+                        transp=1
+                    obj = re.sub(r"[\"&;|]|(</?.>)|_Ext",'',obj)
                     # If an effector contains the object as a string
-                    # matches = [cmp for cmp in conf_dic[TF] if obj in cmp]
-                    obj3 = re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",obj2)
-                    matches = [cmp for cmp in conf_dic[TF] if obj3 == re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",cmp)]
+                    obj2 = re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",obj)
+                    matches = [cmp for cmp in conf_dic[TF] if obj2 == re.sub(r"L-?|D-?|alpha[,-]|beta[,-]|gamma[,-]|omega[,-]|delta[,-]|","",cmp)]
                     if len(matches) > 0:
                         for effector in matches:
                             matches_dic[TF][effector].add(obj)
-                            if obj not in feedback_dic[TF]:
-                                # print(effector,obj)
-                                feedback_dic[TF].append(obj)
+                            if ((obj not in feedback_dic[TF].keys()) or (transp == 1 and (obj in feedback_dic[TF].keys()) and feedback_dic[TF][obj] == 0)):
+                                print(TF, obj, transp)
+                                feedback_dic[TF][obj] = transp
                     # If an object contains the effector as a string
                     # matches2 = [cmp for cmp in conf_dic[TF] if cmp in obj]
                     # if len(matches2) > 0:
@@ -80,28 +86,12 @@ def feedback(dir,conf_dic):
     # Return dictionary with TFs with exact feedback and dictionary of possible feedback
     return feedback_dic,TFs_in_net,matches_dic
 
-def transport(feed_dic):
-    transported = defaultdict(lambda: defaultdict(int))
-    for TF_file in os.listdir(os.path.join(dir+"/Modelled_GUs")):
-        tf=TF_file.split("_")[0]
-        with open(TF_file) as modelled:
-            for line in modelled:
-                # Skip first line - header
-                if re.match("^#",line):
-                    continue
-                line=line.split("\t")strip("\n")
-                rcts=line[0].split(",")
-                pdt=line[1].split(",")
-                rx=line[2]
-                
-
-
 feed_dic,TF_list,matches = feedback(GU_dir,conformation_dic)
 
 with open(os.path.join(outputdir+"TFs_with_feedback.txt"),"w") as fd:
-    fd.write("# TF\tEfector(s)\tNo. of Efectors\tMatches\tNo. of matches\n")
+    fd.write("# TF\tEfector(s)\tNo. of Efectors\tMatches\tNo. of matches\tTransported Effectors\n")
     for TF in feed_dic:
-        fd.write(str(TF)+"\t"+",".join(conformation_dic2[TF])+"\t"+str(len(conformation_dic2[TF]))+"\t"+",".join(feed_dic[TF])+"\t"+str(len(feed_dic[TF]))+"\n")
+        fd.write(str(TF)+"\t"+",".join(conformation_dic2[TF])+"\t"+str(len(conformation_dic2[TF]))+"\t"+",".join(feed_dic[TF].keys())+"\t"+str(len(feed_dic[TF].keys()))+"\t"+",".join([key for key in feed_dic[TF].keys() if feed_dic[TF][key]==1])+"\n")
 
 with open(os.path.join(outputdir+"TFs_no_feedback.txt"),"w") as nf:
     nf.write("# TF\tEfector\n")
