@@ -45,7 +45,7 @@ def feedback(dir,conf_dic):
         TFs_in_net.add(TF) #Added TF to the set
         if TF not in conf_dic.keys():
             continue
-        with open(os.path.join(dir+"GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
+        with open(os.path.join(dir+"/GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
             found = [] #Flag and to not repeat same object
             matches = []
             for line in rp:
@@ -57,11 +57,10 @@ def feedback(dir,conf_dic):
                 # Exact match
                 if (((obj in conf_dic[TF]) and (obj not in found)) or ((obj in conf_dic[TF]) and (transp == 1) and (feedback_dic[TF][obj] == 0))):
                     found.append(obj)
-                    print(TF, obj, transp)
                     feedback_dic[TF][obj] = transp
         # If no feedback found, search for closest compound           
         if len(found) == 0:
-            with open(os.path.join(dir+"GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
+            with open(os.path.join(dir+"/GUs_secondary_reactions/"+TF+"/reactants_products.txt")) as rp:
                 # print(TF)
                 for line in rp:
                     transp = 0
@@ -76,7 +75,6 @@ def feedback(dir,conf_dic):
                         for effector in matches:
                             matches_dic[TF][effector].add(obj)
                             if ((obj not in feedback_dic[TF].keys()) or (transp == 1 and (obj in feedback_dic[TF].keys()) and feedback_dic[TF][obj] == 0)):
-                                print(TF, obj, transp)
                                 feedback_dic[TF][obj] = transp
                     # If an object contains the effector as a string
                     # matches2 = [cmp for cmp in conf_dic[TF] if cmp in obj]
@@ -88,12 +86,12 @@ def feedback(dir,conf_dic):
 
 feed_dic,TF_list,matches = feedback(GU_dir,conformation_dic)
 
-with open(os.path.join(outputdir+"TFs_with_feedback.txt"),"w") as fd:
+with open(os.path.join(outputdir+"/TFs_with_feedback.txt"),"w") as fd:
     fd.write("# TF\tEfector(s)\tNo. of Efectors\tMatches\tNo. of matches\tTransported Effectors\n")
     for TF in feed_dic:
         fd.write(str(TF)+"\t"+",".join(conformation_dic2[TF])+"\t"+str(len(conformation_dic2[TF]))+"\t"+",".join(feed_dic[TF].keys())+"\t"+str(len(feed_dic[TF].keys()))+"\t"+",".join([key for key in feed_dic[TF].keys() if feed_dic[TF][key]==1])+"\n")
 
-with open(os.path.join(outputdir+"TFs_no_feedback.txt"),"w") as nf:
+with open(os.path.join(outputdir+"/TFs_no_feedback.txt"),"w") as nf:
     nf.write("# TF\tEfector\n")
     TFs=set(conformation_dic.keys()).intersection(TF_list)
     # nf_set=set(conformation_dic.keys()).difference(set(feed_dic.keys()))
@@ -101,11 +99,14 @@ with open(os.path.join(outputdir+"TFs_no_feedback.txt"),"w") as nf:
     for TF in nf_set:
         nf.write(str(TF)+"\t"+list(conformation_dic[TF])[0]+"\n")
 
-with open(os.path.join(outputdir+"TFs_feedback_possible_matches.txt"),"w") as pm:
+with open(os.path.join(outputdir+"/TFs_feedback_possible_matches.txt"),"w") as pm:
     pm.write("# TF\tEf.synonym\tmatch\n")
     for TF in matches:
         for syn in matches[TF]:
             pm.write(str(TF)+"\t"+str(syn)+"\t"+",".join(matches[TF][syn])+"\n")
 
-print("Percentage of feedback in the network is: ")
-print("Done")
+print("Number of TFs with GU: "+str(len(TF_list)))
+print("Number of TFs with known effector: "+str(len(effector_dic.keys())))
+print("Number of TFs with feedback: "+str(len(feed_dic.keys())))
+print("Percentage of feedback in the network is: "+str(len(feed_dic.keys()) / len(effector_dic.keys())))
+print("\nDone")

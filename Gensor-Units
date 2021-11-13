@@ -20,7 +20,7 @@ function GU-help()
 {
    # Display Help
    echo
-   echo "Syntax: Gensor-Units Gensor -n [path to Network] -o [name of output directory]"
+   echo "Syntax: Gensor-Units Gensor -n <path to Network> -o <name of output directory>"
    echo "Commands:"
    echo "   Gensor   Builds Gensor Units of the TFs in the regulatory network"
    echo
@@ -35,7 +35,7 @@ function Feedback-help()
 {
    # Display Help
    echo
-   echo "Syntax: Gensor-Units Feedback -gu [path to GU directory]"
+   echo "Syntax: Gensor-Units Feedback -g <path to GU directory>"
    echo "Commands:"
    echo "   Feedback   Searches for feedback in the Gensor Units provided"
    echo
@@ -62,8 +62,8 @@ function Gensor-units
 function feedback
 {
    echo "Calculating feedback"
-   GUdir=$1
-   outdir=$2
+   GUdir=${1%/}
+   outdir=${2%/}
    ./bin/search_feedback.py $GUdir $outdir
 }
 
