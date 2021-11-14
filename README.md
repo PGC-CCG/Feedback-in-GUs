@@ -39,4 +39,4 @@ Original scripts to build Gensor Units can be found in: [This Repository](https:
 
 ## Authors 
 - Gensor Unit builing - Daniela Ledezma-Tejeida
-- Feedback Calculation and updates - Georgette Femerling-Romero
+- Feedback Calculation and updates - Georgette Femerling
