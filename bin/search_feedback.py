@@ -24,6 +24,9 @@ with open(conformationf) as conf:
             continue
         line = line.strip("\n").strip("\r").split("\t")
         TF = line[0]
+        # Skip TFs that should not be in the analysis
+        if(TF in ["FNR","DeoR","SoxR","TorR","Ada","IscR","HypT","Mlc"]):
+            continue
         effector_dic[TF]+=1
         # Remove weird symbols from effector name
         Effector_name = re.sub(r"[\"&;|]|(</?.+?>)","",line[7])
@@ -41,6 +44,7 @@ def feedback(dir,conf_dic):
     TFs_in_net = set()
     feedback_dic = defaultdict(lambda: defaultdict(int)) #Dictionary to keep track of how many loops are found
     matches_dic = defaultdict(lambda: defaultdict(set)) #To keep track of possible matches if not exact
+    pos_feedback_dic = defaultdict(lambda: defaultdict(int)) #Dictionary to keep track of how many loops are found
     for TF in os.listdir(os.path.join(dir+"/GUs_secondary_reactions")):
         TFs_in_net.add(TF) #Added TF to the set
         if TF not in conf_dic.keys():
@@ -74,17 +78,17 @@ def feedback(dir,conf_dic):
                     if len(matches) > 0:
                         for effector in matches:
                             matches_dic[TF][effector].add(obj)
-                            if ((obj not in feedback_dic[TF].keys()) or (transp == 1 and (obj in feedback_dic[TF].keys()) and feedback_dic[TF][obj] == 0)):
-                                feedback_dic[TF][obj] = transp
+                            if ((obj not in pos_feedback_dic[TF].keys()) or (transp == 1 and (obj in pos_feedback_dic[TF].keys()) and pos_feedback_dic[TF][obj] == 0)):
+                                pos_feedback_dic[TF][obj] = transp
                     # If an object contains the effector as a string
                     # matches2 = [cmp for cmp in conf_dic[TF] if cmp in obj]
                     # if len(matches2) > 0:
                     #     for effector in matches2:
                     #         matches_dic[TF][effector].add(obj)
     # Return dictionary with TFs with exact feedback and dictionary of possible feedback
-    return feedback_dic,TFs_in_net,matches_dic
+    return feedback_dic,pos_feedback_dic,TFs_in_net,matches_dic
 
-feed_dic,TF_list,matches = feedback(GU_dir,conformation_dic)
+feed_dic,pos_feed_dic,TF_list,matches = feedback(GU_dir,conformation_dic)
 
 with open(os.path.join(outputdir+"/TFs_with_feedback.txt"),"w") as fd:
     fd.write("# TF\tEfector(s)\tNo. of Efectors\tMatches\tNo. of matches\tTransported Effectors\n")
@@ -97,7 +101,7 @@ with open(os.path.join(outputdir+"/TFs_no_feedback.txt"),"w") as nf:
     # nf_set=set(conformation_dic.keys()).difference(set(feed_dic.keys()))
     nf_set=TFs.difference(set(feed_dic.keys()))
     for TF in nf_set:
-        nf.write(str(TF)+"\t"+list(conformation_dic[TF])[0]+"\n")
+        nf.write(str(TF)+"\t"+",".join(list(conformation_dic[TF]))+"\n")
 
 with open(os.path.join(outputdir+"/TFs_feedback_possible_matches.txt"),"w") as pm:
     pm.write("# TF\tEf.synonym\tmatch\n")
@@ -105,8 +109,15 @@ with open(os.path.join(outputdir+"/TFs_feedback_possible_matches.txt"),"w") as p
         for syn in matches[TF]:
             pm.write(str(TF)+"\t"+str(syn)+"\t"+",".join(matches[TF][syn])+"\n")
 
-print("Number of TFs with GU: "+str(len(TF_list)))
-print("Number of TFs with known effector: "+str(len(effector_dic.keys())))
-print("Number of TFs with feedback: "+str(len(feed_dic.keys())))
-print("Percentage of feedback in the network is: "+str(len(feed_dic.keys()) / len(effector_dic.keys())))
+eff_GU=set(effector_dic.keys()).intersection(set(TF_list))
+
+with open(os.path.join(outputdir+"/feedback_results.txt"),"w") as results:
+    results.write("Number of TFs with GU: "+str(len(TF_list))+"\n")
+    results.write("Number of TFs with known effector: "+str(len(effector_dic.keys()))+"\n")
+    results.write("Number of TFs with known effector and GU: "+str(len(eff_GU))+"\n")
+    results.write("Number of TFs with feedback: "+str(len(feed_dic.keys()))+"\n")
+    results.write("Percentage of feedback in the network is: "+str(len(feed_dic.keys()) / len(eff_GU))+"\n")
+
+print("Percentage of feedback in the network is: "+str(len(feed_dic.keys()) / len(eff_GU)))
+
 print("\nDone")
